@@ -1,0 +1,1001 @@
+lead_id,created_at,customer_name,email,phone,project_type,budget_dkk,location,source,status,assigned_to,estimated_value_dkk,response_time_hours,notes
+LEAD-00001,2026-03-21 07:22,Oscar Hansen,oscar.hansen@example.dk,+45 52 25 65 82,Flooring,53000,Frederiksberg,Facebook,Unresponsive,Anna Larsen,59500,24.9,Interested in a sustainable material option.
+LEAD-00002,2026-04-04 16:07,Clara Sørensen,clara.sørensen@example.dk,+45 57 10 24 34,Painting,41000,Vesterbro,Facebook,Contacted,Jonas Berg,45500,54.6,Has inspiration photos ready.
+LEAD-00003,2026-04-28 15:25,Oscar Hansen,oscar.hansen@example.dk,+45 52 25 65 82,Flooring,78000,Nørrebro,Google,Won,Jonas Berg,78500,59.5,Wants to compare a few layout options.
+LEAD-00004,2025-10-29 03:01,Alma Poulsen,alma.poulsen@example.dk,+45 51 78 79 16,Flooring,92000,Østerbro,Website,New,,86500,,Wants to compare a few layout options.
+LEAD-00005,2025-11-30 18:46,Emma Pedersen,emma.pedersen@example.dk,+45 48 97 46 74,Kitchen,196000,Hellerup,Facebook,Unresponsive,Jonas Berg,187000,49.8,Has inspiration photos ready.
+LEAD-00006,2026-06-24 12:35,Anders Pedersen,anders.pedersen@example.dk,+45 38 55 16 29,Painting,27000,Vesterbro,Website,New,,26000,,Looking for an estimate before summer.
+LEAD-00007,2025-12-21 17:04,Lukas Poulsen,lukas.poulsen@example.dk,+45 46 88 74 77,Full renovation,543000,Valby,Referral,New,,495500,,Looking for an estimate before summer.
+LEAD-00008,2026-03-16 16:14,Oscar Nielsen,oscar.nielsen@example.dk,+45 30 35 93 38,Kitchen,283000,Hellerup,Website,Contacted,Anna Larsen,266000,9.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00009,2026-08-05 12:52,Anders Pedersen,anders.pedersen@example.dk,+45 38 55 16 29,Kitchen,197000,Østerbro,Google,Qualified,Sofie Holm,186000,29.2,Would like an on-site assessment.
+LEAD-00010,2025-12-05 09:19,Freja Larsen,freja.larsen@example.dk,+45 44 95 54 79,Full renovation,479000,Brønshøj,Facebook,New,,450500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00011,2026-06-17 15:33,Alma Poulsen,alma.poulsen@example.dk,+45 51 78 79 16,Kitchen,191000,Vanløse,Facebook,Lost,Mads Nielsen,174000,10.2,Would like an on-site assessment.
+LEAD-00012,2026-09-20 21:03,Anna Larsen,anna.larsen@example.dk,+45 24 35 62 93,Full renovation,260000,Nørrebro,Referral,Quoted,Jonas Berg,280500,49.8,Would like an on-site assessment.
+LEAD-00013,2026-03-29 14:55,Noah Rasmussen,noah.rasmussen@example.dk,+45 46 14 73 47,Bathroom,54000,Nørrebro,Google,Won,Mads Nielsen,53000,35.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00014,2026-03-04 03:21,Freja Thomsen,freja.thomsen@example.dk,+45 40 19 86 62,Flooring,39000,Vanløse,Website,Contacted,Anna Larsen,42000,12.3,Has inspiration photos ready.
+LEAD-00015,2025-10-29 13:28,Victor Nielsen,victor.nielsen@example.dk,+45 39 54 50 99,Flooring,127000,Brønshøj,Google,Unresponsive,Mads Nielsen,139000,6.5,Looking for an estimate before summer.
+LEAD-00016,2026-07-04 21:11,Clara Sørensen,clara.sørensen@example.dk,+45 57 10 24 34,Full renovation,252000,Hellerup,Google,Quoted,Jonas Berg,239000,42.2,Interested in a sustainable material option.
+LEAD-00017,2026-09-23 22:41,William Nielsen,william.nielsen@example.dk,+45 27 84 48 35,Painting,86000,Amager,Google,New,,93500,,Would like an on-site assessment.
+LEAD-00018,2025-11-14 22:31,Lukas Thomsen,lukas.thomsen@example.dk,+45 27 54 14 63,Painting,35000,Amager,Google,Unresponsive,Anna Larsen,37000,13.1,Has inspiration photos ready.
+LEAD-00019,2025-12-19 19:10,Anders Larsen,anders.larsen@example.dk,+45 21 15 42 15,Painting,20000,Nørrebro,Google,New,,20000,,Has inspiration photos ready.
+LEAD-00020,2025-12-13 15:25,Sara Christensen,sara.christensen@example.dk,+45 42 46 39 42,Kitchen,223000,Østerbro,Referral,Lost,Jonas Berg,226500,8.6,Has inspiration photos ready.
+LEAD-00021,2025-11-05 15:03,Anders Christensen,anders.christensen@example.dk,+45 50 86 23 22,Painting,37000,Nørrebro,Google,Contacted,Sofie Holm,40000,41.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00022,2025-10-02 16:09,Sofie Larsen,sofie.larsen@example.dk,+45 47 26 31 56,Kitchen,156000,Brønshøj,Referral,Lost,Jonas Berg,168500,22.6,Would like an on-site assessment.
+LEAD-00023,2026-03-18 04:16,Emil Thomsen,emil.thomsen@example.dk,+45 39 79 95 37,Kitchen,82000,Vanløse,Referral,Lost,Sofie Holm,87000,15.3,Would like an on-site assessment.
+LEAD-00024,2026-09-02 22:07,Mathilde Thomsen,mathilde.thomsen@example.dk,+45 29 51 36 70,Kitchen,282000,Nørrebro,Website,Won,Mads Nielsen,278500,46.2,Has inspiration photos ready.
+LEAD-00025,2025-11-10 13:52,Jonas Rasmussen,jonas.rasmussen@example.dk,+45 53 87 49 17,Flooring,119000,Copenhagen K,Website,Quoted,Sofie Holm,131000,28.9,Would like an on-site assessment.
+LEAD-00026,2025-11-27 03:04,Laura Olsen,laura.olsen@example.dk,+45 46 49 28 61,Full renovation,481000,Copenhagen K,Google,Quoted,Anna Larsen,434500,34.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00027,2026-05-08 03:30,Alma Madsen,alma.madsen@example.dk,+45 42 22 98 15,kitchen,138000,Nørrebro,Google,Lost,Sofie Holm,132000,17.3,Wants to compare a few layout options.
+LEAD-00028,2026-05-04 06:16,  SARA KRISTENSEN  ,sara.kristensen@example.dk,+45 50 82 69 15,Bathroom,174000,Amager,Instagram,New,,169500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00029,2026-05-11 03:53,Laura Olsen,laura.olsen@example.dk,+45 49 14 24 18,Kitchen,127000,Copenhagen K,Website,Unresponsive,Anna Larsen,123000,66.2,Would like an on-site assessment.
+LEAD-00030,2026-01-08 04:18,William Larsen,william.larsen@example.dk,+45 33 30 48 53,Painting,60000,Valby,Website,Contacted,Sofie Holm,61000,31.4,Has inspiration photos ready.
+LEAD-00031,2026-02-15 08:48,Ida Jørgensen,ida.jørgensen@example.dk,+45 30 16 10 43,Bathroom,128000,Frederiksberg,Partner,Qualified,Anna Larsen,146000,3.5,Would like an on-site assessment.
+LEAD-00032,2026-05-15 04:16,Oscar Larsen,oscar.larsen@example.dk,+45 55 71 89 70,Flooring,95000,Vesterbro,Google,Qualified,Mads Nielsen,96000,36.4,Has inspiration photos ready.
+LEAD-00033,2026-07-12 21:47,Alma Jensen,alma.jensen@example.dk,+45 42 75 75 69,Flooring,116000,Amager,Facebook,Lost,Jonas Berg,110000,44.6,Looking for an estimate before summer.
+LEAD-00034,2026-02-09 01:04,Clara Kristensen,clara.kristensen@example.dk,+45 48 59 61 39,Bathroom,78000,Valby,Partner,Quoted,Mads Nielsen,71500,28.0,Has inspiration photos ready.
+LEAD-00035,2026-04-17 01:36,Ida Rasmussen,ida.rasmussen@example.dk,+45 50 81 57 15,Painting,87000,Nørrebro,Google,New,,100000,,Looking for an estimate before summer.
+LEAD-00036,2026-06-26 23:53,Freja Madsen,freja.madsen@example.dk,+45 53 92 16 30,Painting,73000,Nørrebro,Facebook,Contacted,Anna Larsen,72000,67.9,Interested in a sustainable material option.
+LEAD-00037,2025-12-28 12:37,Mathilde Poulsen,mathilde.poulsen@example.dk,+45 28 18 18 69,Kitchen,210000,Østerbro,Website,Lost,Mads Nielsen,196000,36.5,Would like an on-site assessment.
+LEAD-00038,2026-05-09 17:30,Ida Olsen,ida.olsen@example.dk,+45 50 20 87 71,Full renovation,407000,Østerbro,Google,New,,389000,,Looking for an estimate before summer.
+LEAD-00039,2026-08-31 02:49,Nikolaj Madsen,nikolaj.madsen@example.dk,+45 42 63 83 52,Painting,86000,Østerbro,Website,Won,Sofie Holm,85500,40.7,Looking for an estimate before summer.
+LEAD-00040,2026-05-13 04:23,William Sørensen,william.sørensen@example.dk,+45 52 45 35 34,Kitchen,178000,Vesterbro,Facebook,Won,Jonas Berg,168500,5.5,Looking for an estimate before summer.
+LEAD-00041,2026-08-13 11:28,Jonas Christensen,jonas.christensen@example.dk,,Full renovation,627000,Copenhagen K,Referral,Won,Anna Larsen,603500,11.0,Interested in a sustainable material option.
+LEAD-00042,2026-09-11 13:34,Noah Thomsen,noah.thomsen@example.dk,+45 36 21 29 10,Bathroom,137000,Copenhagen K,Google,Quoted,Anna Larsen,137000,64.3,Wants to compare a few layout options.
+LEAD-00043,2026-09-20 12:32,Clara Poulsen,clara.poulsen@example.dk,+45 28 13 33 58,Kitchen,99000,Frederiksberg,Website,Lost,Mads Nielsen,90000,61.4,Interested in a sustainable material option.
+LEAD-00044,2026-01-18 15:37,Anders Christensen,anders.christensen@example.dk,+45 55 52 45 38,Painting,52000,Vanløse,Instagram,Quoted,Jonas Berg,56000,7.9,Wants to compare a few layout options.
+LEAD-00045,2026-09-27 22:27,Mathilde Thomsen,mathilde.thomsen@example.dk,+45 29 51 36 70,Kitchen,278000,Vanløse,Referral,New,,277000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00046,2025-10-05 22:26,Anders Nielsen,anders.nielsen@example.dk,,Kitchen,230000,Brønshøj,Instagram,Qualified,Jonas Berg,217500,59.2,Interested in a sustainable material option.
+LEAD-00047,2026-09-27 19:40,Clara Jensen,clara.jensen@example.dk,+45 24 19 14 66,Kitchen,208000,Valby,Google,Lost,Anna Larsen,196000,65.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00048,2026-04-15 02:19,Lukas Olsen,lukas.olsen@example.dk,+45 39 88 46 38,Bathroom,146000,Brønshøj,Website,Lost,Jonas Berg,150500,15.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00049,2026-04-06 01:22,Oscar Sørensen,oscar.sørensen@example.dk,,Kitchen,88000,Vanløse,Facebook,Qualified,Mads Nielsen,89000,13.4,Interested in a sustainable material option.
+LEAD-00050,2026-04-21 00:16,William Pedersen,william.pedersen@example.dk,+45 42 95 77 82,Bathroom,80000,Frederiksberg,Partner,Qualified,Sofie Holm,86500,8.6,Looking for an estimate before summer.
+LEAD-00051,2026-04-07 08:31,Emil Jørgensen,emil.jørgensen@example.dk,+45 25 85 76 96,Painting,14000,Amager,Website,New,,15000,,Looking for an estimate before summer.
+LEAD-00052,2026-01-01 19:02,Alma Pedersen,alma.pedersen@example.dk,+45 44 25 78 36,Kitchen,84000,Vesterbro,Google,Qualified,Mads Nielsen,79000,21.5,Wants to compare a few layout options.
+LEAD-00053,2026-09-27 06:35,Noah Kristensen,noah.kristensen@example.dk,+45 51 33 70 72,Painting,24000,Vesterbro,Facebook,Quoted,Anna Larsen,26500,53.3,Looking for an estimate before summer.
+LEAD-00054,2025-12-15 11:30,Nikolaj Christensen,nikolaj.christensen@example.dk,,Kitchen,250000,Vanløse,Website,Contacted,Sofie Holm,258000,17.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00055,2026-08-09 08:12,William Poulsen,william.poulsen@example.dk,+45 56 20 42 88,Full renovation,308000,Frederiksberg,Google,Qualified,Anna Larsen,316000,59.7,Has inspiration photos ready.
+LEAD-00056,2026-09-22 07:43,William Andersen,william.andersen@example.dk,+45 38 63 70 30,Kitchen,292000,Vesterbro,Facebook,Quoted,Jonas Berg,313500,32.0,Looking for an estimate before summer.
+LEAD-00057,2026-07-23 23:07,Ida Nielsen,ida.nielsen@example.dk,+45 20 93 62 69,Flooring,84000,Amager,Google,Lost,Mads Nielsen,87500,4.5,Wants to compare a few layout options.
+LEAD-00058,2026-08-22 21:00,William Nielsen,william.nielsen@example.dk,+45 31 15 64 24,Bathroom,64000,Vanløse,Google,Contacted,Sofie Holm,60500,71.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00059,2026-01-12 19:52,Nikolaj Jørgensen,nikolaj.jørgensen@example.dk,+45 48 86 88 32,Kitchen,274000,Valby,Website,New,,251000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00060,2026-07-25 20:57,Clara Christensen,clara.christensen@example.dk,+45 40 65 34 17,Full renovation,403000,Vanløse,Referral,Contacted,Jonas Berg,368500,59.1,Interested in a sustainable material option.
+LEAD-00061,2026-04-14 09:49,Anders Larsen,anders.larsen@example.dk,+45 42 48 55 67,Kitchen,90000,Amager,Website,Quoted,Mads Nielsen,100000,34.7,Interested in a sustainable material option.
+LEAD-00062,2026-04-23 18:35,Emma Thomsen,emma.thomsen@example.dk,+45 26 26 94 67,Kitchen,181000,Vanløse,Referral,Won,Sofie Holm,170000,31.7,Wants to compare a few layout options.
+LEAD-00063,2026-06-02 08:00,Victor Madsen,victor.madsen@example.dk,+45 30 10 29 30,Bathroom,173000,Vesterbro,Google,Contacted,Mads Nielsen,182500,49.2,Interested in a sustainable material option.
+LEAD-00064,2026-09-13 18:00,Lukas Madsen,lukas.madsen@example.dk,+45 49 40 15 60,Full renovation,193000,Amager,Google,Lost,Jonas Berg,213000,14.0,Wants to compare a few layout options.
+LEAD-00065,2026-08-13 07:23,Alma Olsen,alma.olsen@example.dk,+45 39 61 45 15,Full renovation,415000,Amager,Website,Lost,Mads Nielsen,374500,10.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00066,2026-08-27 14:00,Victor Sørensen,victor.sørensen@example.dk,+45 25 50 22 78,Flooring,74000,Frederiksberg,Referral,Contacted,Anna Larsen,72500,22.0,Looking for an estimate before summer.
+LEAD-00067,2026-01-16 19:10,Oscar Kristensen,oscar.kristensen@example.dk,+45 33 39 31 64,Bathroom,61000,Hellerup,Google,New,,61500,,Would like an on-site assessment.
+LEAD-00068,2026-08-30 22:28,Noah Andersen,noah.andersen@example.dk,+45 27 85 60 39,Painting,81000,Hellerup,Google,Quoted,Mads Nielsen,73500,50.9,Looking for an estimate before summer.
+LEAD-00069,2026-01-19 21:32,Ida Jensen,ida.jensen@example.dk,+45 54 31 95 61,Bathroom,54000,Brønshøj,Website,Unresponsive,Mads Nielsen,57500,33.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00070,2026-05-07 22:12,Nikolaj Christensen,nikolaj.christensen@example.dk,+45 30 69 78 59,Painting,15000,Frederiksberg,Instagram,Quoted,Jonas Berg,14500,61.7,Has inspiration photos ready.
+LEAD-00071,2025-12-16 05:01,Emil Pedersen,emil.pedersen@example.dk,+45 48 51 49 29,Kitchen,251000,Amager,Instagram,Qualified,Anna Larsen,247000,55.3,Has inspiration photos ready.
+LEAD-00072,2026-03-12 04:07,Nikolaj Olsen,nikolaj.olsen@example.dk,+45 29 14 46 86,full renovation,386000,Brønshøj,Google,Won,Mads Nielsen,394500,40.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00073,2026-02-15 03:53,Alma Madsen,alma.madsen@example.dk,+45 55 93 61 76,Full renovation,690000,Valby,Google,Qualified,Mads Nielsen,658000,34.3,Looking for an estimate before summer.
+LEAD-00074,2026-02-15 17:30,Alma Nielsen,alma.nielsen@example.dk,,Full renovation,565000,Amager,Google,Contacted,Jonas Berg,644000,7.9,Interested in a sustainable material option.
+LEAD-00075,2026-08-23 22:30,Victor Andersen,victor.andersen@example.dk,+45 28 15 89 33,Kitchen,192000,Vanløse,Referral,Qualified,Jonas Berg,213000,26.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00076,2026-01-24 07:50,Noah Larsen,noah.larsen@example.dk,+45 23 80 11 41,Kitchen,136000,Østerbro,Google,Contacted,Mads Nielsen,155000,6.1,Has inspiration photos ready.
+LEAD-00077,2025-11-13 06:41,Alma Hansen,alma.hansen@example.dk,+45 57 81 95 66,Full renovation,842000,Amager,Facebook,Quoted,Jonas Berg,901500,58.6,Interested in a sustainable material option.
+LEAD-00078,2026-01-06 16:02,  FREJA LARSEN  ,freja.larsen@example.dk,+45 48 74 63 87,Kitchen,114000,Amager,Google,Won,Anna Larsen,114500,12.2,Would like an on-site assessment.
+LEAD-00079,2025-12-18 01:50,Ida Madsen,ida.madsen@example.dk,+45 23 85 58 51,Bathroom,109000,Copenhagen K,Instagram,Won,Sofie Holm,99500,19.0,Looking for an estimate before summer.
+LEAD-00080,2026-05-05 05:13,Jonas Pedersen,jonas.pedersen@example.dk,+45 50 15 14 97,Bathroom,100000,Frederiksberg,Referral,New,,109500,,Would like an on-site assessment.
+LEAD-00081,2026-09-14 23:28,Sofie Jørgensen,sofie.jørgensen@example.dk,+45 54 94 79 58,Bathroom,126000,Brønshøj,Google,Quoted,Jonas Berg,137000,34.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00082,2025-10-19 06:46,Anders Thomsen,anders.thomsen@example.dk,+45 35 34 81 73,Full renovation,707000,Nørrebro,Instagram,Quoted,Jonas Berg,715500,13.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00083,2026-08-19 18:40,Ida Jensen,ida.jensen@example.dk,+45 38 66 77 36,Kitchen,224000,Østerbro,Google,Qualified,Jonas Berg,229500,47.8,Looking for an estimate before summer.
+LEAD-00084,2026-08-06 20:10,Mikkel Hansen,mikkel.hansen@example.dk,+45 41 95 61 93,Bathroom,115000,Amager,Google,Won,Mads Nielsen,129500,38.4,Wants to compare a few layout options.
+LEAD-00085,2026-06-28 11:36,Sofie Hansen,sofie.hansen@example.dk,+45 28 37 61 52,Flooring,128000,Vanløse,Google,Contacted,Anna Larsen,142500,13.3,Interested in a sustainable material option.
+LEAD-00086,2026-06-21 03:14,Anders Olsen,anders.olsen@example.dk,+45 20 84 10 13,Bathroom,70000,Frederiksberg,Google,Qualified,Mads Nielsen,72000,1.3,Wants to compare a few layout options.
+LEAD-00087,2026-06-30 07:52,Victor Sørensen,victor.sørensen@example.dk,+45 21 44 66 30,Kitchen,282000,Hellerup,Facebook,Lost,Mads Nielsen,313500,39.2,Interested in a sustainable material option.
+LEAD-00088,2026-05-20 18:15,Nikolaj Larsen,nikolaj.larsen@example.dk,+45 31 98 62 27,Bathroom,48000,Vesterbro,Google,Lost,Sofie Holm,52500,17.2,Would like an on-site assessment.
+LEAD-00089,2026-01-24 04:49,Oscar Rasmussen,oscar.rasmussen@example.dk,+45 48 81 91 86,Painting,65000,Valby,Instagram,Won,Sofie Holm,70000,10.6,Looking for an estimate before summer.
+LEAD-00090,2026-09-04 19:57,Nikolaj Nielsen,nikolaj.nielsen@example.dk,+45 24 68 32 18,Bathroom,149000,Valby,Google,Lost,Anna Larsen,141000,22.6,Has inspiration photos ready.
+LEAD-00091,2026-03-26 21:19,Ida Rasmussen,ida.rasmussen@example.dk,+45 44 29 93 43,Painting,81000,Copenhagen K,Partner,Unresponsive,Jonas Berg,85000,1.1,Wants to compare a few layout options.
+LEAD-00092,2026-09-20 23:02,Anna Olsen,anna.olsen@example.dk,+45 53 18 69 12,Flooring,78000,Vanløse,Google,Qualified,Mads Nielsen,87500,33.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00093,2026-07-13 22:03,Sara Rasmussen,sara.rasmussen@example.dk,+45 44 19 23 77,Bathroom,101000,Vesterbro,Google,Lost,Anna Larsen,112000,58.4,Has inspiration photos ready.
+LEAD-00094,2026-09-28 08:31,Noah Hansen,noah.hansen@example.dk,+45 24 52 38 65,Bathroom,155000,Copenhagen K,Website,New,,170000,,Would like an on-site assessment.
+LEAD-00095,2026-03-15 17:34,Nikolaj Jørgensen,nikolaj.jørgensen@example.dk,+45 36 68 74 25,Flooring,116000,Frederiksberg,Google,Unresponsive,Jonas Berg,129000,64.2,Wants to compare a few layout options.
+LEAD-00096,2026-06-21 06:30,Lukas Pedersen,lukas.pedersen@example.dk,+45 24 38 79 44,Bathroom,138000,Vanløse,Referral,New,,133000,,Interested in a sustainable material option.
+LEAD-00097,2026-03-15 03:10,Sofie Andersen,sofie.andersen@example.dk,+45 48 10 19 46,Full renovation,496000,Vanløse,Website,Qualified,Jonas Berg,556000,21.2,Interested in a sustainable material option.
+LEAD-00098,2026-03-17 18:38,Clara Hansen,clara.hansen@example.dk,+45 41 58 27 78,Painting,51000,Nørrebro,Partner,Quoted,Sofie Holm,58500,53.8,Interested in a sustainable material option.
+LEAD-00099,2025-11-01 22:03,Sara Hansen,sara.hansen@example.dk,+45 47 29 62 71,Painting,74000,Hellerup,Google,Lost,Mads Nielsen,73500,5.1,Looking for an estimate before summer.
+LEAD-00100,2025-12-22 19:25,Oscar Kristensen,oscar.kristensen@example.dk,+45 31 57 92 38,Painting,24000,Hellerup,Google,Contacted,Mads Nielsen,23000,28.5,Would like an on-site assessment.
+LEAD-00101,2026-05-10 12:35,Noah Kristensen,noah.kristensen@example.dk,+45 53 84 70 95,Kitchen,133000,Frederiksberg,Partner,Contacted,Mads Nielsen,138500,43.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00102,2026-07-02 20:56,Lukas Thomsen,lukas.thomsen@example.dk,+45 25 15 94 19,Kitchen,87000,Hellerup,Referral,Won,Anna Larsen,79500,53.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00103,2026-04-17 12:03,Ida Olsen,ida.olsen@example.dk,+45 39 31 51 98,Painting,52000,Frederiksberg,Google,Lost,Jonas Berg,50500,1.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00104,2026-09-23 16:10,William Andersen,william.andersen@example.dk,+45 38 63 70 30,Bathroom,46000,Amager,Website,Lost,Sofie Holm,45000,46.7,Would like an on-site assessment.
+LEAD-00105,2026-05-06 16:09,Oscar Nielsen,oscar.nielsen@example.dk,+45 30 35 93 38,Flooring,130000,Vanløse,Referral,New,,132500,,Looking for an estimate before summer.
+LEAD-00106,2025-11-07 10:43,Alma Hansen,alma.hansen@example.dk,+45 30 12 85 73,Kitchen,221000,Østerbro,Google,Quoted,Mads Nielsen,201000,65.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00107,2026-03-26 19:58,Jonas Andersen,jonas.andersen@example.dk,+45 25 73 20 30,Full renovation,587000,Copenhagen K,Google,New,,545000,,Wants to compare a few layout options.
+LEAD-00108,2026-01-20 22:49,Anna Jørgensen,anna.jørgensen@example.dk,+45 37 85 41 81,Full renovation,513000,Østerbro,Partner,Unresponsive,Anna Larsen,470000,68.3,Looking for an estimate before summer.
+LEAD-00109,2026-08-08 17:35,Lukas Thomsen,lukas.thomsen@example.dk,+45 24 37 49 33,Painting,86000,Vanløse,Google,Quoted,Mads Nielsen,95500,19.5,Interested in a sustainable material option.
+LEAD-00110,2026-08-14 17:17,  MATHILDE JENSEN  ,mathilde.jensen@example.dk,+45 45 37 60 98,Kitchen,285000,Nørrebro,Google,Qualified,Anna Larsen,315500,58.3,Has inspiration photos ready.
+LEAD-00111,2026-01-19 05:08,Anders Pedersen,anders.pedersen@example.dk,+45 58 88 90 95,Painting,74000,Vesterbro,Referral,Lost,Mads Nielsen,70500,43.9,Looking for an estimate before summer.
+LEAD-00112,2026-07-09 16:34,William Nielsen,william.nielsen@example.dk,+45 22 85 22 35,Bathroom,157000,Østerbro,Google,Contacted,Sofie Holm,166000,16.1,Apartment renovation; access is easiest on weekdays.
+LEAD-00113,2026-08-19 22:10,Noah Rasmussen,noah.rasmussen@example.dk,+45 25 41 36 24,Bathroom,173000,Frederiksberg,Instagram,Qualified,Sofie Holm,197000,49.4,Wants to compare a few layout options.
+LEAD-00114,2025-12-05 16:05,Victor Nielsen,victor.nielsen@example.dk,+45 40 41 73 30,Kitchen,207000,Copenhagen K,Website,New,,231000,,Wants to compare a few layout options.
+LEAD-00115,2026-03-31 18:09,Laura Olsen,laura.olsen@example.dk,+45 46 49 28 61,Painting,44000,Nørrebro,Google,Quoted,Jonas Berg,43500,61.1,Would like an on-site assessment.
+LEAD-00116,2025-12-16 10:34,  WILLIAM LARSEN  ,william.larsen@example.dk,+45 30 53 17 57,Full renovation,541000,Nørrebro,Referral,Qualified,Sofie Holm,603000,18.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00117,2026-05-17 00:42,Sara Thomsen,sara.thomsen@example.dk,+45 22 57 86 13,Bathroom,70000,Amager,Facebook,Qualified,Jonas Berg,74000,11.7,Interested in a sustainable material option.
+LEAD-00118,2026-05-20 14:43,Noah Rasmussen,noah.rasmussen@example.dk,+45 53 46 29 81,Flooring,100000,Vesterbro,Website,New,,103000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00119,2026-04-22 13:27,Oscar Nielsen,oscar.nielsen@example.dk,+45 31 21 40 62,Full renovation,563000,Valby,Facebook,Quoted,Anna Larsen,530500,41.0,Interested in a sustainable material option.
+LEAD-00120,2026-08-26 19:59,Lukas Larsen,lukas.larsen@example.dk,+45 54 69 68 48,Bathroom,48000,Copenhagen K,Google,Qualified,Sofie Holm,55000,1.0,Looking for an estimate before summer.
+LEAD-00121,2026-09-01 23:29,Emil Andersen,emil.andersen@example.dk,+45 40 70 27 30,Flooring,100000,Vanløse,Google,Unresponsive,Jonas Berg,113000,31.8,Has inspiration photos ready.
+LEAD-00122,2026-04-23 09:39,Noah Kristensen,noah.kristensen@example.dk,+45 22 57 55 80,Painting,20000,Amager,Google,Contacted,Mads Nielsen,21000,29.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00123,2025-12-23 04:36,Anna Jensen,anna.jensen@example.dk,+45 36 44 15 38,Full renovation,266000,Vesterbro,Google,Qualified,Sofie Holm,296500,45.9,Interested in a sustainable material option.
+LEAD-00124,2025-10-10 16:10,  JONAS POULSEN  ,jonas.poulsen@example.dk,+45 58 34 56 48,Flooring,28000,Nørrebro,Instagram,Contacted,Mads Nielsen,26500,12.8,Interested in a sustainable material option.
+LEAD-00125,2026-08-16 17:01,Oscar Jensen,oscar.jensen@example.dk,+45 43 76 76 97,Kitchen,268000,Østerbro,Partner,Quoted,Mads Nielsen,286000,35.2,Would like an on-site assessment.
+LEAD-00126,2026-02-12 03:18,Anna Madsen,anna.madsen@example.dk,+45 57 85 47 23,Kitchen,84000,Vesterbro,Partner,Unresponsive,Sofie Holm,80500,31.4,Has inspiration photos ready.
+LEAD-00127,2026-03-31 20:12,Anna Hansen,anna.hansen@example.dk,+45 59 50 78 57,Full renovation,247000,Nørrebro,Referral,Quoted,Jonas Berg,256000,47.3,Wants to compare a few layout options.
+LEAD-00128,2026-02-17 13:33,Sara Christensen,sara.christensen@example.dk,+45 28 11 86 91,Kitchen,231000,Frederiksberg,Google,Won,Anna Larsen,219000,60.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00129,2026-06-19 00:02,Anders Jensen,anders.jensen@example.dk,+45 36 56 48 60,Flooring,81000,Amager,Google,Quoted,Anna Larsen,76000,67.5,Interested in a sustainable material option.
+LEAD-00130,2026-05-10 17:41,  LAURA PEDERSEN  ,laura.pedersen@example.dk,+45 27 47 47 42,Bathroom,147000,Hellerup,Referral,Contacted,Mads Nielsen,152000,6.8,Would like an on-site assessment.
+LEAD-00131,2026-03-17 11:58,Oscar Jørgensen,oscar.jørgensen@example.dk,+45 38 16 82 24,Bathroom,174000,Vesterbro,Partner,New,,189000,,Has inspiration photos ready.
+LEAD-00132,2026-03-18 16:05,Sara Andersen,sara.andersen@example.dk,+45 34 32 88 50,Full renovation,664000,Nørrebro,Google,Lost,Sofie Holm,757500,10.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00133,2025-12-22 22:36,Lukas Madsen,lukas.madsen@example.dk,+45 47 17 33 78,Bathroom,98000,Hellerup,Facebook,Contacted,Mads Nielsen,91500,33.9,Would like an on-site assessment.
+LEAD-00134,2025-11-24 21:37,Nikolaj Sørensen,nikolaj.sørensen@example.dk,+45 20 30 92 17,Full renovation,548000,Valby,Google,New,,536000,,Wants to compare a few layout options.
+LEAD-00135,2025-12-09 22:38,Laura Jørgensen,laura.jørgensen@example.dk,+45 28 37 96 23,Bathroom,119000,Brønshøj,Google,Quoted,Jonas Berg,125500,30.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00136,2026-04-25 10:08,Sara Olsen,sara.olsen@example.dk,+45 34 77 45 71,Kitchen,202000,Valby,Facebook,Qualified,Mads Nielsen,200000,7.5,Looking for an estimate before summer.
+LEAD-00137,2026-09-18 03:27,Ida Larsen,ida.larsen@example.dk,+45 28 16 26 59,Painting,18000,Østerbro,Facebook,Qualified,Mads Nielsen,17500,11.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00138,2026-05-07 13:31,Jonas Sørensen,jonas.sørensen@example.dk,+45 58 43 72 63,Bathroom,127000,Vanløse,Instagram,Quoted,Mads Nielsen,121500,41.8,Has inspiration photos ready.
+LEAD-00139,2026-09-27 12:39,Victor Kristensen,victor.kristensen@example.dk,+45 33 81 60 50,Bathroom,114000,Vesterbro,Referral,Won,Mads Nielsen,117000,61.3,Would like an on-site assessment.
+LEAD-00140,2025-11-21 09:37,Freja Kristensen,freja.kristensen@example.dk,+45 55 47 96 65,Kitchen,219000,Vesterbro,Google,Won,Anna Larsen,227000,40.0,Would like an on-site assessment.
+LEAD-00141,2025-10-02 03:21,Emil Hansen,emil.hansen@example.dk,+45 45 37 29 61,Bathroom,68000,Valby,Google,Contacted,Mads Nielsen,67500,15.4,Has inspiration photos ready.
+LEAD-00142,2026-04-11 02:53,Clara Olsen,clara.olsen@example.dk,+45 52 25 57 16,Flooring,96000,Østerbro,Facebook,New,,86500,,Has inspiration photos ready.
+LEAD-00143,2026-04-10 06:06,Mikkel Larsen,mikkel.larsen@example.dk,+45 30 70 58 14,Flooring,96000,Brønshøj,Facebook,Lost,Jonas Berg,92000,41.9,Wants to compare a few layout options.
+LEAD-00144,2026-06-29 15:54,William Kristensen,william.kristensen@example.dk,+45 43 40 69 10,Bathroom,131000,Amager,Facebook,Contacted,Mads Nielsen,136000,25.9,Interested in a sustainable material option.
+LEAD-00145,2026-05-03 21:25,Laura Olsen,laura.olsen@example.dk,+45 49 14 24 18,Flooring,94000,Frederiksberg,Google,Lost,Sofie Holm,102000,35.8,Looking for an estimate before summer.
+LEAD-00146,2026-07-19 07:03,Freja Pedersen,freja.pedersen@example.dk,+45 42 85 64 62,Kitchen,201000,Vesterbro,Facebook,Quoted,Jonas Berg,196500,12.7,Has inspiration photos ready.
+LEAD-00147,2026-02-16 01:38,Sofie Andersen,sofie.andersen@example.dk,+45 51 13 49 82,Kitchen,187000,Brønshøj,Google,Contacted,Sofie Holm,192500,45.1,Has inspiration photos ready.
+LEAD-00148,2026-02-19 00:08,Noah Andersen,noah.andersen@example.dk,+45 40 68 17 24,Kitchen,138000,Frederiksberg,Website,New,,139000,,Wants to compare a few layout options.
+LEAD-00149,2026-04-07 12:48,Laura Thomsen,laura.thomsen@example.dk,+45 55 37 35 20,Painting,27000,Valby,Google,New,,30000,,Would like an on-site assessment.
+LEAD-00150,2026-04-08 08:42,Anna Jensen,anna.jensen@example.dk,+45 46 58 29 60,Flooring,45000,Østerbro,Referral,New,,47500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00151,2026-07-15 02:01,Victor Thomsen,victor.thomsen@example.dk,+45 32 92 34 30,Painting,27000,Valby,Facebook,Unresponsive,Sofie Holm,25500,38.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00152,2026-07-15 10:23,Sara Pedersen,sara.pedersen@example.dk,+45 29 48 38 96,Painting,50000,Hellerup,Google,Contacted,Mads Nielsen,49500,10.6,Wants to compare a few layout options.
+LEAD-00153,2026-09-10 14:39,  JONAS JØRGENSEN  ,jonas.jørgensen@example.dk,,Bathroom,126000,Nørrebro,Website,Qualified,Sofie Holm,120000,41.8,Looking for an estimate before summer.
+LEAD-00154,2026-07-23 10:49,Victor Larsen,victor.larsen@example.dk,+45 35 21 21 32,Bathroom,117000,Copenhagen K,Facebook,Quoted,Mads Nielsen,126500,23.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00155,2026-07-07 18:22,Lukas Nielsen,lukas.nielsen@example.dk,+45 35 11 34 11,Bathroom,174000,Hellerup,Instagram,Quoted,Sofie Holm,164000,2.0,Has inspiration photos ready.
+LEAD-00156,2026-06-27 21:46,Oscar Larsen,oscar.larsen@example.dk,+45 51 35 85 32,Bathroom,109000,Østerbro,Facebook,Qualified,Mads Nielsen,119500,28.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00157,2026-05-28 12:19,Sofie Olsen,sofie.olsen@example.dk,+45 23 30 25 23,Full renovation,613000,Copenhagen K,Referral,Lost,Mads Nielsen,702000,33.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00158,2026-09-30 05:01,Lukas Rasmussen,lukas.rasmussen@example.dk,+45 55 74 27 54,Kitchen,271000,Vesterbro,Google,Won,Sofie Holm,283000,53.7,Looking for an estimate before summer.
+LEAD-00159,2025-11-02 07:02,Victor Madsen,victor.madsen@example.dk,+45 43 94 73 60,Bathroom,175000,Valby,Referral,New,,194000,,Looking for an estimate before summer.
+LEAD-00160,2026-07-22 08:12,Jonas Sørensen,jonas.sørensen@example.dk,+45 33 59 91 26,Painting,29000,Frederiksberg,Google,Won,Anna Larsen,29000,70.1,Wants to compare a few layout options.
+LEAD-00161,2026-06-08 07:57,Victor Sørensen,victor.sørensen@example.dk,+45 54 51 23 53,Bathroom,68000,Nørrebro,Google,New,,77000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00162,2025-10-12 22:15,Ida Christensen,ida.christensen@example.dk,+45 52 71 89 68,Bathroom,79000,Amager,Website,Contacted,Sofie Holm,87500,40.6,Would like an on-site assessment.
+LEAD-00163,2025-11-23 11:03,Oscar Larsen,oscar.larsen@example.dk,+45 44 47 17 75,Kitchen,139000,Vanløse,Google,Won,Mads Nielsen,129000,14.3,Interested in a sustainable material option.
+LEAD-00164,2026-04-07 14:58,Anna Olsen,anna.olsen@example.dk,+45 31 90 30 66,Bathroom,147000,Frederiksberg,Google,Won,Mads Nielsen,157000,66.7,Would like an on-site assessment.
+LEAD-00165,2026-05-23 12:20,Noah Thomsen,noah.thomsen@example.dk,+45 48 12 18 41,Bathroom,167000,Brønshøj,Facebook,Quoted,Sofie Holm,191000,1.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00166,2026-04-30 22:04,Mikkel Sørensen,mikkel.sørensen@example.dk,+45 43 76 70 69,Kitchen,108000,Vanløse,Google,Unresponsive,Jonas Berg,103500,31.0,Looking for an estimate before summer.
+LEAD-00167,2025-11-25 18:22,Ida Rasmussen,ida.rasmussen@example.dk,+45 51 36 67 74,Flooring,104000,Nørrebro,Google,Lost,Anna Larsen,104000,41.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00168,2026-05-25 11:03,Clara Jørgensen,clara.jørgensen@example.dk,+45 37 94 64 15,Bathroom,82000,Copenhagen K,Referral,Unresponsive,Sofie Holm,74000,28.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00169,2026-06-08 13:39,Clara Nielsen,clara.nielsen@example.dk,+45 38 21 75 16,Flooring,55000,Copenhagen K,Referral,Quoted,Jonas Berg,55000,39.4,Looking for an estimate before summer.
+LEAD-00170,2026-02-18 05:30,William Jørgensen,william.jørgensen@example.dk,+45 51 53 37 18,Kitchen,188000,Copenhagen K,Website,Qualified,Jonas Berg,216000,38.5,Looking for an estimate before summer.
+LEAD-00171,2025-12-28 17:57,Victor Hansen,victor.hansen@example.dk,+45 52 16 74 94,Flooring,95000,Hellerup,Google,Won,Anna Larsen,91500,71.0,Looking for an estimate before summer.
+LEAD-00172,2026-09-14 19:43,Freja Poulsen,freja.poulsen@example.dk,+45 28 51 10 68,Flooring,24000,Nørrebro,Referral,Lost,Sofie Holm,22000,42.3,Wants to compare a few layout options.
+LEAD-00173,2026-07-29 06:16,Emil Christensen,emil.christensen@example.dk,+45 59 66 21 33,Painting,82000,Copenhagen K,Referral,Won,Jonas Berg,74500,44.4,Wants to compare a few layout options.
+LEAD-00174,2025-12-28 22:26,Anders Thomsen,anders.thomsen@example.dk,+45 39 55 65 44,Kitchen,277000,Amager,Instagram,Qualified,Anna Larsen,316000,1.5,Interested in a sustainable material option.
+LEAD-00175,2026-06-24 12:43,Emil Madsen,emil.madsen@example.dk,+45 57 70 21 44,Painting,75000,Valby,Website,Quoted,Jonas Berg,70500,16.2,Looking for an estimate before summer.
+LEAD-00176,2026-04-18 12:32,William Sørensen,william.sørensen@example.dk,+45 21 57 31 47,Bathroom,175000,Østerbro,Referral,Qualified,Mads Nielsen,171000,56.7,Interested in a sustainable material option.
+LEAD-00177,2025-10-13 06:11,Emma Poulsen,emma.poulsen@example.dk,+45 48 27 77 54,Kitchen,178000,Nørrebro,Website,Won,Jonas Berg,168000,9.3,Interested in a sustainable material option.
+LEAD-00178,2026-05-23 03:52,Jonas Larsen,jonas.larsen@example.dk,+45 33 62 91 97,Painting,47000,Hellerup,Referral,Quoted,Anna Larsen,43000,27.0,Interested in a sustainable material option.
+LEAD-00179,2026-01-29 15:16,Lukas Larsen,lukas.larsen@example.dk,+45 43 80 65 56,Kitchen,260000,Nørrebro,Website,Lost,Mads Nielsen,297500,24.5,Would like an on-site assessment.
+LEAD-00180,2026-01-21 10:04,Oscar Jørgensen,oscar.jørgensen@example.dk,+45 40 48 63 36,Bathroom,87000,Amager,Referral,New,,79000,,Has inspiration photos ready.
+LEAD-00181,2025-11-27 19:09,Nikolaj Christensen,nikolaj.christensen@example.dk,+45 22 22 90 11,Bathroom,50000,Nørrebro,Google,Unresponsive,Anna Larsen,54500,40.1,Wants to compare a few layout options.
+LEAD-00182,2026-02-28 08:10,Alma Nielsen,alma.nielsen@example.dk,+45 30 56 25 78,Flooring,121000,Valby,Website,Qualified,Jonas Berg,137000,7.7,Wants to compare a few layout options.
+LEAD-00183,2026-02-04 21:16,Jonas Poulsen,jonas.poulsen@example.dk,+45 23 58 58 94,Flooring,81000,Valby,Referral,Contacted,Jonas Berg,87000,60.7,Wants to compare a few layout options.
+LEAD-00184,2026-03-13 22:19,Ida Pedersen,ida.pedersen@example.dk,+45 28 83 35 27,Kitchen,244000,Amager,Google,New,,229500,,Looking for an estimate before summer.
+LEAD-00185,2026-06-15 20:00,Lukas Nielsen,lukas.nielsen@example.dk,+45 47 80 52 92,Kitchen,214000,Østerbro,Google,Qualified,Anna Larsen,231500,27.7,Looking for an estimate before summer.
+LEAD-00186,2026-01-23 03:15,Ida Poulsen,ida.poulsen@example.dk,+45 35 34 30 48,Bathroom,48000,Brønshøj,Google,Qualified,Sofie Holm,51000,66.7,Would like an on-site assessment.
+LEAD-00187,2025-10-04 09:34,Noah Kristensen,noah.kristensen@example.dk,+45 58 73 86 91,Flooring,111000,Amager,Website,Quoted,Mads Nielsen,124500,2.7,Looking for an estimate before summer.
+LEAD-00188,2025-11-20 05:26,Emil Jørgensen,emil.jørgensen@example.dk,+45 31 83 98 98,Full renovation,0,Brønshøj,Facebook,Won,Sofie Holm,928000,69.1,Looking for an estimate before summer.
+LEAD-00189,2026-05-28 12:59,Nikolaj Kristensen,nikolaj.kristensen@example.dk,+45 45 46 57 42,Full renovation,599000,Østerbro,Website,Unresponsive,Jonas Berg,586000,13.2,Looking for an estimate before summer.
+LEAD-00190,2026-03-07 23:03,Sara Olsen,sara.olsen@example.dk,+45 58 13 65 69,Kitchen,139000,Frederiksberg,Google,Qualified,Jonas Berg,133500,37.6,Has inspiration photos ready.
+LEAD-00191,2026-09-11 07:22,Nikolaj Hansen,nikolaj.hansen@example.dk,+45 48 82 69 47,Kitchen,122000,Nørrebro,Facebook,New,,135500,,Has inspiration photos ready.
+LEAD-00192,2025-11-23 10:29,Laura Nielsen,laura.nielsen@example.dk,+45 31 42 47 41,Full renovation,669000,Amager,Facebook,New,,607500,,Wants to compare a few layout options.
+LEAD-00193,2025-12-11 12:41,Clara Madsen,clara.madsen@example.dk,+45 39 84 88 13,Painting,19000,Amager,Google,Contacted,Jonas Berg,18500,17.6,Interested in a sustainable material option.
+LEAD-00194,2025-11-23 17:56,Anders Christensen,anders.christensen@example.dk,+45 50 86 23 22,Flooring,109000,Nørrebro,Instagram,Quoted,Mads Nielsen,112500,33.9,Looking for an estimate before summer.
+LEAD-00195,2026-04-12 18:06,Sofie Andersen,sofie.andersen@example.dk,+45 25 76 66 39,Bathroom,58000,Vesterbro,Google,New,,55000,,Would like an on-site assessment.
+LEAD-00196,2026-02-12 23:44,William Sørensen,william.sørensen@example.dk,+45 23 30 22 54,Bathroom,146000,Østerbro,Referral,Quoted,Mads Nielsen,156500,62.2,Wants to compare a few layout options.
+LEAD-00197,2026-05-31 13:57,Lukas Hansen,lukas.hansen@example.dk,+45 55 98 99 43,Bathroom,153000,Hellerup,Google,Qualified,Sofie Holm,138000,69.6,Interested in a sustainable material option.
+LEAD-00198,2026-05-15 12:12,Freja Andersen,freja.andersen@example.dk,+45 42 17 37 39,Full renovation,696000,Nørrebro,Facebook,Unresponsive,Jonas Berg,694500,29.6,Wants to compare a few layout options.
+LEAD-00199,2026-01-10 22:17,Laura Rasmussen,laura.rasmussen@example.dk,+45 38 73 23 17,Bathroom,86000,Vesterbro,Facebook,Contacted,Sofie Holm,86000,68.2,Has inspiration photos ready.
+LEAD-00200,2026-07-05 21:21,Jonas Poulsen,jonas.poulsen@example.dk,+45 56 44 84 77,Kitchen,179000,Østerbro,Google,Qualified,Anna Larsen,172000,46.2,Wants to compare a few layout options.
+LEAD-00201,2026-07-04 03:56,Emma Olsen,emma.olsen@example.dk,+45 50 54 79 69,Bathroom,81000,Hellerup,Facebook,Qualified,Jonas Berg,88500,19.8,Has inspiration photos ready.
+LEAD-00202,2026-05-03 17:54,Clara Madsen,clara.madsen@example.dk,+45 39 84 88 13,Full renovation,422000,Hellerup,Google,Lost,Anna Larsen,453000,12.2,Has inspiration photos ready.
+LEAD-00203,2026-04-22 14:02,Ida Nielsen,ida.nielsen@example.dk,+45 57 46 32 46,Flooring,41000,Østerbro,Referral,Qualified,Jonas Berg,42500,28.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00204,2026-07-29 02:36,Nikolaj Thomsen,nikolaj.thomsen@example.dk,+45 47 79 27 13,Kitchen,180000,Vesterbro,Referral,Unresponsive,Anna Larsen,199500,15.1,Apartment renovation; access is easiest on weekdays.
+LEAD-00205,2026-09-11 04:47,Nikolaj Pedersen,nikolaj.pedersen@example.dk,+45 56 95 87 84,Flooring,109000,Frederiksberg,Google,Lost,Mads Nielsen,124500,40.4,Interested in a sustainable material option.
+LEAD-00206,2026-05-01 22:13,Emil Thomsen,emil.thomsen@example.dk,+45 55 37 71 74,Kitchen,118000,Frederiksberg,Google,New,,128000,,Has inspiration photos ready.
+LEAD-00207,2026-08-01 01:29,William Madsen,william.madsen@example.dk,+45 27 52 14 58,Kitchen,209000,Frederiksberg,Instagram,Unresponsive,Jonas Berg,209000,32.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00208,2026-08-12 04:53,Freja Andersen,freja.andersen@example.dk,+45 21 56 23 14,Painting,87000,Østerbro,Referral,Won,Anna Larsen,92000,53.2,Has inspiration photos ready.
+LEAD-00209,2026-07-31 13:07,Sara Hansen,sara.hansen@example.dk,+45 30 13 52 57,Kitchen,76000,Amager,Facebook,Unresponsive,Anna Larsen,82000,29.6,Would like an on-site assessment.
+LEAD-00210,2025-12-01 12:36,Laura Nielsen,laura.nielsen@example.dk,+45 31 42 47 41,Flooring,127000,Vesterbro,Facebook,Qualified,Anna Larsen,142000,36.1,Wants to compare a few layout options.
+LEAD-00211,2026-05-30 01:44,Anna Christensen,anna.christensen@example.dk,+45 58 86 44 32,Kitchen,207000,Frederiksberg,Website,Contacted,Anna Larsen,215000,55.8,Interested in a sustainable material option.
+LEAD-00212,2026-08-20 11:32,Lukas Pedersen,lukas.pedersen@example.dk,+45 32 57 86 21,Full renovation,471000,Copenhagen K,Website,Contacted,Mads Nielsen,494500,28.2,Interested in a sustainable material option.
+LEAD-00213,2025-11-29 19:46,Anna Hansen,anna.hansen@example.dk,+45 59 50 78 57,Flooring,111000,Frederiksberg,Facebook,Quoted,Anna Larsen,117000,4.5,Interested in a sustainable material option.
+LEAD-00214,2026-08-16 08:59,Sofie Madsen,sofie.madsen@example.dk,+45 59 66 21 29,Bathroom,68000,Østerbro,Referral,Contacted,Anna Larsen,68500,69.6,Wants to compare a few layout options.
+LEAD-00215,2026-01-29 19:51,Ida Poulsen,ida.poulsen@example.dk,+45 30 93 22 92,Kitchen,299000,Brønshøj,Google,Contacted,Anna Larsen,318000,29.2,Has inspiration photos ready.
+LEAD-00216,2026-01-07 05:25,Noah Jensen,noah.jensen@example.dk,+45 57 14 62 80,Painting,69000,Amager,Partner,Quoted,Mads Nielsen,72500,13.5,Interested in a sustainable material option.
+LEAD-00217,2025-11-14 16:58,Lukas Rasmussen,lukas.rasmussen@example.dk,+45 55 74 27 54,Bathroom,123000,Vesterbro,Google,New,,128500,,Interested in a sustainable material option.
+LEAD-00218,2025-11-01 05:56,Sofie Andersen,sofie.andersen@example.dk,+45 48 10 19 46,Bathroom,93000,Østerbro,Website,Won,Sofie Holm,91500,32.0,Wants to compare a few layout options.
+LEAD-00219,2025-12-16 05:34,Noah Pedersen,noah.pedersen@example.dk,+45 41 50 15 73,Kitchen,102000,Amager,Website,Lost,Mads Nielsen,99000,7.3,Wants to compare a few layout options.
+LEAD-00220,2026-07-10 08:27,Anders Kristensen,anders.kristensen@example.dk,+45 36 23 55 27,Kitchen,215000,Brønshøj,Partner,Unresponsive,Jonas Berg,212000,5.6,Wants to compare a few layout options.
+LEAD-00221,2026-04-04 12:09,Sara Andersen,sara.andersen@example.dk,+45 21 74 46 57,Flooring,124000,Amager,Google,Lost,Mads Nielsen,112000,51.0,Has inspiration photos ready.
+LEAD-00222,2026-02-21 09:19,Emma Andersen,emma.andersen@example.dk,+45 39 42 76 75,Kitchen,162000,Nørrebro,Facebook,Lost,Mads Nielsen,154500,17.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00223,2025-10-07 19:58,Nikolaj Madsen,nikolaj.madsen@example.dk,+45 29 52 82 79,Bathroom,134000,Valby,Google,Quoted,Anna Larsen,137000,43.3,Wants to compare a few layout options.
+LEAD-00224,2025-10-17 16:37,Victor Jensen,victor.jensen@example.dk,+45 43 30 16 16,Full renovation,672000,Vanløse,Referral,Contacted,Jonas Berg,766500,23.0,Would like an on-site assessment.
+LEAD-00225,2026-01-13 02:43,Ida Larsen,ida.larsen@example.dk,+45 27 73 88 68,Painting,20000,Nørrebro,Website,Contacted,Jonas Berg,22000,15.6,Interested in a sustainable material option.
+LEAD-00226,2026-01-08 06:26,Noah Madsen,noah.madsen@example.dk,+45 31 14 74 34,Painting,77000,Vesterbro,Facebook,Quoted,Sofie Holm,78000,61.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00227,2025-12-12 22:43,Emma Kristensen,emma.kristensen@example.dk,+45 54 15 67 85,Bathroom,159000,Hellerup,Google,Qualified,Sofie Holm,172500,64.5,Would like an on-site assessment.
+LEAD-00228,2026-07-10 05:58,Ida Jørgensen,ida.jørgensen@example.dk,+45 53 27 97 87,Full renovation,700000,Amager,Google,Quoted,Jonas Berg,680500,13.1,Interested in a sustainable material option.
+LEAD-00229,2025-12-07 22:04,Emma Larsen,emma.larsen@example.dk,+45 31 76 80 73,Bathroom,133000,Brønshøj,Facebook,Unresponsive,Anna Larsen,124500,53.0,Looking for an estimate before summer.
+LEAD-00230,2026-03-25 10:43,Noah Rasmussen,noah.rasmussen@example.dk,+45 53 46 29 81,Painting,26000,Nørrebro,Google,New,,27500,,Interested in a sustainable material option.
+LEAD-00231,2025-11-19 02:10,Noah Hansen,noah.hansen@example.dk,+45 20 67 32 71,Flooring,118000,Hellerup,Website,Quoted,Anna Larsen,133500,51.1,Looking for an estimate before summer.
+LEAD-00232,2026-04-11 20:29,Nikolaj Poulsen,nikolaj.poulsen@example.dk,+45 59 68 84 89,Bathroom,70000,Amager,Referral,Contacted,Sofie Holm,63500,27.8,Wants to compare a few layout options.
+LEAD-00233,2026-04-27 05:30,Anders Christensen,anders.christensen@example.dk,+45 50 86 23 22,Full renovation,683000,Vesterbro,Website,Unresponsive,Anna Larsen,739000,40.2,Looking for an estimate before summer.
+LEAD-00234,2026-05-04 08:28,Mikkel Christensen,mikkel.christensen@example.dk,+45 26 61 27 93,Kitchen,290000,Vesterbro,Google,Lost,Mads Nielsen,297500,58.3,Looking for an estimate before summer.
+LEAD-00235,2026-04-12 09:27,Anders Madsen,anders.madsen@example.dk,+45 28 36 31 90,Flooring,106000,Frederiksberg,Google,Won,Anna Larsen,118000,47.2,Interested in a sustainable material option.
+LEAD-00236,2026-05-05 20:36,Emma Thomsen,emma.thomsen@example.dk,+45 50 54 88 89,Flooring,127000,Brønshøj,Google,Lost,Mads Nielsen,125000,64.9,Looking for an estimate before summer.
+LEAD-00237,2026-04-13 13:38,Mathilde Poulsen,mathilde.poulsen@example.dk,+45 25 38 68 11,Bathroom,62000,Valby,Google,Quoted,Anna Larsen,67000,35.2,Looking for an estimate before summer.
+LEAD-00238,2026-01-30 02:54,Nikolaj Jørgensen,nikolaj.jørgensen@example.dk,+45 44 19 60 28,Flooring,91000,Frederiksberg,Instagram,Qualified,Jonas Berg,102000,24.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00239,2026-05-30 12:57,Sara Hansen,sara.hansen@example.dk,+45 56 95 52 31,Painting,41000,Frederiksberg,Website,Qualified,Jonas Berg,45000,4.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00240,2026-06-05 18:41,Freja Christensen,freja.christensen@example.dk,+45 26 94 61 20,Kitchen,293000,Frederiksberg,Website,Contacted,Jonas Berg,312500,8.9,Interested in a sustainable material option.
+LEAD-00241,2026-04-04 13:51,Lukas Thomsen,lukas.thomsen@example.dk,+45 59 38 69 92,Kitchen,262000,Vesterbro,Facebook,Qualified,Jonas Berg,271000,66.5,Would like an on-site assessment.
+LEAD-00242,2026-07-03 12:41,Emil Kristensen,emil.kristensen@example.dk,,Kitchen,163000,Vanløse,Google,Qualified,Mads Nielsen,173000,47.3,Interested in a sustainable material option.
+LEAD-00243,2026-05-18 16:36,Anna Andersen,anna.andersen@example.dk,+45 49 12 38 73,Painting,41000,Hellerup,Referral,Qualified,Jonas Berg,46500,25.0,Would like an on-site assessment.
+LEAD-00244,2026-05-21 00:37,Laura Sørensen,laura.sørensen@example.dk,+45 52 29 69 47,Painting,17000,Østerbro,Referral,Won,Anna Larsen,18500,25.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00245,2026-07-07 15:58,Lukas Andersen,lukas.andersen@example.dk,+45 22 86 59 53,Full renovation,700000,Vesterbro,Referral,Unresponsive,Anna Larsen,675000,35.0,Wants to compare a few layout options.
+LEAD-00246,2026-07-06 05:59,Clara Thomsen,clara.thomsen@example.dk,+45 50 21 80 17,Bathroom,135000,Vesterbro,Referral,Lost,Jonas Berg,139000,24.5,Would like an on-site assessment.
+LEAD-00247,2026-06-20 06:24,Emil Olsen,emil.olsen@example.dk,+45 33 72 84 12,Kitchen,81000,Østerbro,Instagram,Qualified,Mads Nielsen,77000,9.2,Would like an on-site assessment.
+LEAD-00248,2026-05-07 00:46,Oscar Christensen,oscar.christensen@example.dk,+45 51 43 51 33,Flooring,31000,Valby,Website,Contacted,Anna Larsen,28500,19.0,Looking for an estimate before summer.
+LEAD-00249,2026-08-14 05:38,Freja Kristensen,freja.kristensen@example.dk,+45 21 59 50 69,Kitchen,184000,Brønshøj,Google,Lost,Jonas Berg,167000,51.6,Wants to compare a few layout options.
+LEAD-00250,2025-11-27 01:51,Freja Larsen,freja.larsen@example.dk,+45 47 50 26 56,Painting,21000,Hellerup,Google,Unresponsive,Anna Larsen,23000,21.9,Would like an on-site assessment.
+LEAD-00251,2026-07-15 02:32,Emil Christensen,emil.christensen@example.dk,+45 47 29 75 23,Flooring,123000,Nørrebro,Facebook,New,,120000,,Would like an on-site assessment.
+LEAD-00252,2026-02-25 08:58,Jonas Poulsen,jonas.poulsen@example.dk,+45 27 20 79 31,Bathroom,9999999,Vanløse,Facebook,Qualified,Jonas Berg,78000,21.9,Has inspiration photos ready.
+LEAD-00253,2026-02-14 16:39,Mikkel Andersen,mikkel.andersen@example.dk,+45 59 24 33 78,Painting,51000,Brønshøj,Facebook,Lost,Jonas Berg,48500,27.5,Would like an on-site assessment.
+LEAD-00254,2026-07-21 21:05,Mathilde Andersen,mathilde.andersen@example.dk,+45 30 24 57 74,Painting,86000,Copenhagen K,Partner,Unresponsive,Anna Larsen,90500,41.4,Wants to compare a few layout options.
+LEAD-00255,2026-01-26 19:57,Jonas Hansen,jonas.hansen@example.dk,+45 40 13 72 64,Full renovation,317000,Copenhagen K,Referral,New,,318500,,Has inspiration photos ready.
+LEAD-00256,2025-11-08 14:45,Nikolaj Olsen,nikolaj.olsen@example.dk,+45 47 69 29 98,Bathroom,116000,Vesterbro,Website,Qualified,Sofie Holm,118000,50.1,Looking for an estimate before summer.
+LEAD-00257,2026-01-19 21:25,William Thomsen,william.thomsen@example.dk,+45 28 78 60 92,Painting,23000,Vesterbro,Referral,Unresponsive,Jonas Berg,24000,45.1,Would like an on-site assessment.
+LEAD-00258,2026-05-13 20:39,Mathilde Andersen,mathilde.andersen@example.dk,+45 46 21 69 50,Flooring,86000,Copenhagen K,Google,Lost,Sofie Holm,92500,18.3,Has inspiration photos ready.
+LEAD-00259,2026-04-01 22:40,Victor Christensen,victor.christensen@example.dk,+45 30 69 71 21,Flooring,23000,Vanløse,Google,Won,Mads Nielsen,26500,61.5,Looking for an estimate before summer.
+LEAD-00260,2026-06-22 14:17,Anna Sørensen,anna.sørensen@example.dk,+45 57 17 49 19,Bathroom,67000,Nørrebro,Facebook,Lost,Sofie Holm,73000,58.4,Wants to compare a few layout options.
+LEAD-00261,2026-01-16 21:50,Nikolaj Andersen,nikolaj.andersen@example.dk,+45 58 92 93 89,Full renovation,759000,Brønshøj,Facebook,Contacted,Anna Larsen,792000,36.1,Looking for an estimate before summer.
+LEAD-00262,2026-05-20 20:20,Lukas Pedersen,lukas.pedersen@example.dk,+45 40 15 13 49,Painting,90000,Østerbro,Google,New,,82500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00263,2025-11-30 10:44,Emma Thomsen,emma.thomsen@example.dk,+45 50 54 88 89,Kitchen,101000,Amager,Website,Contacted,Mads Nielsen,112000,25.6,Interested in a sustainable material option.
+LEAD-00264,2026-08-10 19:29,William Jensen,william.jensen@example.dk,+45 20 51 82 85,Full renovation,348000,Valby,Google,Quoted,Anna Larsen,334000,65.1,Wants to compare a few layout options.
+LEAD-00265,2026-09-18 05:48,Ida Jørgensen,ida.jørgensen@example.dk,+45 56 16 63 46,Full renovation,621000,Hellerup,Website,Won,Mads Nielsen,636500,54.7,Looking for an estimate before summer.
+LEAD-00266,2026-04-12 15:30,Mathilde Sørensen,mathilde.sørensen@example.dk,+45 53 42 81 74,Full renovation,761000,Hellerup,Facebook,New,,838500,,Interested in a sustainable material option.
+LEAD-00267,2025-12-21 02:49,Jonas Olsen,jonas.olsen@example.dk,+45 46 98 26 69,Flooring,130000,Østerbro,Referral,New,,125500,,Has inspiration photos ready.
+LEAD-00268,2026-05-10 17:06,Emil Christensen,emil.christensen@example.dk,,Kitchen,260000,Copenhagen K,Partner,Contacted,Mads Nielsen,261500,67.3,Interested in a sustainable material option.
+LEAD-00269,2026-07-27 10:04,Nikolaj Olsen,nikolaj.olsen@example.dk,+45 35 77 25 50,Flooring,31000,Vanløse,Facebook,Contacted,Jonas Berg,29500,12.2,Has inspiration photos ready.
+LEAD-00270,2026-09-11 11:26,Oscar Olsen,oscar.olsen@example.dk,,Painting,36000,Copenhagen K,Website,Quoted,Jonas Berg,40500,56.4,Has inspiration photos ready.
+LEAD-00271,2026-01-27 04:12,Mathilde Andersen,mathilde.andersen@example.dk,+45 59 82 84 75,Flooring,46000,Nørrebro,Referral,Lost,Anna Larsen,52000,36.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00272,2026-05-14 06:42,  IDA HANSEN  ,ida.hansen@example.dk,+45 22 73 96 44,Bathroom,138000,Amager,Referral,Contacted,Mads Nielsen,129000,1.2,Looking for an estimate before summer.
+LEAD-00273,2026-06-01 04:08,Anders Pedersen,anders.pedersen@example.dk,+45 56 76 65 90,Painting,63000,Vanløse,Instagram,Lost,Anna Larsen,70500,40.5,Would like an on-site assessment.
+LEAD-00274,2025-11-19 19:29,Freja Hansen,freja.hansen@example.dk,+45 26 42 88 41,Kitchen,209000,Hellerup,Google,Contacted,Sofie Holm,231000,66.8,Has inspiration photos ready.
+LEAD-00275,2025-10-04 17:40,Victor Christensen,victor.christensen@example.dk,+45 21 88 27 66,Flooring,126000,Valby,Website,Unresponsive,Mads Nielsen,127500,40.9,Interested in a sustainable material option.
+LEAD-00276,2026-01-06 01:34,Sofie Christensen,sofie.christensen@example.dk,+45 31 70 20 50,Full renovation,518000,Valby,Website,Won,Anna Larsen,570500,27.2,Would like an on-site assessment.
+LEAD-00277,2026-03-06 04:41,Emma Jensen,emma.jensen@example.dk,+45 35 75 54 55,Kitchen,187000,Nørrebro,Google,Contacted,Sofie Holm,188000,71.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00278,2026-02-26 21:30,Lukas Poulsen,lukas.poulsen@example.dk,+45 34 23 90 38,Bathroom,139000,Østerbro,Google,Qualified,Sofie Holm,126000,67.3,Has inspiration photos ready.
+LEAD-00279,2026-04-08 06:09,Oscar Rasmussen,oscar.rasmussen@example.dk,+45 27 99 44 34,Bathroom,48000,Østerbro,Facebook,Won,Jonas Berg,47000,39.6,Would like an on-site assessment.
+LEAD-00280,2025-11-02 14:11,Anders Jørgensen,anders.jørgensen@example.dk,+45 48 69 49 33,Bathroom,147000,Valby,Google,Won,Anna Larsen,165000,4.3,Has inspiration photos ready.
+LEAD-00281,2025-12-13 01:08,Mathilde Pedersen,mathilde.pedersen@example.dk,+45 21 25 17 58,Bathroom,119000,Valby,Google,Won,Sofie Holm,136000,28.0,Would like an on-site assessment.
+LEAD-00282,2026-08-02 22:50,Mathilde Rasmussen,mathilde.rasmussen@example.dk,+45 26 91 42 62,Painting,39000,Amager,Website,Qualified,Mads Nielsen,42000,65.7,Would like an on-site assessment.
+LEAD-00283,2026-06-02 02:57,Emma Jørgensen,emma.jørgensen@example.dk,,Bathroom,148000,Nørrebro,Referral,Contacted,Jonas Berg,140500,57.4,Would like an on-site assessment.
+LEAD-00284,2026-09-21 18:31,Oscar Larsen,oscar.larsen@example.dk,+45 28 41 60 98,Bathroom,175000,Frederiksberg,Google,New,,182500,,Interested in a sustainable material option.
+LEAD-00285,2026-01-17 03:06,Ida Pedersen,ida.pedersen@example.dk,+45 56 92 77 46,Painting,56000,Amager,Google,Qualified,Anna Larsen,57000,18.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00286,2026-02-24 08:49,Sofie Pedersen,sofie.pedersen@example.dk,+45 33 57 43 44,Kitchen,148000,Hellerup,Google,Qualified,Mads Nielsen,154500,66.1,Would like an on-site assessment.
+LEAD-00287,2026-07-28 03:25,Anna Kristensen,anna.kristensen@example.dk,+45 23 39 91 63,Flooring,60000,Frederiksberg,Referral,Qualified,Jonas Berg,65500,23.7,Looking for an estimate before summer.
+LEAD-00288,2026-08-22 08:50,Emil Jørgensen,emil.jørgensen at example.dk,+45 49 47 54 74,Kitchen,122000,Frederiksberg,Google,Contacted,Sofie Holm,121000,52.0,Has inspiration photos ready.
+LEAD-00289,2026-01-14 21:30,Clara Rasmussen,clara.rasmussen@example.dk,+45 56 56 22 53,Kitchen,244000,Vesterbro,Referral,Won,Sofie Holm,238500,48.4,Wants to compare a few layout options.
+LEAD-00290,2026-03-08 17:28,Nikolaj Nielsen,nikolaj.nielsen@example.dk,+45 45 11 34 91,Full renovation,527000,Brønshøj,Google,Lost,Sofie Holm,486000,50.3,Looking for an estimate before summer.
+LEAD-00291,2026-01-09 21:03,Sara Madsen,sara.madsen@example.dk,+45 33 53 55 78,Bathroom,122000,Hellerup,Referral,New,,127000,,Interested in a sustainable material option.
+LEAD-00292,2025-12-12 05:46,Jonas Thomsen,jonas.thomsen@example.dk,+45 21 59 98 92,Full renovation,768000,Hellerup,Facebook,Contacted,Anna Larsen,832500,44.6,Would like an on-site assessment.
+LEAD-00293,2026-01-15 22:19,Anna Nielsen,anna.nielsen@example.dk,+45 28 17 78 44,Kitchen,297000,Vanløse,Referral,Qualified,Anna Larsen,299000,40.8,Would like an on-site assessment.
+LEAD-00294,2025-11-05 01:38,Mathilde Rasmussen,mathilde.rasmussen@example.dk,+45 26 91 42 62,Bathroom,140000,Nørrebro,Google,Lost,Mads Nielsen,141500,10.1,Has inspiration photos ready.
+LEAD-00295,2026-05-30 10:14,Anna Larsen,anna.larsen at example.dk,+45 29 26 59 89,Full renovation,271000,Vesterbro,Referral,Contacted,Sofie Holm,277000,33.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00296,2025-12-26 10:53,Emil Nielsen,emil.nielsen@example.dk,+45 58 57 95 11,Kitchen,241000,Østerbro,Referral,Won,Jonas Berg,259500,69.2,Looking for an estimate before summer.
+LEAD-00297,2026-03-16 04:50,Victor Nielsen,victor.nielsen@example.dk,+45 39 54 50 99,Bathroom,93000,Amager,Google,Quoted,Sofie Holm,88500,7.8,Would like an on-site assessment.
+LEAD-00298,2026-04-24 11:39,Nikolaj Andersen,nikolaj.andersen@example.dk,+45 27 14 78 37,Bathroom,45000,Amager,Website,Lost,Anna Larsen,45000,64.7,Wants to compare a few layout options.
+LEAD-00299,2026-09-06 13:52,Clara Sørensen,clara.sørensen@example.dk,+45 51 69 65 62,Painting,28000,Copenhagen K,Partner,Contacted,Mads Nielsen,25500,10.7,Interested in a sustainable material option.
+LEAD-00300,2025-12-21 01:59,Mathilde Rasmussen,mathilde.rasmussen@example.dk,+45 43 54 75 81,Bathroom,128000,Vanløse,Facebook,New,,124500,,Has inspiration photos ready.
+LEAD-00301,2025-11-27 22:40,Mathilde Thomsen,mathilde.thomsen@example.dk,+45 58 41 71 53,Full renovation,298000,Nørrebro,Facebook,Qualified,Anna Larsen,281000,60.6,Interested in a sustainable material option.
+LEAD-00302,2026-03-08 22:33,Sara Christensen,sara.christensen@example.dk,+45 28 28 11 11,Full renovation,516000,Valby,Instagram,Contacted,Mads Nielsen,593000,57.6,Interested in a sustainable material option.
+LEAD-00303,2026-07-27 21:05,Lukas Andersen,lukas.andersen@example.dk,+45 33 54 19 69,Bathroom,84000,Vanløse,Referral,Lost,Anna Larsen,94000,38.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00304,2026-06-29 22:14,William Poulsen,william.poulsen@example.dk,+45 42 41 59 23,Bathroom,97000,Valby,Google,New,,107000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00305,2026-09-26 17:47,Sofie Nielsen,sofie.nielsen@example.dk,+45 34 33 50 56,Kitchen,240000,Amager,Website,Quoted,Anna Larsen,216000,38.2,Interested in a sustainable material option.
+LEAD-00306,2026-05-14 13:41,Alma Sørensen,alma.sørensen@example.dk,+45 32 49 34 29,Painting,62000,Brønshøj,Google,Qualified,Sofie Holm,60500,34.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00307,2026-06-05 21:27,Oscar Larsen,oscar.larsen@example.dk,+45 25 86 70 93,Painting,53000,Valby,Referral,New,,54000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00308,2025-12-20 21:18,Lukas Christensen,lukas.christensen@example.dk,+45 41 16 62 80,Kitchen,103000,Brønshøj,Referral,Quoted,Sofie Holm,109000,59.7,Looking for an estimate before summer.
+LEAD-00309,2025-11-28 09:12,Clara Thomsen,clara.thomsen@example.dk,+45 32 39 29 17,Painting,57000,Østerbro,Referral,Quoted,Mads Nielsen,61500,10.7,Interested in a sustainable material option.
+LEAD-00310,2025-10-09 19:55,Clara Larsen,clara.larsen@example.dk,+45 43 82 68 89,Flooring,40000,Vanløse,Google,Quoted,Mads Nielsen,38000,15.6,Looking for an estimate before summer.
+LEAD-00311,2025-12-28 16:54,Lukas Nielsen,lukas.nielsen@example.dk,+45 22 64 58 23,Painting,31000,Frederiksberg,Google,Contacted,Anna Larsen,29500,14.2,Would like an on-site assessment.
+LEAD-00312,2026-05-09 19:47,Sofie Pedersen,sofie.pedersen@example.dk,+45 52 28 74 46,Bathroom,81000,Amager,Google,Quoted,Jonas Berg,88000,57.4,Has inspiration photos ready.
+LEAD-00313,2025-12-03 10:28,Jonas Pedersen,jonas.pedersen@example.dk,+45 39 98 64 57,Kitchen,213000,Hellerup,Google,Contacted,Mads Nielsen,213000,35.1,Would like an on-site assessment.
+LEAD-00314,2026-01-27 22:31,Oscar Madsen,oscar.madsen@example.dk,+45 53 92 92 16,Painting,61000,Vanløse,Website,Won,Mads Nielsen,64500,52.6,Interested in a sustainable material option.
+LEAD-00315,2026-07-22 18:00,Emma Christensen,emma.christensen@example.dk,+45 26 54 46 61,Bathroom,76000,Brønshøj,Referral,Lost,Sofie Holm,81000,40.5,Interested in a sustainable material option.
+LEAD-00316,2026-05-24 00:52,Jonas Larsen,jonas.larsen@example.dk,+45 24 76 30 41,Full renovation,355000,Amager,Referral,Qualified,Jonas Berg,403500,47.4,Looking for an estimate before summer.
+LEAD-00317,2026-08-16 21:12,Nikolaj Madsen,nikolaj.madsen@example.dk,+45 54 40 37 66,Full renovation,445000,Frederiksberg,Google,Unresponsive,Sofie Holm,494500,33.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00318,2026-04-18 06:57,Laura Sørensen,laura.sørensen@example.dk,+45 33 80 56 36,Bathroom,143000,Vanløse,Google,Qualified,Anna Larsen,163500,39.0,Interested in a sustainable material option.
+LEAD-00319,2026-01-30 15:51,Lukas Jørgensen,lukas.jørgensen@example.dk,+45 47 95 57 20,Bathroom,174000,Østerbro,Google,Lost,Anna Larsen,191000,20.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00320,2026-08-04 21:07,Victor Sørensen,victor.sørensen@example.dk,+45 21 44 66 30,Full renovation,723000,Copenhagen K,Instagram,Lost,Anna Larsen,718000,16.2,Would like an on-site assessment.
+LEAD-00321,2026-04-28 06:21,Emma Poulsen,emma.poulsen@example.dk,+45 39 95 67 60,Kitchen,284000,Brønshøj,Partner,Quoted,Anna Larsen,277000,70.0,Wants to compare a few layout options.
+LEAD-00322,2026-08-04 23:57,Nikolaj Nielsen,nikolaj.nielsen@example.dk,+45 23 68 80 27,Flooring,48000,Copenhagen K,Referral,Lost,Jonas Berg,47500,10.2,Interested in a sustainable material option.
+LEAD-00323,2026-07-20 05:32,Mathilde Poulsen,mathilde.poulsen@example.dk,+45 33 19 63 47,Bathroom,142000,Valby,Google,Lost,Mads Nielsen,143000,35.2,Looking for an estimate before summer.
+LEAD-00324,2026-04-14 12:55,Anna Thomsen,anna.thomsen@example.dk,+45 24 65 42 19,Kitchen,212000,Valby,Referral,New,,233000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00325,2026-08-03 05:39,Nikolaj Pedersen,nikolaj.pedersen@example.dk,+45 56 95 87 84,Bathroom,168000,Vesterbro,Website,Unresponsive,Mads Nielsen,157500,14.9,Interested in a sustainable material option.
+LEAD-00326,2025-12-10 20:51,Anders Madsen,anders.madsen@example.dk,+45 44 31 61 33,bathroom,48000,Vanløse,Website,Won,Mads Nielsen,51000,64.4,Looking for an estimate before summer.
+LEAD-00327,2025-10-21 08:01,Sofie Pedersen,sofie.pedersen@example.dk,+45 52 44 58 93,Bathroom,167000,Østerbro,Partner,New,,166000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00328,2026-09-17 03:20,Freja Larsen,freja.larsen@example.dk,+45 37 50 19 64,Bathroom,124000,Copenhagen K,Instagram,Qualified,Jonas Berg,132500,17.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00329,2026-07-23 14:05,Jonas Nielsen,jonas.nielsen@example.dk,+45 50 62 59 90,Kitchen,292000,Brønshøj,Referral,Qualified,Jonas Berg,292500,28.2,Wants to compare a few layout options.
+LEAD-00330,2026-03-26 18:33,William Nielsen,william.nielsen@example.dk,+45 56 97 19 18,Full renovation,404000,Frederiksberg,Google,New,,444000,,Would like an on-site assessment.
+LEAD-00331,2025-10-15 14:54,William Olsen,william.olsen@example.dk,+45 36 23 80 49,Flooring,26000,Vesterbro,Google,Quoted,Mads Nielsen,27000,31.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00332,2026-01-27 04:51,Anna Larsen,anna.larsen@example.dk,+45 53 26 24 72,Full renovation,495000,Vesterbro,Instagram,Quoted,Jonas Berg,560000,64.9,Wants to compare a few layout options.
+LEAD-00333,2026-06-07 12:28,Freja Sørensen,freja.sørensen@example.dk,+45 58 57 98 61,Kitchen,126000,Østerbro,Referral,Qualified,Jonas Berg,120500,33.5,Looking for an estimate before summer.
+LEAD-00334,2026-03-15 21:01,Laura Kristensen,laura.kristensen@example.dk,+45 48 75 24 74,Kitchen,219000,Copenhagen K,Referral,New,,247000,,Looking for an estimate before summer.
+LEAD-00335,2026-06-02 21:10,Ida Christensen,ida.christensen@example.dk,+45 53 37 41 27,Flooring,96000,Amager,Referral,Quoted,Jonas Berg,89500,3.6,Interested in a sustainable material option.
+LEAD-00336,2026-07-21 10:28,Anders Andersen,anders.andersen@example.dk,+45 59 17 92 46,Kitchen,208000,Frederiksberg,Google,Lost,Jonas Berg,204000,14.8,Has inspiration photos ready.
+LEAD-00337,2025-10-01 18:18,Anders Poulsen,anders.poulsen@example.dk,+45 27 27 98 55,Flooring,58000,Frederiksberg,Partner,Contacted,Anna Larsen,60500,36.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00338,2026-02-04 05:55,Sara Andersen,sara.andersen@example.dk,+45 41 84 93 68,Painting,73000,Copenhagen K,Website,Quoted,Sofie Holm,82000,22.2,Looking for an estimate before summer.
+LEAD-00339,2026-05-23 12:10,Clara Larsen,clara.larsen@example.dk,+45 20 78 71 27,Bathroom,124000,Vesterbro,Website,New,,122000,,Would like an on-site assessment.
+LEAD-00340,2025-11-10 06:39,Freja Pedersen,freja.pedersen@example.dk,+45 46 27 43 65,Painting,27000,Nørrebro,Website,Unresponsive,Anna Larsen,27000,36.6,Interested in a sustainable material option.
+LEAD-00341,2025-11-08 20:57,Sara Rasmussen,sara.rasmussen@example.dk,+45 33 50 45 76,Kitchen,293000,Nørrebro,Website,Qualified,Anna Larsen,311000,2.0,Has inspiration photos ready.
+LEAD-00342,2026-09-14 01:48,Lukas Christensen,lukas.christensen@example.dk,+45 36 24 87 62,Bathroom,58000,Copenhagen K,Website,New,,61500,,Looking for an estimate before summer.
+LEAD-00343,2026-06-30 06:43,Mikkel Christensen,mikkel.christensen@example.dk,+45 35 94 66 10,Bathroom,121000,Nørrebro,Partner,Lost,Anna Larsen,130000,7.5,Interested in a sustainable material option.
+LEAD-00344,2026-08-17 22:14,Sara Thomsen,sara.thomsen@example.dk,+45 27 36 34 91,Flooring,50000,Brønshøj,Referral,Contacted,Jonas Berg,48000,10.1,Would like an on-site assessment.
+LEAD-00345,2026-05-04 21:41,Mathilde Jensen,mathilde.jensen@example.dk,+45 34 93 16 13,Bathroom,139000,Amager,Referral,New,,149500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00346,2025-12-09 05:46,Ida Andersen,ida.andersen@example.dk,+45 49 42 67 99,Flooring,44000,Copenhagen K,Instagram,Lost,Sofie Holm,43500,49.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00347,2026-06-22 09:56,Noah Olsen,noah.olsen@example.dk,+45 50 12 48 20,kitchen,165000,Frederiksberg,Instagram,Quoted,Jonas Berg,189500,12.2,Looking for an estimate before summer.
+LEAD-00348,2026-08-06 00:11,Anders Rasmussen,anders.rasmussen@example.dk,+45 37 54 51 20,Flooring,77000,Østerbro,Referral,Contacted,Jonas Berg,87500,41.1,Would like an on-site assessment.
+LEAD-00349,2026-05-03 12:30,Oscar Olsen,oscar.olsen@example.dk,+45 23 90 96 45,Kitchen,92000,Copenhagen K,Google,Won,Sofie Holm,104000,31.5,Wants to compare a few layout options.
+LEAD-00350,2026-04-09 09:05,Lukas Jørgensen,lukas.jørgensen@example.dk,+45 37 72 71 17,Kitchen,102000,Vanløse,Google,Quoted,Anna Larsen,93000,38.5,Wants to compare a few layout options.
+LEAD-00351,2026-04-01 15:54,Victor Christensen,victor.christensen@example.dk,+45 49 89 55 21,Flooring,22000,Frederiksberg,Referral,Lost,Anna Larsen,24000,22.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00352,2026-09-22 15:17,Mikkel Jørgensen,mikkel.jørgensen@example.dk,+45 26 34 45 83,Kitchen,167000,Hellerup,Referral,New,,185500,,Looking for an estimate before summer.
+LEAD-00353,2026-08-12 03:31,Mikkel Thomsen,mikkel.thomsen@example.dk,+45 47 79 66 92,Painting,82000,Amager,Google,Won,Jonas Berg,78500,57.3,Interested in a sustainable material option.
+LEAD-00354,2026-08-28 06:11,Oscar Larsen,oscar.larsen@example.dk,+45 25 55 11 17,Kitchen,285000,Amager,Instagram,Unresponsive,Jonas Berg,317000,7.1,Would like an on-site assessment.
+LEAD-00355,2026-02-06 20:54,Jonas Olsen,jonas.olsen@example.dk,+45 40 71 85 94,Painting,71000,Valby,Referral,Contacted,Sofie Holm,73500,38.3,Looking for an estimate before summer.
+LEAD-00356,2026-08-04 20:41,William Pedersen,william.pedersen@example.dk,+45 32 56 31 32,Full renovation,848000,Vanløse,Facebook,Quoted,Mads Nielsen,822500,36.6,Interested in a sustainable material option.
+LEAD-00357,2026-01-11 09:48,Laura Pedersen,laura.pedersen@example.dk,+45 32 83 27 16,Painting,24000,Vesterbro,Website,Won,Mads Nielsen,22000,45.6,Has inspiration photos ready.
+LEAD-00358,2026-07-30 21:24,Clara Thomsen,clara.thomsen@example.dk,+45 50 11 43 46,Full renovation,695000,Brønshøj,Google,New,,630000,,Would like an on-site assessment.
+LEAD-00359,2026-08-10 02:52,Noah Olsen,noah.olsen@example.dk,+45 26 31 88 25,Full renovation,296000,Vesterbro,Instagram,Unresponsive,Anna Larsen,336500,42.8,Has inspiration photos ready.
+LEAD-00360,2025-11-04 14:53,Sofie Nielsen,sofie.nielsen@example.dk,+45 34 33 50 56,Bathroom,122000,Copenhagen K,Facebook,Lost,Mads Nielsen,139500,26.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00361,2025-11-10 13:42,Freja Christensen,freja.christensen@example.dk,+45 36 76 89 91,Full renovation,707000,Vesterbro,Google,New,,764500,,Has inspiration photos ready.
+LEAD-00362,2026-07-25 21:36,Noah Sørensen,noah.sørensen@example.dk,+45 33 96 26 37,Bathroom,144000,Vesterbro,Facebook,Lost,Mads Nielsen,138500,51.8,Interested in a sustainable material option.
+LEAD-00363,2025-12-16 12:00,Oscar Larsen,oscar.larsen@example.dk,+45 44 36 78 76,Full renovation,541000,Copenhagen K,Facebook,Quoted,Jonas Berg,500500,37.7,Interested in a sustainable material option.
+LEAD-00364,2026-07-15 14:14,Laura Rasmussen,laura.rasmussen@example.dk,,Kitchen,149000,Copenhagen K,Facebook,New,,152000,,Wants to compare a few layout options.
+LEAD-00365,2026-02-13 00:27,Victor Kristensen,victor.kristensen@example.dk,+45 28 56 84 28,Full renovation,239000,Nørrebro,Website,Lost,Mads Nielsen,226500,42.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00366,2026-07-14 18:52,Anders Hansen,anders.hansen@example.dk,+45 44 79 31 32,Kitchen,256000,Valby,Facebook,Quoted,Anna Larsen,266000,24.3,Interested in a sustainable material option.
+LEAD-00367,2025-12-01 13:24,Ida Olsen,ida.olsen@example.dk,+45 46 14 34 20,Flooring,52000,Vanløse,Partner,New,,48500,,Wants to compare a few layout options.
+LEAD-00368,2025-10-20 15:23,Sara Madsen,sara.madsen@example.dk,+45 47 73 48 75,Flooring,20000,Hellerup,Facebook,Contacted,Jonas Berg,20500,8.5,Would like an on-site assessment.
+LEAD-00369,2026-03-13 03:49,  MATHILDE THOMSEN  ,mathilde.thomsen@example.dk,+45 58 41 71 53,Kitchen,131000,Brønshøj,Website,Qualified,Mads Nielsen,138000,54.6,Looking for an estimate before summer.
+LEAD-00370,2026-09-18 13:42,Lukas Hansen,lukas.hansen@example.dk,,Painting,68000,Østerbro,Website,Quoted,Sofie Holm,63000,60.9,Would like an on-site assessment.
+LEAD-00371,2026-03-23 17:32,Clara Jensen,clara.jensen@example.dk,+45 51 80 89 84,Kitchen,276000,Valby,Facebook,Won,Sofie Holm,275500,1.6,Looking for an estimate before summer.
+LEAD-00372,2025-11-14 04:26,Freja Olsen,freja.olsen@example.dk,+45 51 28 51 60,Bathroom,146000,Vesterbro,Referral,Quoted,Jonas Berg,162500,55.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00373,2025-11-04 16:00,Laura Jørgensen,laura.jørgensen@example.dk,+45 56 96 61 69,Full renovation,439000,Vanløse,Referral,New,,453500,,Has inspiration photos ready.
+LEAD-00374,2026-01-07 08:52,Clara Christensen,clara.christensen@example.dk,+45 23 17 80 46,Flooring,125000,Brønshøj,Website,Won,Jonas Berg,120500,42.0,Wants to compare a few layout options.
+LEAD-00375,2026-05-10 11:46,Freja Larsen,freja.larsen@example.dk,+45 53 81 99 76,Painting,64000,Østerbro,Google,Contacted,Sofie Holm,63000,19.9,Wants to compare a few layout options.
+LEAD-00376,2026-08-08 18:09,Lukas Larsen,lukas.larsen@example.dk,+45 27 45 22 36,Full renovation,264000,Vanløse,Google,Lost,Jonas Berg,261000,48.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00377,2026-03-06 03:13,Alma Madsen,alma.madsen@example.dk,+45 52 71 98 47,Bathroom,57000,Vesterbro,Referral,Won,Jonas Berg,59000,39.5,Has inspiration photos ready.
+LEAD-00378,2026-05-15 03:22,Mikkel Kristensen,mikkel.kristensen@example.dk,+45 26 83 40 76,Painting,88000,Brønshøj,Instagram,Quoted,Mads Nielsen,88500,46.9,Would like an on-site assessment.
+LEAD-00379,2026-06-28 22:03,Nikolaj Jensen,nikolaj.jensen@example.dk,,Bathroom,142000,Vanløse,Google,Lost,Mads Nielsen,160000,66.9,Has inspiration photos ready.
+LEAD-00380,2026-03-26 10:50,Victor Andersen,victor.andersen@example.dk,+45 54 63 89 39,Full renovation,198000,Amager,Website,Won,Jonas Berg,194500,62.9,Interested in a sustainable material option.
+LEAD-00381,2026-04-10 09:35,William Poulsen,william.poulsen@example.dk,+45 48 68 23 52,Flooring,72000,Nørrebro,Partner,Qualified,Sofie Holm,76500,40.2,Looking for an estimate before summer.
+LEAD-00382,2026-05-25 23:52,Sara Christensen,sara.christensen@example.dk,+45 52 60 44 79,Flooring,66000,Valby,Instagram,Won,Sofie Holm,61500,43.5,Has inspiration photos ready.
+LEAD-00383,2026-02-17 00:53,Mikkel Christensen,mikkel.christensen@example.dk,+45 54 17 25 45,Bathroom,124000,Copenhagen K,Facebook,Lost,Sofie Holm,127000,1.3,Looking for an estimate before summer.
+LEAD-00384,2025-12-03 05:08,Anna Hansen,anna.hansen@example.dk,+45 55 46 30 47,Painting,58000,Nørrebro,Facebook,Qualified,Jonas Berg,61500,46.1,Looking for an estimate before summer.
+LEAD-00385,2026-05-06 01:52,Laura Pedersen,laura.pedersen@example.dk,+45 28 83 42 12,Bathroom,84000,Østerbro,Google,Unresponsive,Jonas Berg,83500,14.9,Wants to compare a few layout options.
+LEAD-00386,2025-10-28 09:37,Emil Rasmussen,emil.rasmussen@example.dk,+45 24 50 25 33,Kitchen,180000,Brønshøj,Google,Won,Mads Nielsen,189500,71.5,Looking for an estimate before summer.
+LEAD-00387,2026-03-20 00:08,Sofie Hansen,sofie.hansen@example.dk,+45 48 15 35 37,Bathroom,109000,Østerbro,Google,Quoted,Anna Larsen,110500,63.4,Wants to compare a few layout options.
+LEAD-00388,2026-07-08 07:34,Sara Nielsen,sara.nielsen@example.dk,+45 26 40 75 36,Full renovation,408000,Vesterbro,Referral,Won,Sofie Holm,448000,42.2,Would like an on-site assessment.
+LEAD-00389,2026-07-12 03:57,Emma Sørensen,emma.sørensen@example.dk,+45 36 92 77 93,Kitchen,234000,Amager,Google,Qualified,Sofie Holm,255000,44.4,Interested in a sustainable material option.
+LEAD-00390,2026-05-15 15:13,Alma Jørgensen,alma.jørgensen@example.dk,+45 43 71 87 83,Painting,53000,Valby,Google,Lost,Mads Nielsen,48500,12.0,Interested in a sustainable material option.
+LEAD-00391,2026-03-19 03:56,Anna Christensen,anna.christensen@example.dk,+45 50 37 29 95,Bathroom,75000,Valby,Referral,Won,Anna Larsen,82000,17.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00392,2026-07-17 02:57,Emma Hansen,emma.hansen@example.dk,+45 59 25 31 94,Painting,30000,Brønshøj,Website,Qualified,Mads Nielsen,31000,42.8,Has inspiration photos ready.
+LEAD-00393,2025-10-09 07:54,Nikolaj Pedersen,nikolaj.pedersen@example.dk,+45 56 42 61 31,full renovation,243000,Brønshøj,Website,Won,Sofie Holm,266000,69.7,Wants to compare a few layout options.
+LEAD-00394,2026-03-27 23:09,Mikkel Olsen,mikkel.olsen@example.dk,+45 24 34 93 56,Kitchen,281000,Valby,Website,Contacted,Sofie Holm,256500,13.0,Wants to compare a few layout options.
+LEAD-00395,2026-04-22 02:51,Anna Christensen,anna.christensen@example.dk,+45 43 91 84 82,Flooring,95000,Valby,Facebook,Lost,Jonas Berg,91000,15.4,Wants to compare a few layout options.
+LEAD-00396,2026-08-09 01:51,Sofie Jørgensen,sofie.jørgensen@example.dk,+45 49 87 29 63,Flooring,31000,Copenhagen K,Website,New,,30000,,Would like an on-site assessment.
+LEAD-00397,2025-11-22 21:46,Anna Rasmussen,anna.rasmussen@example.dk,+45 20 78 65 61,Flooring,120000,Nørrebro,Google,Qualified,Mads Nielsen,134000,11.1,Looking for an estimate before summer.
+LEAD-00398,2026-01-31 18:50,Victor Nielsen,victor.nielsen@example.dk,+45 51 63 85 75,Full renovation,729000,Vesterbro,Referral,Qualified,Sofie Holm,758500,39.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00399,2026-02-15 10:07,Anders Thomsen,anders.thomsen@example.dk,+45 50 63 68 35,Flooring,119000,Frederiksberg,Referral,Quoted,Anna Larsen,129000,6.0,Looking for an estimate before summer.
+LEAD-00400,2026-07-07 09:18,Noah Kristensen,noah.kristensen@example.dk,+45 35 17 53 28,Bathroom,139000,Hellerup,Instagram,Contacted,Mads Nielsen,129500,55.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00401,2026-04-07 21:21,Victor Larsen,victor.larsen@example.dk,+45 59 40 30 22,Bathroom,83000,Nørrebro,Website,Won,Mads Nielsen,78500,68.1,Wants to compare a few layout options.
+LEAD-00402,2026-09-25 16:49,  WILLIAM POULSEN  ,william.poulsen@example.dk,,Full renovation,482000,Hellerup,Instagram,Lost,Sofie Holm,486000,23.1,Would like an on-site assessment.
+LEAD-00403,2026-08-14 05:21,Sofie Pedersen,sofie.pedersen@example.dk,+45 48 92 96 54,Flooring,24000,Brønshøj,Google,Quoted,Mads Nielsen,22500,2.1,Would like an on-site assessment.
+LEAD-00404,2026-06-27 17:12,Anna Jensen,anna.jensen@example.dk,+45 41 36 65 46,Kitchen,293000,Vanløse,Facebook,Lost,Mads Nielsen,299500,42.1,Has inspiration photos ready.
+LEAD-00405,2025-12-11 00:23,Anna Christensen,anna.christensen@example.dk,+45 42 89 49 12,Full renovation,351000,Østerbro,Google,New,,321500,,Looking for an estimate before summer.
+LEAD-00406,2026-09-06 14:52,Ida Pedersen,ida.pedersen@example.dk,,Flooring,115000,Østerbro,Website,Unresponsive,Jonas Berg,113000,68.2,Would like an on-site assessment.
+LEAD-00407,2026-02-13 08:24,Anna Nielsen,anna.nielsen@example.dk,,Bathroom,48000,Frederiksberg,Google,Lost,Mads Nielsen,43500,48.8,Has inspiration photos ready.
+LEAD-00408,2026-08-17 03:56,Ida Andersen,ida.andersen@example.dk,+45 40 96 78 41,Bathroom,129000,Valby,Website,Contacted,Mads Nielsen,127500,12.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00409,2025-10-24 12:36,Victor Christensen,victor.christensen@example.dk,+45 28 38 27 53,Flooring,34000,Brønshøj,Referral,New,,36000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00410,2026-08-10 20:16,Mathilde Thomsen,mathilde.thomsen@example.dk,+45 50 71 20 86,Bathroom,135000,Brønshøj,Website,Contacted,Mads Nielsen,130500,41.2,Wants to compare a few layout options.
+LEAD-00411,2025-12-29 19:36,  LAURA RASMUSSEN  ,laura.rasmussen@example.dk,+45 38 89 10 23,Flooring,39000,Nørrebro,Partner,Contacted,Jonas Berg,41500,11.3,Looking for an estimate before summer.
+LEAD-00412,2026-04-30 15:09,Emil Sørensen,emil.sørensen@example.dk,+45 49 39 95 87,Kitchen,159000,Valby,Website,Qualified,Jonas Berg,147500,6.8,Would like an on-site assessment.
+LEAD-00413,2025-12-14 05:59,Lukas Larsen,lukas.larsen@example.dk,+45 20 16 91 49,Bathroom,118000,Nørrebro,Website,Lost,Anna Larsen,117000,48.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00414,2026-01-17 23:14,Emil Sørensen,emil.sørensen@example.dk,+45 34 39 20 79,Painting,16000,Vanløse,Referral,Quoted,Mads Nielsen,15500,2.0,Wants to compare a few layout options.
+LEAD-00415,2026-06-04 02:49,Mikkel Kristensen,mikkel.kristensen@example.dk,,Painting,84000,Brønshøj,Referral,Quoted,Mads Nielsen,88500,45.2,Interested in a sustainable material option.
+LEAD-00416,2026-05-09 09:10,Oscar Thomsen,oscar.thomsen@example.dk,+45 53 29 93 53,Flooring,41000,Nørrebro,Google,New,,39000,,Interested in a sustainable material option.
+LEAD-00417,2026-08-25 03:47,Anna Kristensen,anna.kristensen@example.dk,+45 25 45 22 66,Bathroom,57000,Nørrebro,Google,Won,Sofie Holm,53500,30.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00418,2026-08-21 02:24,Nikolaj Olsen,nikolaj.olsen@example.dk,+45 26 52 78 10,Painting,71000,Brønshøj,Website,Quoted,Sofie Holm,76000,56.3,Wants to compare a few layout options.
+LEAD-00419,2025-11-02 02:34,Nikolaj Olsen,nikolaj.olsen@example.dk,+45 55 51 92 63,Bathroom,124000,Valby,Instagram,New,,113500,,Has inspiration photos ready.
+LEAD-00420,2026-03-19 12:35,Mikkel Nielsen,mikkel.nielsen@example.dk,+45 50 61 51 56,Bathroom,58000,Østerbro,Facebook,New,,63500,,Looking for an estimate before summer.
+LEAD-00421,2025-10-22 15:54,Anders Madsen,anders.madsen@example.dk,+45 49 90 72 16,Full renovation,308000,Østerbro,Website,Qualified,Anna Larsen,340000,31.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00422,2026-04-06 04:16,Anna Rasmussen,anna.rasmussen@example.dk,+45 24 82 96 52,Painting,76000,Hellerup,Facebook,New,,73500,,Interested in a sustainable material option.
+LEAD-00423,2026-01-12 19:37,Sara Jensen,sara.jensen@example.dk,+45 36 55 88 14,Bathroom,160000,Amager,Google,Quoted,Sofie Holm,170000,12.0,Looking for an estimate before summer.
+LEAD-00424,2026-02-27 11:19,Lukas Andersen,lukas.andersen@example.dk,+45 47 93 41 10,Flooring,31000,Valby,Website,Contacted,Sofie Holm,34000,60.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00425,2026-03-10 08:23,Anders Rasmussen,anders.rasmussen@example.dk,+45 57 92 95 91,Kitchen,220000,Copenhagen K,Referral,Won,Anna Larsen,244500,25.4,Wants to compare a few layout options.
+LEAD-00426,2026-05-09 07:49,Sofie Sørensen,sofie.sørensen@example.dk,+45 45 64 33 93,Kitchen,78000,Vanløse,Website,Contacted,Jonas Berg,73000,71.9,Has inspiration photos ready.
+LEAD-00427,2025-12-24 16:08,Emma Larsen,emma.larsen@example.dk,+45 50 78 27 30,Full renovation,515000,Vesterbro,Instagram,Contacted,Anna Larsen,491500,17.6,Interested in a sustainable material option.
+LEAD-00428,2026-03-27 23:03,Mikkel Andersen,mikkel.andersen@example.dk,+45 26 31 94 30,Painting,54000,Copenhagen K,Google,Qualified,Jonas Berg,55500,66.2,Interested in a sustainable material option.
+LEAD-00429,2025-12-02 07:31,Laura Christensen,laura.christensen@example.dk,+45 50 95 61 38,Painting,71000,Hellerup,Referral,Contacted,Anna Larsen,77000,58.1,Has inspiration photos ready.
+LEAD-00430,2026-01-27 13:03,Anna Larsen,anna.larsen@example.dk,+45 40 90 30 37,Kitchen,288000,Valby,Google,Quoted,Jonas Berg,276000,31.9,Has inspiration photos ready.
+LEAD-00431,2026-05-09 02:37,Victor Poulsen,victor.poulsen@example.dk,+45 39 62 21 58,Kitchen,245000,Valby,Referral,Contacted,Jonas Berg,232000,46.7,Interested in a sustainable material option.
+LEAD-00432,2026-02-16 16:18,Clara Jørgensen,clara.jørgensen@example.dk,+45 56 86 77 10,Kitchen,202000,Vesterbro,Instagram,Lost,Mads Nielsen,211000,25.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00433,2026-02-01 02:05,Ida Larsen,ida.larsen@example.dk,+45 46 87 58 76,Painting,22000,Amager,Referral,Won,Anna Larsen,23500,14.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00434,2026-01-14 15:19,Lukas Nielsen,lukas.nielsen@example.dk,+45 49 73 11 58,Kitchen,287000,Nørrebro,Facebook,Lost,Jonas Berg,317000,43.8,Wants to compare a few layout options.
+LEAD-00435,2025-10-12 00:55,Oscar Larsen,oscar.larsen@example.dk,+45 44 36 78 76,Bathroom,49000,Vanløse,Referral,New,,50000,,Wants to compare a few layout options.
+LEAD-00436,2025-11-04 15:21,Freja Thomsen,freja.thomsen@example.dk,+45 40 98 28 25,Bathroom,118000,Nørrebro,Instagram,Qualified,Jonas Berg,122000,25.9,Looking for an estimate before summer.
+LEAD-00437,2025-10-12 20:39,Lukas Kristensen,lukas.kristensen@example.dk,+45 25 70 22 69,Painting,34000,Nørrebro,Website,Qualified,Anna Larsen,37000,66.8,Has inspiration photos ready.
+LEAD-00438,2026-01-16 04:14,Anna Jørgensen,anna.jørgensen@example.dk,+45 39 18 61 70,Kitchen,176000,Vanløse,Facebook,Lost,Sofie Holm,173500,59.6,Has inspiration photos ready.
+LEAD-00439,2026-08-20 20:57,Sara Larsen,sara.larsen@example.dk,+45 24 46 30 34,Kitchen,142000,Nørrebro,Website,New,,130500,,Wants to compare a few layout options.
+LEAD-00440,2026-02-17 14:38,Mikkel Hansen,mikkel.hansen@example.dk,+45 21 38 79 47,Bathroom,107000,Østerbro,Google,Contacted,Sofie Holm,116500,0.4,Interested in a sustainable material option.
+LEAD-00441,2026-01-14 21:34,Lukas Jensen,lukas.jensen@example.dk,+45 26 38 57 64,Bathroom,163000,Hellerup,Website,Quoted,Jonas Berg,181500,43.1,Apartment renovation; access is easiest on weekdays.
+LEAD-00442,2026-05-18 11:28,Sofie Andersen,sofie.andersen@example.dk,,Painting,89000,Valby,Referral,Lost,Sofie Holm,84500,62.4,Would like an on-site assessment.
+LEAD-00443,2025-10-04 23:28,Anna Madsen,anna.madsen@example.dk,+45 34 21 18 78,Kitchen,111000,Valby,Website,Contacted,Mads Nielsen,123000,64.3,Would like an on-site assessment.
+LEAD-00444,2025-12-03 11:57,Nikolaj Sørensen,nikolaj.sørensen@example.dk,+45 36 63 16 45,Painting,0,Brønshøj,Referral,New,,11000,,Has inspiration photos ready.
+LEAD-00445,2026-05-15 13:05,Mikkel Thomsen,mikkel.thomsen@example.dk,+45 31 58 26 76,Bathroom,170000,Copenhagen K,Google,New,,192000,,Would like an on-site assessment.
+LEAD-00446,2025-10-05 21:19,Victor Kristensen,victor.kristensen@example.dk,+45 45 99 64 53,Flooring,101000,Brønshøj,Google,Lost,Anna Larsen,96000,37.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00447,2025-10-05 17:10,Victor Poulsen,victor.poulsen@example.dk,+45 33 47 57 60,Painting,25000,Frederiksberg,Facebook,New,,26500,,Has inspiration photos ready.
+LEAD-00448,2025-10-26 08:26,Mikkel Sørensen,mikkel.sørensen@example.dk,,Painting,80000,Frederiksberg,Website,Lost,Anna Larsen,72000,41.6,Would like an on-site assessment.
+LEAD-00449,2026-04-20 15:36,Oscar Nielsen,oscar.nielsen@example.dk,+45 41 60 48 64,Full renovation,545000,Hellerup,Referral,Unresponsive,Anna Larsen,618500,45.3,Has inspiration photos ready.
+LEAD-00450,2026-07-23 23:37,Victor Olsen,victor.olsen@example.dk,+45 20 92 62 31,Flooring,91000,Hellerup,Referral,New,,95000,,Wants to compare a few layout options.
+LEAD-00451,2026-06-18 18:53,  ANDERS JØRGENSEN  ,anders.jørgensen@example.dk,+45 22 60 45 73,Painting,46000,Nørrebro,Google,Quoted,Jonas Berg,44500,32.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00452,2026-03-29 01:39,Emil Jørgensen,emil.jørgensen@example.dk,+45 25 85 76 96,Painting,17000,Valby,Instagram,Quoted,Anna Larsen,19000,18.3,Wants to compare a few layout options.
+LEAD-00453,2026-06-28 15:31,Emma Sørensen,emma.sørensen@example.dk,+45 31 84 91 52,Painting,41000,Brønshøj,Facebook,Qualified,Jonas Berg,41500,8.7,Has inspiration photos ready.
+LEAD-00454,2025-12-27 18:50,  WILLIAM JØRGENSEN  ,william.jørgensen@example.dk,+45 58 98 45 35,Flooring,71000,Frederiksberg,Referral,New,,76500,,Has inspiration photos ready.
+LEAD-00455,2026-03-03 22:56,Victor Poulsen,victor.poulsen@example.dk,+45 31 86 38 11,Flooring,49000,Nørrebro,Google,Contacted,Anna Larsen,53000,8.8,Would like an on-site assessment.
+LEAD-00456,2025-12-04 06:32,Nikolaj Christensen,nikolaj.christensen@example.dk,+45 29 95 60 33,Flooring,47000,Nørrebro,Referral,Quoted,Mads Nielsen,46500,58.0,Looking for an estimate before summer.
+LEAD-00457,2026-01-30 12:50,Emil Pedersen,emil.pedersen@example.dk,+45 53 43 98 64,Bathroom,79000,Amager,Referral,Lost,Anna Larsen,76500,7.1,Would like an on-site assessment.
+LEAD-00458,2026-03-14 01:49,Sara Kristensen,sara.kristensen@example.dk,+45 22 21 83 98,Painting,17000,Vesterbro,Referral,Unresponsive,Sofie Holm,16500,60.0,Wants to compare a few layout options.
+LEAD-00459,2026-07-30 21:13,Lukas Pedersen,lukas.pedersen@example.dk,+45 58 23 77 46,Painting,47000,Frederiksberg,Website,Lost,Sofie Holm,43000,15.2,Looking for an estimate before summer.
+LEAD-00460,2026-04-12 19:23,Victor Larsen,victor.larsen@example.dk,+45 57 34 84 89,Bathroom,120000,Copenhagen K,Facebook,Quoted,Sofie Holm,118500,36.0,Interested in a sustainable material option.
+LEAD-00461,2026-04-10 02:40,Clara Jensen,clara.jensen@example.dk,+45 50 61 89 50,Kitchen,129000,Hellerup,Instagram,New,,135000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00462,2026-01-14 10:11,Victor Jørgensen,victor.jørgensen@example.dk,+45 21 66 99 12,Full renovation,329000,Vanløse,Instagram,Lost,Mads Nielsen,348500,61.6,Looking for an estimate before summer.
+LEAD-00463,2026-08-05 00:36,Emil Madsen,emil.madsen@example.dk,+45 31 21 97 54,Full renovation,569000,Nørrebro,Referral,New,,525500,,Would like an on-site assessment.
+LEAD-00464,2026-01-19 04:27,Mathilde Madsen,mathilde.madsen@example.dk,+45 39 65 50 66,Full renovation,449000,Nørrebro,Website,Qualified,Anna Larsen,435500,46.4,Would like an on-site assessment.
+LEAD-00465,2026-08-07 07:46,Mikkel Larsen,mikkel.larsen@example.dk,+45 34 34 26 78,Full renovation,657000,Copenhagen K,Facebook,Won,Mads Nielsen,698500,23.7,Interested in a sustainable material option.
+LEAD-00466,2025-11-08 09:43,Laura Kristensen,laura.kristensen@example.dk,+45 47 74 39 75,Painting,83000,Vanløse,Website,Lost,Mads Nielsen,83500,51.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00467,2025-12-03 16:06,Noah Jensen,noah.jensen@example.dk,+45 32 69 62 67,Bathroom,134000,Vanløse,Partner,New,,128500,,Looking for an estimate before summer.
+LEAD-00468,2026-03-11 13:55,Mikkel Christensen,mikkel.christensen@example.dk,+45 54 17 25 45,Full renovation,740000,Valby,Google,Contacted,Jonas Berg,714500,44.5,Wants to compare a few layout options.
+LEAD-00469,2026-08-25 21:15,Freja Hansen,freja.hansen@example.dk,+45 53 84 89 71,Bathroom,144000,Copenhagen K,Facebook,Qualified,Anna Larsen,151500,37.7,Would like an on-site assessment.
+LEAD-00470,2026-09-07 05:28,Jonas Larsen,jonas.larsen@example.dk,+45 23 56 14 82,Bathroom,67000,Hellerup,Referral,Quoted,Mads Nielsen,70000,35.3,Looking for an estimate before summer.
+LEAD-00471,2025-12-15 08:30,Lukas Larsen,lukas.larsen@example.dk,+45 53 68 55 48,Bathroom,127000,Vanløse,Referral,Won,Jonas Berg,117500,19.8,Has inspiration photos ready.
+LEAD-00472,2025-11-14 00:14,Laura Sørensen,laura.sørensen@example.dk,+45 20 31 89 75,Bathroom,129000,Copenhagen K,Website,Qualified,Anna Larsen,126000,2.9,Looking for an estimate before summer.
+LEAD-00473,2026-06-20 10:23,Sara Kristensen,sara.kristensen@example.dk,+45 30 84 76 94,Painting,74000,Frederiksberg,Google,Contacted,Anna Larsen,81500,47.7,Has inspiration photos ready.
+LEAD-00474,2026-06-14 21:51,William Pedersen,william.pedersen@example.dk,+45 32 56 31 32,Bathroom,99000,Vanløse,Partner,Contacted,Anna Larsen,99000,54.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00475,2026-07-30 01:43,Anna Sørensen,anna.sørensen@example.dk,+45 37 20 26 90,Kitchen,226000,Copenhagen K,Facebook,Contacted,Anna Larsen,208500,13.3,Interested in a sustainable material option.
+LEAD-00476,2025-12-21 14:54,Anders Madsen,anders.madsen@example.dk,+45 59 32 10 92,Kitchen,123000,Frederiksberg,Referral,New,,131000,,Wants to compare a few layout options.
+LEAD-00477,2026-05-30 14:38,Clara Olsen,clara.olsen@example.dk,+45 46 48 50 18,Full renovation,815000,Nørrebro,Referral,Contacted,Sofie Holm,832000,61.1,Apartment renovation; access is easiest on weekdays.
+LEAD-00478,2026-01-28 09:30,Noah Nielsen,noah.nielsen@example.dk,+45 48 71 42 51,Painting,41000,Frederiksberg,Website,Won,Sofie Holm,46000,44.5,Looking for an estimate before summer.
+LEAD-00479,2026-04-13 06:53,Ida Andersen,ida.andersen@example.dk,+45 52 99 97 60,Flooring,102000,Østerbro,Google,Won,Jonas Berg,98000,58.6,Looking for an estimate before summer.
+LEAD-00480,2026-06-29 18:08,William Kristensen,william.kristensen@example.dk,+45 57 33 68 56,Painting,24000,Hellerup,Referral,New,,22500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00481,2026-06-14 14:55,Emil Kristensen,emil.kristensen@example.dk,,Painting,84000,Nørrebro,Google,Won,Sofie Holm,77000,21.8,Wants to compare a few layout options.
+LEAD-00482,2026-07-09 06:29,Anna Jørgensen,anna.jørgensen@example.dk,+45 45 10 73 84,Kitchen,101000,Valby,Google,Unresponsive,Sofie Holm,98000,4.2,Wants to compare a few layout options.
+LEAD-00483,2025-10-18 03:59,Emma Olsen,emma.olsen@example.dk,+45 24 13 60 83,Flooring,42000,Copenhagen K,Google,Unresponsive,Sofie Holm,47000,17.5,Looking for an estimate before summer.
+LEAD-00484,2026-06-09 04:09,Mikkel Olsen,mikkel.olsen@example.dk,+45 45 14 59 43,Kitchen,143000,Østerbro,Website,Qualified,Jonas Berg,161500,55.8,Looking for an estimate before summer.
+LEAD-00485,2026-09-27 02:57,  VICTOR ANDERSEN  ,victor.andersen@example.dk,+45 34 44 33 95,Bathroom,110000,Valby,Referral,Lost,Sofie Holm,105500,40.0,Has inspiration photos ready.
+LEAD-00486,2025-12-01 03:37,Emil Hansen,emil.hansen@example.dk,+45 25 97 56 54,Full renovation,644000,Copenhagen K,Referral,Won,Anna Larsen,649500,49.3,Looking for an estimate before summer.
+LEAD-00487,2026-09-16 08:38,Lukas Thomsen,lukas.thomsen@example.dk,+45 43 24 58 87,Flooring,129000,Hellerup,Google,Contacted,Anna Larsen,137000,51.3,Would like an on-site assessment.
+LEAD-00488,2026-06-05 00:19,Anders Larsen,anders.larsen@example.dk,+45 21 67 81 29,Bathroom,88000,Vesterbro,Google,New,,80500,,Has inspiration photos ready.
+LEAD-00489,2026-05-26 03:05,Jonas Thomsen,jonas.thomsen@example.dk,+45 20 42 48 70,Painting,77000,Vanløse,Facebook,Contacted,Jonas Berg,80500,49.1,Looking for an estimate before summer.
+LEAD-00490,2026-06-20 09:49,Emil Jørgensen,emil.jørgensen at example.dk,+45 33 83 36 36,Painting,36000,Vesterbro,Google,Contacted,Jonas Berg,33000,67.4,Interested in a sustainable material option.
+LEAD-00491,2025-10-26 20:56,Alma Jensen,alma.jensen@example.dk,+45 24 32 16 24,Flooring,27000,Vanløse,Google,Qualified,Mads Nielsen,30500,47.2,Has inspiration photos ready.
+LEAD-00492,2026-09-03 07:31,Lukas Hansen,lukas.hansen@example.dk,+45 47 45 16 83,Flooring,37000,Vanløse,Google,Qualified,Anna Larsen,40500,11.5,Would like an on-site assessment.
+LEAD-00493,2025-10-25 01:29,Laura Jensen,laura.jensen@example.dk,+45 49 16 77 43,Full renovation,512000,Vesterbro,Website,Unresponsive,Mads Nielsen,530500,56.3,Looking for an estimate before summer.
+LEAD-00494,2026-09-07 22:47,Lukas Hansen,lukas.hansen@example.dk,+45 37 40 93 12,Painting,77000,Vesterbro,Google,Won,Sofie Holm,85500,56.7,Wants to compare a few layout options.
+LEAD-00495,2026-02-19 18:29,Mikkel Thomsen,mikkel.thomsen@example.dk,+45 28 20 18 96,Full renovation,813000,Hellerup,Referral,Quoted,Jonas Berg,877000,21.4,Interested in a sustainable material option.
+LEAD-00496,2026-02-16 17:40,William Jensen,william.jensen@example.dk,+45 43 51 55 99,Flooring,83000,Amager,Google,Quoted,Sofie Holm,80000,62.6,Looking for an estimate before summer.
+LEAD-00497,2026-05-28 16:59,Laura Jørgensen,laura.jørgensen@example.dk,+45 20 14 38 20,Bathroom,113000,Vanløse,Facebook,Won,Sofie Holm,120000,22.6,Wants to compare a few layout options.
+LEAD-00498,2026-05-01 07:22,Emil Hansen,emil.hansen@example.dk,+45 33 36 27 59,Painting,21000,Amager,Website,Unresponsive,Jonas Berg,24000,19.5,Has inspiration photos ready.
+LEAD-00499,2025-11-02 02:30,Freja Jørgensen,freja.jørgensen@example.dk,+45 59 85 18 95,Painting,55000,Vesterbro,Instagram,Quoted,Mads Nielsen,62500,26.9,Wants to compare a few layout options.
+LEAD-00500,2026-01-19 05:42,Lukas Jørgensen,lukas.jørgensen@example.dk,+45 55 76 25 96,Bathroom,143000,Nørrebro,Google,Qualified,Mads Nielsen,143500,42.4,Interested in a sustainable material option.
+LEAD-00501,2025-11-23 10:07,Jonas Rasmussen,jonas.rasmussen@example.dk,+45 32 53 76 65,Kitchen,244000,Nørrebro,Google,Unresponsive,Sofie Holm,230000,21.1,Would like an on-site assessment.
+LEAD-00502,2026-02-16 21:01,Mikkel Nielsen,mikkel.nielsen@example.dk,+45 22 13 22 67,Full renovation,238000,Valby,Facebook,Won,Sofie Holm,267500,8.2,Looking for an estimate before summer.
+LEAD-00503,2026-08-27 21:19,Freja Rasmussen,freja.rasmussen@example.dk,+45 43 29 80 96,Full renovation,365000,Vanløse,Google,Unresponsive,Sofie Holm,379000,8.3,Has inspiration photos ready.
+LEAD-00504,2026-01-08 15:23,William Christensen,william.christensen@example.dk,+45 23 68 64 89,Kitchen,252000,Copenhagen K,Referral,New,,264000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00505,2025-10-14 11:27,Victor Poulsen,victor.poulsen@example.dk,+45 43 36 33 43,Bathroom,87000,Vanløse,Facebook,Lost,Jonas Berg,90000,26.1,Has inspiration photos ready.
+LEAD-00506,2026-06-21 11:48,Oscar Larsen,oscar.larsen@example.dk,+45 54 51 90 14,Flooring,127000,Østerbro,Referral,Unresponsive,Jonas Berg,119500,59.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00507,2026-08-28 10:58,Ida Christensen,ida.christensen@example.dk,+45 22 43 80 36,full renovation,288000,Copenhagen K,Facebook,Qualified,Jonas Berg,307000,31.3,Interested in a sustainable material option.
+LEAD-00508,2026-05-09 18:34,Emma Sørensen,emma.sørensen@example.dk,+45 24 12 13 16,Full renovation,446000,Vesterbro,Website,Qualified,Mads Nielsen,475000,7.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00509,2026-01-15 06:00,Nikolaj Olsen,nikolaj.olsen@example.dk,+45 38 40 31 54,Bathroom,92000,Frederiksberg,Referral,Unresponsive,Sofie Holm,101000,24.4,Looking for an estimate before summer.
+LEAD-00510,2026-07-28 15:39,Emil Larsen,emil.larsen@example.dk,+45 20 47 38 77,Kitchen,165000,Hellerup,Google,Contacted,Sofie Holm,151000,44.3,Interested in a sustainable material option.
+LEAD-00511,2026-02-03 22:57,Sara Thomsen,sara.thomsen@example.dk,+45 33 31 87 87,Painting,17000,Hellerup,Google,Contacted,Jonas Berg,16000,34.7,Has inspiration photos ready.
+LEAD-00512,2026-08-07 16:42,Mathilde Andersen,mathilde.andersen@example.dk,+45 39 15 13 24,Bathroom,91000,Vanløse,Google,Qualified,Mads Nielsen,102000,66.1,Interested in a sustainable material option.
+LEAD-00513,2025-10-05 20:31,Ida Olsen,ida.olsen@example.dk,+45 20 53 21 38,Bathroom,90000,Amager,Google,Won,Mads Nielsen,84500,9.7,Wants to compare a few layout options.
+LEAD-00514,2026-09-27 08:01,Anders Madsen,anders.madsen@example.dk,+45 58 53 92 86,Full renovation,732000,Vanløse,Google,Quoted,Sofie Holm,814500,14.7,Wants to compare a few layout options.
+LEAD-00515,2026-05-14 07:07,Jonas Jensen,jonas.jensen@example.dk,+45 33 19 33 48,Bathroom,97000,Nørrebro,Website,Qualified,Sofie Holm,106500,13.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00516,2026-09-29 14:26,Sofie Nielsen,sofie.nielsen@example.dk,+45 27 43 86 78,Bathroom,149000,Frederiksberg,Referral,Qualified,Mads Nielsen,149000,58.1,Interested in a sustainable material option.
+LEAD-00517,2026-06-10 13:31,Sara Christensen,sara.christensen@example.dk,+45 42 46 39 42,Painting,25000,Amager,Website,Contacted,Sofie Holm,26500,54.8,Wants to compare a few layout options.
+LEAD-00518,2026-08-05 09:59,Mikkel Thomsen,mikkel.thomsen@example.dk,+45 52 37 55 76,Bathroom,152000,Nørrebro,Website,Quoted,Anna Larsen,155500,50.2,Looking for an estimate before summer.
+LEAD-00519,2026-02-15 09:20,William Rasmussen,william.rasmussen@example.dk,+45 36 85 32 25,Full renovation,221000,Amager,Google,Qualified,Sofie Holm,224500,47.5,Looking for an estimate before summer.
+LEAD-00520,2026-01-25 23:55,Ida Thomsen,ida.thomsen@example.dk,+45 55 54 39 99,Flooring,110000,Vesterbro,Website,Qualified,Anna Larsen,107000,27.3,Wants to compare a few layout options.
+LEAD-00521,2025-10-13 17:20,Sara Andersen,sara.andersen@example.dk,+45 35 12 25 97,Full renovation,314000,Nørrebro,Referral,Qualified,Sofie Holm,300000,66.7,Wants to compare a few layout options.
+LEAD-00522,2026-09-25 10:17,Emil Christensen,emil.christensen@example.dk,+45 53 27 10 50,Bathroom,119000,Copenhagen K,Google,Qualified,Jonas Berg,117000,16.7,Looking for an estimate before summer.
+LEAD-00523,2025-11-15 02:11,Anna Nielsen,anna.nielsen@example.dk,+45 56 28 46 18,Flooring,54000,Vanløse,Referral,Won,Mads Nielsen,60500,50.8,Wants to compare a few layout options.
+LEAD-00524,2025-12-17 22:05,William Poulsen,william.poulsen@example.dk,+45 56 20 42 88,Flooring,104000,Amager,Website,New,,100500,,Has inspiration photos ready.
+LEAD-00525,2026-06-12 06:01,Emil Christensen,emil.christensen@example.dk,+45 50 46 15 87,Kitchen,262000,Vesterbro,Website,New,,286500,,Interested in a sustainable material option.
+LEAD-00526,2025-12-23 22:49,William Jørgensen,william.jørgensen@example.dk,+45 58 98 45 35,Full renovation,578000,Østerbro,Referral,Contacted,Mads Nielsen,645500,11.7,Interested in a sustainable material option.
+LEAD-00527,2026-07-20 04:02,Mathilde Andersen,mathilde.andersen@example.dk,,Full renovation,784000,Vesterbro,Google,Contacted,Anna Larsen,705500,53.9,Interested in a sustainable material option.
+LEAD-00528,2026-04-01 02:26,Emil Madsen,emil.madsen@example.dk,+45 43 53 81 72,Flooring,111000,Vanløse,Google,New,,120500,,Wants to compare a few layout options.
+LEAD-00529,2026-02-19 19:10,Alma Andersen,alma.andersen@example.dk,+45 31 56 90 14,Bathroom,175000,Copenhagen K,Google,Quoted,Mads Nielsen,163000,32.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00530,2025-12-25 21:24,Mikkel Christensen,mikkel.christensen@example.dk,+45 49 56 82 19,Full renovation,684000,Frederiksberg,Google,Won,Sofie Holm,652500,6.6,Would like an on-site assessment.
+LEAD-00531,2026-02-04 06:01,Jonas Rasmussen,jonas.rasmussen@example.dk,+45 47 81 71 60,Painting,28000,Østerbro,Website,New,,27500,,Wants to compare a few layout options.
+LEAD-00532,2026-05-06 03:08,Mathilde Nielsen,mathilde.nielsen@example.dk,+45 29 63 38 26,Bathroom,59000,Amager,Google,Lost,Mads Nielsen,66000,35.3,Would like an on-site assessment.
+LEAD-00533,2025-10-15 19:12,Anders Hansen,anders.hansen@example.dk,+45 54 74 59 29,Kitchen,239000,Nørrebro,Partner,Won,Anna Larsen,219000,33.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00534,2026-06-21 20:28,Emma Poulsen,emma.poulsen@example.dk,+45 39 68 40 31,Bathroom,133000,Frederiksberg,Website,Won,Sofie Holm,142000,38.7,Looking for an estimate before summer.
+LEAD-00535,2026-04-14 21:38,William Pedersen,william.pedersen@example.dk,+45 25 76 80 77,Kitchen,288000,Nørrebro,Partner,New,,295500,,Looking for an estimate before summer.
+LEAD-00536,2026-04-22 03:10,Emma Pedersen,emma.pedersen@example.dk,+45 52 15 36 69,Bathroom,58000,Valby,Facebook,Quoted,Mads Nielsen,63500,62.5,Interested in a sustainable material option.
+LEAD-00537,2026-03-10 15:29,Clara Christensen,clara.christensen@example.dk,+45 38 79 51 61,Flooring,81000,Vanløse,Website,Won,Sofie Holm,78500,4.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00538,2026-01-24 19:24,Jonas Andersen,jonas.andersen@example.dk,+45 51 32 93 28,Full renovation,788000,Nørrebro,Website,Contacted,Anna Larsen,724000,16.4,Wants to compare a few layout options.
+LEAD-00539,2026-07-28 03:08,Emma Andersen,emma.andersen@example.dk,+45 20 66 21 47,Painting,67000,Østerbro,Google,Unresponsive,Anna Larsen,77000,19.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00540,2026-01-05 14:56,Freja Thomsen,freja.thomsen@example.dk,+45 28 65 55 70,Bathroom,150000,Copenhagen K,Website,Qualified,Sofie Holm,148500,29.4,Has inspiration photos ready.
+LEAD-00541,2025-12-09 04:09,Freja Nielsen,freja.nielsen@example.dk,+45 25 16 69 85,Bathroom,97000,Nørrebro,Facebook,Qualified,Sofie Holm,91500,59.4,Looking for an estimate before summer.
+LEAD-00542,2025-10-11 21:47,  SARA ANDERSEN  ,sara.andersen@example.dk,+45 21 74 46 57,Painting,14000,Nørrebro,Website,New,,15500,,Looking for an estimate before summer.
+LEAD-00543,2026-06-06 22:42,Mathilde Kristensen,mathilde.kristensen@example.dk,+45 59 86 72 58,Full renovation,200000,Hellerup,Instagram,Won,Jonas Berg,214000,48.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00544,2025-12-26 07:54,Oscar Christensen,oscar.christensen@example.dk,+45 54 42 51 71,Bathroom,62000,Hellerup,Partner,Unresponsive,Jonas Berg,71000,68.3,Would like an on-site assessment.
+LEAD-00545,2026-01-07 06:19,Clara Jensen,clara.jensen@example.dk,+45 24 19 14 66,Full renovation,605000,Amager,Google,Qualified,Mads Nielsen,694000,37.8,Looking for an estimate before summer.
+LEAD-00546,2026-03-14 05:00,Nikolaj Andersen,nikolaj.andersen@example.dk,+45 22 88 90 76,Bathroom,137000,Copenhagen K,Website,Quoted,Anna Larsen,126000,59.9,Interested in a sustainable material option.
+LEAD-00547,2026-07-08 05:36,Mathilde Pedersen,mathilde.pedersen@example.dk,+45 23 16 74 56,Full renovation,223000,Hellerup,Partner,New,,239500,,Looking for an estimate before summer.
+LEAD-00548,2025-10-14 14:48,Freja Pedersen,freja.pedersen@example.dk,+45 46 27 43 65,Painting,79000,Copenhagen K,Facebook,Unresponsive,Sofie Holm,78000,66.6,Wants to compare a few layout options.
+LEAD-00549,2026-08-28 14:01,Mathilde Thomsen,mathilde.thomsen@example.dk,+45 48 23 95 38,Bathroom,125000,Amager,Google,Contacted,Jonas Berg,119000,55.2,Wants to compare a few layout options.
+LEAD-00550,2026-01-04 03:53,Sara Madsen,sara.madsen@example.dk,+45 59 73 55 46,Full renovation,800000,Amager,Google,Quoted,Mads Nielsen,724500,52.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00551,2026-07-23 21:40,Anders Thomsen,anders.thomsen@example.dk,+45 53 61 64 92,Flooring,130000,Vanløse,Website,Contacted,Mads Nielsen,124000,67.2,Would like an on-site assessment.
+LEAD-00552,2025-11-27 19:53,Anders Poulsen,anders.poulsen@example.dk,+45 27 97 59 58,Bathroom,164000,Nørrebro,Google,New,,169500,,Would like an on-site assessment.
+LEAD-00553,2026-07-25 10:56,Anders Christensen,anders.christensen@example.dk,+45 34 50 49 84,Full renovation,842000,Amager,Referral,Quoted,Mads Nielsen,879500,59.3,Wants to compare a few layout options.
+LEAD-00554,2026-01-06 22:01,Jonas Poulsen,jonas.poulsen@example.dk,+45 22 14 87 92,Bathroom,146000,Hellerup,Referral,New,,146500,,Would like an on-site assessment.
+LEAD-00555,2026-02-26 19:52,Mikkel Christensen,mikkel.christensen@example.dk,+45 25 56 69 91,Painting,77000,Nørrebro,Referral,Qualified,Anna Larsen,77000,44.1,Looking for an estimate before summer.
+LEAD-00556,2026-07-06 03:00,Freja Poulsen,freja.poulsen@example.dk,+45 46 22 80 96,Painting,72000,Brønshøj,Website,Qualified,Jonas Berg,80000,16.0,Looking for an estimate before summer.
+LEAD-00557,2025-12-28 10:10,Emil Olsen,emil.olsen@example.dk,+45 33 69 63 97,Painting,30000,Brønshøj,Google,Contacted,Anna Larsen,31000,1.3,Has inspiration photos ready.
+LEAD-00558,2026-01-23 11:25,Victor Jørgensen,victor.jørgensen@example.dk,+45 48 15 86 75,Bathroom,82000,Copenhagen K,Instagram,Lost,Jonas Berg,76500,64.0,Wants to compare a few layout options.
+LEAD-00559,2026-09-02 00:34,Anders Poulsen,anders.poulsen@example.dk,+45 38 99 96 87,Bathroom,0,Hellerup,Website,Quoted,Sofie Holm,100500,56.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00560,2025-11-09 04:51,Mikkel Olsen,mikkel.olsen@example.dk,+45 27 20 82 83,Painting,84000,Valby,Referral,Quoted,Anna Larsen,77500,49.2,Would like an on-site assessment.
+LEAD-00561,2026-05-06 12:10,Anders Andersen,anders.andersen@example.dk,+45 45 93 62 61,Kitchen,184000,Nørrebro,Google,Contacted,Anna Larsen,182000,7.2,Interested in a sustainable material option.
+LEAD-00562,2025-11-13 21:30,Emma Poulsen,emma.poulsen@example.dk,+45 32 39 24 30,Full renovation,290000,Vesterbro,Google,New,,321500,,Looking for an estimate before summer.
+LEAD-00563,2026-06-02 12:38,Noah Sørensen,noah.sørensen@example.dk,+45 21 38 98 38,Full renovation,432000,Amager,Google,Contacted,Anna Larsen,429000,59.6,Looking for an estimate before summer.
+LEAD-00564,2026-07-17 18:24,Mathilde Jensen,mathilde.jensen@example.dk,+45 40 29 79 49,Kitchen,107000,Brønshøj,Website,Won,Mads Nielsen,118500,56.0,Wants to compare a few layout options.
+LEAD-00565,2025-12-23 04:43,Clara Jensen,clara.jensen@example.dk,+45 28 58 86 54,Painting,33000,Valby,Website,Quoted,Anna Larsen,32500,33.2,Wants to compare a few layout options.
+LEAD-00566,2026-09-19 07:22,Oscar Jensen,oscar.jensen@example.dk,+45 44 99 23 18,Bathroom,72000,Frederiksberg,Google,Lost,Anna Larsen,78000,1.7,Interested in a sustainable material option.
+LEAD-00567,2026-06-16 16:14,Anders Christensen,anders.christensen@example.dk,+45 47 23 21 16,Full renovation,255000,Copenhagen K,Google,Lost,Mads Nielsen,259500,24.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00568,2026-09-16 20:15,Oscar Jensen,oscar.jensen@example.dk,+45 33 16 99 33,Painting,48000,Nørrebro,Website,New,,50500,,Would like an on-site assessment.
+LEAD-00569,2026-01-11 21:39,Oscar Rasmussen,oscar.rasmussen@example.dk,,Kitchen,294000,Amager,Facebook,Lost,Mads Nielsen,323000,10.7,Wants to compare a few layout options.
+LEAD-00570,2026-05-23 19:28,  FREJA LARSEN  ,freja.larsen@example.dk,+45 51 58 56 27,Full renovation,434000,Amager,Google,Won,Sofie Holm,419500,14.6,Looking for an estimate before summer.
+LEAD-00571,2026-04-06 09:30,Laura Madsen,laura.madsen@example.dk,+45 42 61 31 53,Painting,60000,Copenhagen K,Facebook,Contacted,Jonas Berg,67500,24.6,Looking for an estimate before summer.
+LEAD-00572,2025-12-24 18:12,Ida Kristensen,ida.kristensen@example.dk,+45 40 72 25 89,Bathroom,132000,Nørrebro,Website,Qualified,Anna Larsen,133000,10.7,Wants to compare a few layout options.
+LEAD-00573,2026-01-03 06:58,  VICTOR SØRENSEN  ,victor.sørensen@example.dk,+45 56 47 39 43,Flooring,106000,Valby,Referral,Lost,Anna Larsen,100000,38.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00574,2026-03-30 06:25,Noah Nielsen,noah.nielsen@example.dk,+45 54 90 66 85,Kitchen,82000,Frederiksberg,Website,Lost,Mads Nielsen,92500,28.7,Has inspiration photos ready.
+LEAD-00575,2026-07-08 08:19,Emil Hansen,emil.hansen@example.dk,+45 41 29 84 81,Full renovation,348000,Copenhagen K,Referral,Contacted,Mads Nielsen,347000,46.2,Looking for an estimate before summer.
+LEAD-00576,2025-12-18 22:16,Clara Jørgensen,clara.jørgensen@example.dk,+45 36 94 38 61,Painting,56000,Vanløse,Facebook,Unresponsive,Mads Nielsen,54500,7.1,Has inspiration photos ready.
+LEAD-00577,2025-12-07 18:56,Emil Hansen,emil.hansen@example.dk,+45 38 30 25 53,Bathroom,93000,Nørrebro,Website,Won,Jonas Berg,97500,55.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00578,2026-08-13 11:34,Jonas Christensen,jonas.christensen@example.dk,+45 24 97 59 50,Full renovation,634000,Vanløse,Facebook,Contacted,Anna Larsen,699000,26.6,Has inspiration photos ready.
+LEAD-00579,2026-06-26 23:43,Anna Jensen,anna.jensen@example.dk,+45 45 69 92 66,Kitchen,131000,Nørrebro,Facebook,Lost,Anna Larsen,150000,50.2,Wants to compare a few layout options.
+LEAD-00580,2025-10-27 02:21,Lukas Poulsen,lukas.poulsen@example.dk,+45 56 76 98 59,Bathroom,122000,Frederiksberg,Google,Quoted,Anna Larsen,123500,7.5,Interested in a sustainable material option.
+LEAD-00581,2025-10-26 17:30,Oscar Hansen,oscar.hansen@example.dk,+45 59 86 60 90,Painting,67000,Østerbro,Website,Lost,Jonas Berg,71000,14.6,Wants to compare a few layout options.
+LEAD-00582,2025-10-28 20:39,  JONAS MADSEN  ,jonas.madsen@example.dk,+45 23 57 52 20,Full renovation,298000,Vanløse,Google,New,,274500,,Looking for an estimate before summer.
+LEAD-00583,2026-03-31 15:37,Noah Larsen,noah.larsen@example.dk,+45 45 61 27 21,Kitchen,246000,Copenhagen K,Instagram,New,,229500,,Looking for an estimate before summer.
+LEAD-00584,2026-07-22 17:49,Clara Madsen,clara.madsen@example.dk,+45 22 55 71 74,flooring,108000,Hellerup,Google,Qualified,Jonas Berg,109000,25.9,Looking for an estimate before summer.
+LEAD-00585,2026-09-21 22:30,Sara Christensen,sara.christensen@example.dk,+45 43 60 72 45,Full renovation,714000,Copenhagen K,Website,Lost,Sofie Holm,678000,57.5,Has inspiration photos ready.
+LEAD-00586,2025-11-01 10:23,Emil Madsen,emil.madsen@example.dk,+45 57 70 21 44,Full renovation,766000,Vanløse,Website,Unresponsive,Jonas Berg,697000,43.6,Would like an on-site assessment.
+LEAD-00587,2026-09-10 13:31,Lukas Thomsen,lukas.thomsen@example.dk,+45 52 57 23 82,Bathroom,120000,Frederiksberg,Referral,Lost,Mads Nielsen,117500,35.2,Looking for an estimate before summer.
+LEAD-00588,2026-02-03 12:01,Anna Hansen,anna.hansen@example.dk,+45 52 72 19 74,Painting,82000,Brønshøj,Website,Contacted,Sofie Holm,79500,63.9,Interested in a sustainable material option.
+LEAD-00589,2026-07-24 15:49,Nikolaj Nielsen,nikolaj.nielsen@example.dk,+45 23 68 80 27,Kitchen,294000,Brønshøj,Referral,Qualified,Mads Nielsen,293500,47.4,Interested in a sustainable material option.
+LEAD-00590,2026-07-22 05:05,Clara Jensen,clara.jensen@example.dk,+45 29 81 33 93,Full renovation,500000,Nørrebro,Website,Qualified,Mads Nielsen,536000,1.1,Would like an on-site assessment.
+LEAD-00591,2025-10-06 22:10,Nikolaj Jørgensen,nikolaj.jørgensen@example.dk,+45 52 78 65 39,Kitchen,271000,Amager,Instagram,New,,280500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00592,2026-01-01 22:52,Sofie Sørensen,sofie.sørensen@example.dk,+45 24 78 22 12,Flooring,22000,Vesterbro,Website,Contacted,Jonas Berg,23000,64.2,Interested in a sustainable material option.
+LEAD-00593,2026-09-05 02:48,Lukas Andersen,lukas.andersen@example.dk,+45 32 26 31 98,Painting,88000,Brønshøj,Google,Unresponsive,Jonas Berg,91000,42.8,Looking for an estimate before summer.
+LEAD-00594,2025-11-05 17:41,Anna Poulsen,anna.poulsen@example.dk,+45 44 39 24 21,Full renovation,721000,Brønshøj,Google,Contacted,Mads Nielsen,670500,43.3,Has inspiration photos ready.
+LEAD-00595,2025-10-31 22:54,Lukas Christensen,lukas.christensen@example.dk,+45 35 64 35 77,Kitchen,252000,Copenhagen K,Referral,New,,272000,,Has inspiration photos ready.
+LEAD-00596,2026-04-03 08:07,Alma Kristensen,alma.kristensen@example.dk,+45 46 48 65 78,Bathroom,83000,Vanløse,Website,Qualified,Mads Nielsen,84500,6.2,Would like an on-site assessment.
+LEAD-00597,2026-01-14 02:10,William Larsen,william.larsen@example.dk,+45 34 10 42 45,Bathroom,149000,Østerbro,Google,Lost,Mads Nielsen,145500,30.1,Interested in a sustainable material option.
+LEAD-00598,2026-03-30 23:05,Alma Madsen,alma.madsen@example.dk,+45 38 70 18 66,Flooring,80000,Hellerup,Google,Unresponsive,Anna Larsen,84500,36.0,Would like an on-site assessment.
+LEAD-00599,2026-06-08 07:39,Oscar Thomsen,oscar.thomsen at example.dk,+45 30 33 67 34,Kitchen,157000,Frederiksberg,Website,Lost,Mads Nielsen,143500,13.0,Would like an on-site assessment.
+LEAD-00600,2026-05-18 10:16,Lukas Larsen,lukas.larsen@example.dk,+45 29 42 52 20,Full renovation,339000,Amager,Google,Won,Mads Nielsen,315500,6.1,Interested in a sustainable material option.
+LEAD-00601,2026-07-06 04:05,William Larsen,william.larsen@example.dk,+45 58 59 53 46,Full renovation,451000,Frederiksberg,Partner,Contacted,Anna Larsen,507000,31.4,Wants to compare a few layout options.
+LEAD-00602,2026-07-28 02:14,Mathilde Andersen,mathilde.andersen@example.dk,+45 39 15 13 24,Full renovation,587000,Valby,Google,Lost,Mads Nielsen,554000,16.2,Has inspiration photos ready.
+LEAD-00603,2026-08-31 14:30,Jonas Poulsen,jonas.poulsen@example.dk,+45 21 61 99 60,Painting,56000,Nørrebro,Google,New,,53500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00604,2026-02-27 08:33,Lukas Andersen,lukas.andersen@example.dk,+45 31 87 59 44,Full renovation,193000,Valby,Google,Won,Mads Nielsen,215000,30.2,Interested in a sustainable material option.
+LEAD-00605,2026-08-01 04:30,Emma Sørensen,emma.sørensen@example.dk,+45 55 39 73 55,Full renovation,461000,Nørrebro,Facebook,Lost,Mads Nielsen,516000,30.1,Apartment renovation; access is easiest on weekdays.
+LEAD-00606,2025-11-08 04:08,Mathilde Poulsen,mathilde.poulsen@example.dk,+45 58 11 16 54,Flooring,119000,Østerbro,Website,Contacted,Anna Larsen,130500,30.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00607,2025-10-15 01:33,Clara Nielsen,clara.nielsen@example.dk,+45 38 33 20 15,Painting,48000,Nørrebro,Website,Quoted,Anna Larsen,55000,51.0,Wants to compare a few layout options.
+LEAD-00608,2025-11-01 00:37,Clara Pedersen,clara.pedersen@example.dk,+45 23 34 50 79,Bathroom,54000,Copenhagen K,Website,Qualified,Anna Larsen,58000,55.8,Looking for an estimate before summer.
+LEAD-00609,2025-11-17 15:48,Noah Thomsen,noah.thomsen@example.dk,+45 51 19 10 88,Flooring,122000,Vanløse,Referral,Qualified,Anna Larsen,115500,39.8,Would like an on-site assessment.
+LEAD-00610,2026-01-06 20:10,Anna Larsen,anna.larsen@example.dk,+45 30 35 47 31,Bathroom,166000,Brønshøj,Facebook,Contacted,Anna Larsen,165000,51.9,Has inspiration photos ready.
+LEAD-00611,2026-04-16 15:16,Anna Christensen,anna.christensen@example.dk,+45 46 17 84 83,Bathroom,162000,Copenhagen K,Referral,Contacted,Jonas Berg,174500,8.0,Has inspiration photos ready.
+LEAD-00612,2026-02-28 09:46,William Rasmussen,william.rasmussen@example.dk,+45 57 10 34 43,Bathroom,66000,Vesterbro,Google,Lost,Jonas Berg,68500,13.0,Wants to compare a few layout options.
+LEAD-00613,2026-09-21 14:57,Victor Andersen,victor.andersen@example.dk,+45 25 51 90 54,Kitchen,122000,Hellerup,Google,New,,140000,,Looking for an estimate before summer.
+LEAD-00614,2025-11-07 21:55,Clara Madsen,clara.madsen@example.dk,+45 50 13 50 72,Painting,23000,Frederiksberg,Google,Contacted,Sofie Holm,23500,53.5,Would like an on-site assessment.
+LEAD-00615,2026-06-20 20:13,Emma Jørgensen,emma.jørgensen@example.dk,+45 57 24 50 26,Kitchen,203000,Hellerup,Google,Lost,Sofie Holm,208000,23.8,Would like an on-site assessment.
+LEAD-00616,2026-07-20 14:48,Anna Poulsen,anna.poulsen@example.dk,+45 54 87 39 99,Bathroom,153000,Nørrebro,Facebook,Won,Jonas Berg,159500,70.4,Interested in a sustainable material option.
+LEAD-00617,2026-07-27 00:53,Clara Jørgensen,clara.jørgensen@example.dk,,Painting,78000,Brønshøj,Instagram,Lost,Sofie Holm,76000,36.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00618,2025-10-31 21:34,Clara Hansen,clara.hansen@example.dk,+45 28 84 47 48,Painting,58000,Amager,Google,Lost,Jonas Berg,53500,8.0,Has inspiration photos ready.
+LEAD-00619,2025-12-13 01:43,Jonas Sørensen,jonas.sørensen@example.dk,+45 41 27 51 75,Painting,40000,Amager,Referral,Qualified,Jonas Berg,45000,47.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00620,2026-05-06 12:35,Laura Sørensen,laura.sørensen@example.dk,+45 41 31 73 46,Painting,57000,Copenhagen K,Google,New,,61000,,Would like an on-site assessment.
+LEAD-00621,2026-02-27 18:48,Freja Larsen,freja.larsen@example.dk,+45 38 86 56 45,Painting,89000,Copenhagen K,Google,Contacted,Jonas Berg,86500,49.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00622,2026-07-07 14:31,Jonas Jensen,jonas.jensen@example.dk,+45 49 86 66 92,Kitchen,243000,Vesterbro,Google,Quoted,Mads Nielsen,268500,51.0,Looking for an estimate before summer.
+LEAD-00623,2026-07-20 05:01,Sofie Nielsen,sofie.nielsen@example.dk,+45 42 91 19 92,Painting,71000,Brønshøj,Website,New,,65000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00624,2025-10-27 11:58,Ida Hansen,ida.hansen@example.dk,+45 53 10 11 98,Full renovation,839000,Østerbro,Google,Qualified,Sofie Holm,952500,17.0,Would like an on-site assessment.
+LEAD-00625,2026-09-09 14:45,Emma Olsen,emma.olsen@example.dk,+45 41 98 29 50,Bathroom,80000,Vesterbro,Facebook,Contacted,Sofie Holm,72500,38.6,Would like an on-site assessment.
+LEAD-00626,2026-06-03 09:42,Mikkel Poulsen,mikkel.poulsen@example.dk,+45 59 99 60 32,Painting,-5000,Frederiksberg,Instagram,Qualified,Sofie Holm,69500,8.4,Looking for an estimate before summer.
+LEAD-00627,2026-07-20 08:36,Noah Olsen,noah.olsen@example.dk,+45 47 52 81 94,Flooring,106000,Valby,Website,Qualified,Sofie Holm,121500,51.6,Interested in a sustainable material option.
+LEAD-00628,2026-07-01 14:58,Emil Larsen,emil.larsen@example.dk,+45 37 57 90 99,Painting,76000,Vesterbro,Facebook,New,,76500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00629,2026-06-20 04:51,Clara Thomsen,clara.thomsen@example.dk,+45 41 77 52 32,Kitchen,87000,Valby,Website,New,,92000,,Interested in a sustainable material option.
+LEAD-00630,2026-07-07 05:38,Oscar Pedersen,oscar.pedersen@example.dk,+45 46 14 48 98,Bathroom,59000,Brønshøj,Referral,Unresponsive,Sofie Holm,56000,65.7,Wants to compare a few layout options.
+LEAD-00631,2026-05-29 20:29,Anna Sørensen,anna.sørensen@example.dk,+45 48 31 82 63,Kitchen,145000,Østerbro,Facebook,Qualified,Mads Nielsen,133500,31.8,Would like an on-site assessment.
+LEAD-00632,2025-11-28 05:30,Jonas Larsen,jonas.larsen@example.dk,+45 32 74 43 57,Bathroom,125000,Frederiksberg,Facebook,Won,Anna Larsen,112500,39.3,Looking for an estimate before summer.
+LEAD-00633,2026-06-21 00:19,Ida Christensen,ida.christensen@example.dk,+45 55 97 57 22,Bathroom,171000,Amager,Referral,Quoted,Sofie Holm,196000,55.1,Looking for an estimate before summer.
+LEAD-00634,2026-09-08 15:38,Ida Jensen,ida.jensen@example.dk,,Bathroom,83000,Vanløse,Facebook,Lost,Jonas Berg,82500,9.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00635,2025-11-29 23:15,Lukas Madsen,lukas.madsen@example.dk,+45 55 42 60 29,Painting,66000,Brønshøj,Website,New,,62000,,Interested in a sustainable material option.
+LEAD-00636,2025-10-16 18:53,Emil Rasmussen,emil.rasmussen@example.dk,+45 24 85 54 58,Full renovation,265000,Nørrebro,Facebook,Lost,Anna Larsen,293000,31.1,Interested in a sustainable material option.
+LEAD-00637,2025-10-06 21:33,Jonas Madsen,jonas.madsen@example.dk,+45 38 75 33 40,Bathroom,152000,Østerbro,Google,Lost,Anna Larsen,153500,36.0,Wants to compare a few layout options.
+LEAD-00638,2026-03-11 20:09,Laura Andersen,laura.andersen@example.dk,+45 41 55 29 87,Full renovation,454000,Vanløse,Facebook,New,,497000,,Looking for an estimate before summer.
+LEAD-00639,2026-01-30 08:28,Sofie Christensen,sofie.christensen@example.dk,+45 21 96 91 29,Bathroom,108000,Valby,Google,Contacted,Sofie Holm,118000,47.6,Interested in a sustainable material option.
+LEAD-00640,2026-03-09 02:30,Mikkel Rasmussen,mikkel.rasmussen@example.dk,+45 35 61 13 50,Bathroom,170000,Nørrebro,Instagram,Unresponsive,Mads Nielsen,160500,17.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00641,2026-06-21 22:26,Anders Sørensen,anders.sørensen@example.dk,+45 21 64 55 69,Flooring,59000,Valby,Facebook,Quoted,Jonas Berg,63500,67.1,Apartment renovation; access is easiest on weekdays.
+LEAD-00642,2026-07-10 19:17,Mikkel Rasmussen,mikkel.rasmussen@example.dk,+45 28 98 25 58,Bathroom,89000,Valby,Website,Won,Anna Larsen,97000,21.3,Would like an on-site assessment.
+LEAD-00643,2026-04-19 05:30,Victor Kristensen,victor.kristensen@example.dk,+45 27 58 93 99,Kitchen,131000,Vesterbro,Google,New,,140000,,Would like an on-site assessment.
+LEAD-00644,2025-12-05 15:12,Ida Andersen,ida.andersen@example.dk,+45 28 25 24 31,Kitchen,244000,Nørrebro,Google,Lost,Anna Larsen,220000,7.3,Would like an on-site assessment.
+LEAD-00645,2026-02-27 12:09,Sara Sørensen,sara.sørensen@example.dk,+45 20 64 26 19,Painting,35000,Vesterbro,Referral,Qualified,Jonas Berg,34000,44.7,Interested in a sustainable material option.
+LEAD-00646,2025-10-25 05:22,Mikkel Pedersen,mikkel.pedersen@example.dk,+45 49 33 76 35,Painting,30000,Amager,Website,New,,33500,,Looking for an estimate before summer.
+LEAD-00647,2026-05-20 20:39,Lukas Christensen,lukas.christensen@example.dk,+45 21 86 42 62,Kitchen,195000,Vesterbro,Referral,Quoted,Mads Nielsen,190000,18.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00648,2025-12-06 20:40,Emil Pedersen,emil.pedersen@example.dk,+45 39 66 10 72,Full renovation,675000,Vanløse,Facebook,Won,Sofie Holm,717500,14.0,Looking for an estimate before summer.
+LEAD-00649,2025-12-29 00:34,Freja Andersen,freja.andersen@example.dk,+45 52 56 73 37,Flooring,109000,Østerbro,Referral,Lost,Anna Larsen,115000,32.2,Looking for an estimate before summer.
+LEAD-00650,2025-11-18 02:09,Nikolaj Sørensen,nikolaj.sørensen@example.dk,+45 23 10 86 90,Painting,71000,Brønshøj,Website,Quoted,Anna Larsen,68500,3.4,Interested in a sustainable material option.
+LEAD-00651,2025-10-20 17:32,Laura Jørgensen,laura.jørgensen@example.dk,+45 53 84 96 53,Painting,76000,Frederiksberg,Website,Quoted,Anna Larsen,76000,58.9,Would like an on-site assessment.
+LEAD-00652,2025-11-18 02:05,Emil Jensen,emil.jensen@example.dk,+45 28 32 71 55,Flooring,69000,Vesterbro,Google,Qualified,Jonas Berg,76500,69.7,Would like an on-site assessment.
+LEAD-00653,2026-02-25 21:40,Victor Kristensen,victor.kristensen@example.dk,+45 25 79 41 73,Painting,76000,Brønshøj,Google,Contacted,Jonas Berg,82000,7.4,Looking for an estimate before summer.
+LEAD-00654,2026-09-06 00:15,William Larsen,william.larsen@example.dk,+45 30 95 87 55,Painting,29000,Brønshøj,Google,Unresponsive,Sofie Holm,30500,15.6,Wants to compare a few layout options.
+LEAD-00655,2026-04-19 04:12,William Pedersen,william.pedersen@example.dk,+45 57 93 60 48,Kitchen,250000,Hellerup,Website,Lost,Sofie Holm,267000,42.3,Interested in a sustainable material option.
+LEAD-00656,2025-10-14 00:17,Ida Hansen,ida.hansen@example.dk,+45 23 34 92 48,Full renovation,355000,Copenhagen K,Google,Qualified,Mads Nielsen,331000,60.2,Would like an on-site assessment.
+LEAD-00657,2026-02-28 18:36,Emil Hansen,emil.hansen@example.dk,+45 53 44 44 24,Painting,61000,Valby,Referral,New,,62500,,Has inspiration photos ready.
+LEAD-00658,2026-04-04 06:34,Mathilde Thomsen,mathilde.thomsen@example.dk,+45 34 33 88 67,Full renovation,607000,Nørrebro,Google,Won,Jonas Berg,630500,58.4,Has inspiration photos ready.
+LEAD-00659,2026-05-25 08:04,Emma Kristensen,emma.kristensen@example.dk,+45 26 66 94 70,Full renovation,647000,Frederiksberg,Google,Quoted,Jonas Berg,584000,37.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00660,2026-01-29 21:49,Lukas Madsen,lukas.madsen@example.dk,+45 48 19 55 95,Bathroom,54000,Valby,Google,New,,52000,,Looking for an estimate before summer.
+LEAD-00661,2026-03-27 22:10,Ida Poulsen,ida.poulsen@example.dk,+45 34 17 69 57,Flooring,121000,Vanløse,Google,Quoted,Sofie Holm,129500,61.9,Interested in a sustainable material option.
+LEAD-00662,2026-01-07 15:01,Jonas Kristensen,jonas.kristensen@example.dk,+45 37 72 87 17,Flooring,112000,Brønshøj,Google,Won,Jonas Berg,120000,4.0,Would like an on-site assessment.
+LEAD-00663,2026-09-08 09:39,Mathilde Rasmussen,mathilde.rasmussen@example.dk,+45 51 38 28 41,Full renovation,527000,Vanløse,Google,Won,Mads Nielsen,536000,19.9,Has inspiration photos ready.
+LEAD-00664,2026-09-14 14:21,  FREJA PEDERSEN  ,freja.pedersen@example.dk,+45 32 90 62 44,Flooring,108000,Frederiksberg,Google,Qualified,Anna Larsen,99500,8.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00665,2026-01-24 17:02,Anders Nielsen,anders.nielsen@example.dk,+45 45 80 35 66,Bathroom,79000,Copenhagen K,Instagram,Lost,Sofie Holm,74500,9.5,Would like an on-site assessment.
+LEAD-00666,2026-04-03 10:26,Lukas Andersen,lukas.andersen@example.dk,+45 49 54 33 75,Painting,31000,Vesterbro,Referral,Contacted,Mads Nielsen,31500,51.1,Interested in a sustainable material option.
+LEAD-00667,2026-05-10 20:11,Sara Sørensen,sara.sørensen@example.dk,+45 50 62 89 46,Bathroom,164000,Østerbro,Referral,Won,Sofie Holm,185500,60.9,Interested in a sustainable material option.
+LEAD-00668,2026-04-16 04:46,Laura Poulsen,laura.poulsen@example.dk,+45 32 87 86 72,Kitchen,128000,Hellerup,Instagram,Lost,Jonas Berg,145500,41.6,Looking for an estimate before summer.
+LEAD-00669,2026-05-22 00:49,Oscar Jørgensen,oscar.jørgensen@example.dk,+45 32 34 42 25,Bathroom,59000,Østerbro,Google,Quoted,Jonas Berg,55500,19.2,Interested in a sustainable material option.
+LEAD-00670,2026-02-18 04:21,Freja Kristensen,freja.kristensen@example.dk,+45 36 44 40 24,Kitchen,106000,Brønshøj,Referral,Qualified,Jonas Berg,118500,62.6,Interested in a sustainable material option.
+LEAD-00671,2026-08-11 13:15,Clara Larsen,clara.larsen@example.dk,+45 34 86 90 92,Bathroom,133000,Copenhagen K,Website,Quoted,Sofie Holm,138500,53.2,Wants to compare a few layout options.
+LEAD-00672,2025-11-17 06:30,Mikkel Pedersen,mikkel.pedersen@example.dk,+45 22 60 85 63,Bathroom,53000,Valby,Google,Lost,Anna Larsen,58000,50.1,Has inspiration photos ready.
+LEAD-00673,2026-08-04 01:24,Victor Sørensen,victor.sørensen@example.dk,+45 41 22 60 68,Painting,70000,Amager,Referral,Quoted,Jonas Berg,78500,42.5,Has inspiration photos ready.
+LEAD-00674,2026-05-12 01:03,Emil Jensen,emil.jensen@example.dk,+45 43 48 53 11,Painting,29000,Frederiksberg,Google,Won,Jonas Berg,29000,26.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00675,2026-07-26 20:14,  FREJA POULSEN  ,freja.poulsen@example.dk,+45 40 29 21 76,Bathroom,50000,Frederiksberg,Referral,New,,48000,,Interested in a sustainable material option.
+LEAD-00676,2026-08-10 03:52,Lukas Andersen,lukas.andersen@example.dk,+45 22 86 59 53,Full renovation,415000,Amager,Referral,New,,457500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00677,2025-10-08 22:40,William Jørgensen,william.jørgensen@example.dk,+45 41 19 62 83,Bathroom,152000,Østerbro,Referral,Contacted,Anna Larsen,153000,60.6,Has inspiration photos ready.
+LEAD-00678,2026-01-14 15:15,Freja Poulsen,freja.poulsen@example.dk,+45 58 70 26 13,Bathroom,114000,Amager,Website,New,,105000,,Would like an on-site assessment.
+LEAD-00679,2026-06-27 09:33,Sara Larsen,sara.larsen@example.dk,+45 55 79 26 26,Flooring,129000,Østerbro,Website,Won,Jonas Berg,138000,33.7,Looking for an estimate before summer.
+LEAD-00680,2026-06-15 22:32,Alma Hansen,alma.hansen@example.dk,+45 52 90 66 90,Full renovation,812000,Nørrebro,Google,Qualified,Anna Larsen,824000,23.3,Looking for an estimate before summer.
+LEAD-00681,2026-01-18 15:31,Jonas Jensen,jonas.jensen@example.dk,+45 30 71 46 33,Full renovation,579000,Østerbro,Google,Qualified,Anna Larsen,611000,65.1,Wants to compare a few layout options.
+LEAD-00682,2026-04-14 17:04,Emil Olsen,emil.olsen@example.dk,+45 45 96 10 36,Kitchen,197000,Østerbro,Referral,Won,Mads Nielsen,220500,7.5,Looking for an estimate before summer.
+LEAD-00683,2026-08-30 00:34,Oscar Poulsen,oscar.poulsen@example.dk,+45 24 14 10 16,Full renovation,535000,Vesterbro,Google,Unresponsive,Sofie Holm,525000,59.4,Has inspiration photos ready.
+LEAD-00684,2026-08-29 16:04,Sara Christensen,sara.christensen@example.dk,+45 42 12 87 95,Painting,87000,Hellerup,Instagram,Lost,Mads Nielsen,88000,31.9,Looking for an estimate before summer.
+LEAD-00685,2025-12-28 18:56,Lukas Kristensen,lukas.kristensen@example.dk,+45 54 45 98 48,Painting,88000,Østerbro,Referral,Won,Sofie Holm,100500,5.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00686,2026-01-04 16:18,Anders Poulsen,anders.poulsen@example.dk,+45 20 48 56 15,Kitchen,291000,Vesterbro,Partner,Contacted,Mads Nielsen,293000,50.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00687,2026-02-19 12:28,Anders Madsen,anders.madsen@example.dk,+45 36 55 49 94,Kitchen,166000,Hellerup,Partner,Contacted,Sofie Holm,177000,58.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00688,2026-06-22 23:54,Sofie Pedersen,sofie.pedersen@example.dk,+45 49 62 66 23,Kitchen,241000,Østerbro,Facebook,Qualified,Anna Larsen,239500,66.7,Interested in a sustainable material option.
+LEAD-00689,2026-08-18 13:39,Freja Madsen,freja.madsen@example.dk,+45 46 90 98 92,Bathroom,120000,Brønshøj,Website,Unresponsive,Mads Nielsen,118000,18.4,Has inspiration photos ready.
+LEAD-00690,2025-10-28 01:24,Emil Pedersen,emil.pedersen@example.dk,+45 42 37 42 13,Kitchen,247000,Vanløse,Referral,Won,Jonas Berg,280500,59.2,Interested in a sustainable material option.
+LEAD-00691,2026-05-02 11:19,Mikkel Thomsen,mikkel.thomsen@example.dk,+45 41 70 71 64,painting,75000,Brønshøj,Referral,Lost,Jonas Berg,79000,8.5,Interested in a sustainable material option.
+LEAD-00692,2025-11-18 11:37,Oscar Andersen,oscar.andersen@example.dk,+45 33 25 84 95,Flooring,29000,Brønshøj,Referral,Quoted,Jonas Berg,28000,45.6,Has inspiration photos ready.
+LEAD-00693,2026-05-24 16:09,Jonas Sørensen,jonas.sørensen@example.dk,+45 40 35 95 74,Painting,41000,Amager,Google,Won,Anna Larsen,40500,65.3,Wants to compare a few layout options.
+LEAD-00694,2026-01-09 10:36,Lukas Sørensen,lukas.sørensen@example.dk,+45 43 62 66 45,bathroom,52000,Østerbro,Referral,Qualified,Mads Nielsen,50500,32.1,Has inspiration photos ready.
+LEAD-00695,2026-04-05 10:51,Lukas Olsen,lukas.olsen@example.dk,+45 48 41 87 64,Flooring,81000,Copenhagen K,Partner,New,,77500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00696,2026-03-23 07:45,Emil Jensen,emil.jensen@example.dk,+45 55 66 24 93,Full renovation,394000,Frederiksberg,Google,Contacted,Mads Nielsen,442500,39.3,Interested in a sustainable material option.
+LEAD-00697,2026-06-01 19:51,Oscar Kristensen,oscar.kristensen@example.dk,+45 58 96 90 60,Bathroom,124000,Amager,Google,Won,Mads Nielsen,130500,64.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00698,2026-08-29 22:25,Lukas Jensen,lukas.jensen@example.dk,+45 49 53 52 29,Kitchen,122000,Vesterbro,Facebook,New,,130500,,Wants to compare a few layout options.
+LEAD-00699,2026-01-26 19:58,Sofie Jørgensen,sofie.jørgensen@example.dk,+45 32 12 42 13,Painting,85000,Vanløse,Website,Lost,Sofie Holm,86500,50.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00700,2026-06-13 13:26,Nikolaj Jørgensen,nikolaj.jørgensen@example.dk,+45 24 49 61 54,Bathroom,169000,Frederiksberg,Website,Lost,Anna Larsen,160500,31.0,Has inspiration photos ready.
+LEAD-00701,2026-01-04 07:43,Noah Pedersen,noah.pedersen@example.dk,+45 54 69 83 75,Bathroom,166000,Copenhagen K,Website,Quoted,Mads Nielsen,175500,7.6,Wants to compare a few layout options.
+LEAD-00702,2026-02-20 23:27,Victor Thomsen,victor.thomsen@example.dk,+45 21 10 34 16,Full renovation,422000,Nørrebro,Instagram,Contacted,Sofie Holm,385500,48.8,Looking for an estimate before summer.
+LEAD-00703,2026-03-06 15:25,Clara Jørgensen,clara.jørgensen@example.dk,+45 34 10 10 71,Bathroom,48000,Frederiksberg,Google,Won,Anna Larsen,43500,45.1,Has inspiration photos ready.
+LEAD-00704,2026-05-17 22:11,Sara Rasmussen,sara.rasmussen@example.dk,+45 36 45 36 24,Flooring,53000,Østerbro,Google,Quoted,Mads Nielsen,57000,26.7,Has inspiration photos ready.
+LEAD-00705,2026-05-01 10:15,Clara Jørgensen,clara.jørgensen@example.dk,+45 55 96 20 82,Flooring,49000,Frederiksberg,Website,Contacted,Mads Nielsen,48000,65.7,Would like an on-site assessment.
+LEAD-00706,2026-08-22 16:51,  FREJA CHRISTENSEN  ,freja.christensen@example.dk,+45 50 55 65 58,Bathroom,66000,Nørrebro,Instagram,New,,60500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00707,2026-05-01 15:08,Victor Hansen,victor.hansen@example.dk,+45 49 55 33 36,Flooring,83000,Vanløse,Google,Won,Anna Larsen,76000,42.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00708,2025-10-13 12:25,Anders Sørensen,anders.sørensen@example.dk,+45 55 65 37 84,Bathroom,134000,Brønshøj,Google,New,,138000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00709,2026-05-22 18:20,Noah Poulsen,noah.poulsen@example.dk,+45 39 10 84 86,Kitchen,171000,Amager,Google,Qualified,Mads Nielsen,181500,22.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00710,2026-01-31 13:15,Laura Jørgensen,laura.jørgensen@example.dk,+45 44 56 34 13,Flooring,36000,Vanløse,Website,New,,39000,,Would like an on-site assessment.
+LEAD-00711,2026-02-14 19:13,Freja Rasmussen,freja.rasmussen@example.dk,+45 55 41 55 90,Full renovation,597000,Frederiksberg,Referral,New,,565000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00712,2026-09-14 13:31,Noah Hansen,noah.hansen@example.dk,+45 29 54 85 74,Flooring,52000,Vesterbro,Google,Contacted,Mads Nielsen,56000,41.6,Has inspiration photos ready.
+LEAD-00713,2025-11-27 21:27,Sara Sørensen,sara.sørensen@example.dk,+45 38 25 18 66,Bathroom,134000,Brønshøj,Partner,Qualified,Mads Nielsen,154000,42.8,Would like an on-site assessment.
+LEAD-00714,2026-03-27 05:33,Jonas Madsen,jonas.madsen@example.dk,+45 29 11 87 40,Full renovation,350000,Copenhagen K,Google,Contacted,Jonas Berg,349000,23.1,Wants to compare a few layout options.
+LEAD-00715,2025-12-19 03:06,Clara Olsen,clara.olsen@example.dk,+45 57 88 72 33,Bathroom,57000,Vanløse,Google,Lost,Jonas Berg,65000,29.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00716,2025-11-09 23:30,Freja Jørgensen,freja.jørgensen@example.dk,+45 22 61 93 99,Kitchen,268000,Copenhagen K,Website,Quoted,Jonas Berg,264000,71.5,Has inspiration photos ready.
+LEAD-00717,2025-10-25 08:45,Lukas Jensen,lukas.jensen at example.dk,+45 27 91 71 79,Kitchen,280000,Frederiksberg,Referral,Quoted,Anna Larsen,316000,33.4,Looking for an estimate before summer.
+LEAD-00718,2026-08-27 21:29,Freja Sørensen,freja.sørensen@example.dk,+45 30 56 63 57,Full renovation,186000,Amager,Google,Qualified,Sofie Holm,175500,6.6,Wants to compare a few layout options.
+LEAD-00719,2026-08-12 23:29,Mathilde Christensen,mathilde.christensen@example.dk,+45 33 38 50 71,Painting,79000,Brønshøj,Google,Qualified,Anna Larsen,80500,10.0,Has inspiration photos ready.
+LEAD-00720,2026-08-02 11:10,Lukas Jensen,lukas.jensen@example.dk,+45 27 91 71 79,Flooring,83000,Østerbro,Referral,Quoted,Anna Larsen,95000,39.5,Has inspiration photos ready.
+LEAD-00721,2025-12-08 15:38,Ida Larsen,ida.larsen@example.dk,+45 38 24 79 84,Bathroom,123000,Nørrebro,Facebook,Quoted,Sofie Holm,134500,34.9,Looking for an estimate before summer.
+LEAD-00722,2026-07-25 20:08,Laura Poulsen,laura.poulsen@example.dk,+45 34 10 76 17,Full renovation,752000,Copenhagen K,Partner,Won,Jonas Berg,851500,7.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00723,2026-02-08 19:00,Ida Thomsen,ida.thomsen@example.dk,+45 35 77 33 31,Painting,24000,Amager,Website,Qualified,Anna Larsen,21500,66.9,Interested in a sustainable material option.
+LEAD-00724,2026-03-12 11:08,Oscar Jensen,oscar.jensen@example.dk,,Kitchen,252000,Vanløse,Facebook,New,,247000,,Would like an on-site assessment.
+LEAD-00725,2025-11-17 20:29,Emil Sørensen,emil.sørensen@example.dk,+45 34 39 20 79,Flooring,47000,Amager,Website,Qualified,Mads Nielsen,53000,47.5,Looking for an estimate before summer.
+LEAD-00726,2026-06-16 00:57,Victor Kristensen,victor.kristensen@example.dk,+45 42 72 92 85,Painting,30000,Copenhagen K,Instagram,Unresponsive,Mads Nielsen,31500,24.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00727,2026-07-19 19:04,Clara Madsen,clara.madsen@example.dk,+45 22 55 71 74,Flooring,101000,Copenhagen K,Google,Unresponsive,Anna Larsen,95500,52.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00728,2026-08-08 14:05,Anna Jørgensen,anna.jørgensen@example.dk,+45 55 51 97 34,Kitchen,208000,Copenhagen K,Website,Won,Jonas Berg,198000,8.9,Apartment renovation; access is easiest on weekdays.
+LEAD-00729,2026-02-21 20:20,Alma Jensen,alma.jensen@example.dk,+45 53 91 86 46,Bathroom,173000,Valby,Google,New,,188500,,Interested in a sustainable material option.
+LEAD-00730,2025-12-20 18:46,Clara Olsen,clara.olsen@example.dk,+45 50 55 21 52,Flooring,74000,Copenhagen K,Website,Qualified,Anna Larsen,76000,33.5,Wants to compare a few layout options.
+LEAD-00731,2026-09-09 13:36,Lukas Larsen,lukas.larsen@example.dk,+45 31 95 79 81,Bathroom,0,Amager,Google,Quoted,Mads Nielsen,58500,50.2,Has inspiration photos ready.
+LEAD-00732,2026-02-24 16:03,Victor Rasmussen,victor.rasmussen@example.dk,+45 40 67 64 71,Full renovation,317000,Vesterbro,Facebook,Qualified,Sofie Holm,360500,44.1,Apartment renovation; access is easiest on weekdays.
+LEAD-00733,2026-04-11 15:43,Ida Larsen,ida.larsen@example.dk,+45 30 34 35 98,Kitchen,161000,Østerbro,Google,Lost,Anna Larsen,153000,2.0,Would like an on-site assessment.
+LEAD-00734,2026-03-02 06:27,Ida Olsen,ida.olsen at example.dk,+45 34 60 57 40,Flooring,22000,Frederiksberg,Google,Contacted,Sofie Holm,20000,42.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00735,2025-12-16 10:12,Laura Andersen,laura.andersen@example.dk,+45 45 81 45 51,Full renovation,826000,Brønshøj,Google,New,,865500,,Has inspiration photos ready.
+LEAD-00736,2025-10-25 01:26,Nikolaj Kristensen,nikolaj.kristensen@example.dk,+45 48 84 62 39,Kitchen,215000,Brønshøj,Google,New,,241500,,Looking for an estimate before summer.
+LEAD-00737,2025-12-18 11:36,Emma Thomsen,emma.thomsen@example.dk,+45 59 94 34 92,Full renovation,808000,Vesterbro,Google,Quoted,Anna Larsen,759500,59.4,Wants to compare a few layout options.
+LEAD-00738,2026-07-11 19:41,Sara Thomsen,sara.thomsen@example.dk,+45 52 95 85 81,Full renovation,533000,Brønshøj,Referral,Qualified,Anna Larsen,489000,46.6,Looking for an estimate before summer.
+LEAD-00739,2026-07-06 01:41,Noah Christensen,noah.christensen@example.dk,+45 20 85 76 66,Painting,64000,Valby,Google,Lost,Sofie Holm,60000,16.5,Looking for an estimate before summer.
+LEAD-00740,2026-05-04 08:12,Oscar Christensen,oscar.christensen@example.dk,+45 54 42 51 71,Bathroom,65000,Østerbro,Google,Qualified,Anna Larsen,65500,36.4,Interested in a sustainable material option.
+LEAD-00741,2026-08-13 18:38,  OSCAR RASMUSSEN  ,oscar.rasmussen@example.dk,+45 50 86 57 17,Kitchen,248000,Østerbro,Website,Contacted,Mads Nielsen,256000,54.8,Would like an on-site assessment.
+LEAD-00742,2026-05-12 18:40,Noah Sørensen,noah.sørensen@example.dk,,Flooring,123000,Brønshøj,Instagram,Contacted,Jonas Berg,111000,3.7,Has inspiration photos ready.
+LEAD-00743,2026-03-03 21:35,Oscar Sørensen,oscar.sørensen@example.dk,+45 48 34 59 40,Painting,73000,Valby,Google,Qualified,Mads Nielsen,76000,65.1,Looking for an estimate before summer.
+LEAD-00744,2026-07-31 19:16,Oscar Christensen,oscar.christensen@example.dk,+45 26 66 39 49,Painting,29000,Brønshøj,Google,Qualified,Mads Nielsen,30500,37.0,Would like an on-site assessment.
+LEAD-00745,2026-07-13 08:28,Lukas Sørensen,lukas.sørensen@example.dk,+45 37 44 95 31,Flooring,84000,Vanløse,Website,Won,Mads Nielsen,85500,39.0,Wants to compare a few layout options.
+LEAD-00746,2026-04-17 08:11,Nikolaj Poulsen,nikolaj.poulsen@example.dk,+45 27 90 41 88,Painting,83000,Copenhagen K,Referral,Contacted,Sofie Holm,76500,52.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00747,2026-07-27 20:56,Mikkel Jensen,mikkel.jensen@example.dk,+45 38 43 68 99,Flooring,24000,Østerbro,Referral,New,,27000,,Wants to compare a few layout options.
+LEAD-00748,2025-11-01 22:41,Victor Larsen,victor.larsen@example.dk,+45 29 72 28 72,Painting,63000,Amager,Website,Qualified,Anna Larsen,67000,16.5,Has inspiration photos ready.
+LEAD-00749,2026-09-10 17:54,Sofie Kristensen,sofie.kristensen@example.dk,,Flooring,46000,Amager,Google,Qualified,Mads Nielsen,51000,70.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00750,2025-10-23 06:11,Victor Sørensen,victor.sørensen@example.dk,+45 31 30 55 34,Painting,21000,Valby,Website,Lost,Anna Larsen,23000,18.3,Looking for an estimate before summer.
+LEAD-00751,2026-03-27 18:52,Emma Rasmussen,emma.rasmussen@example.dk,+45 23 83 31 73,Bathroom,72000,Copenhagen K,Website,Quoted,Jonas Berg,67500,58.4,Looking for an estimate before summer.
+LEAD-00752,2026-05-29 05:11,Alma Hansen,alma.hansen@example.dk,+45 20 40 12 51,Flooring,68000,Nørrebro,Google,Lost,Jonas Berg,63500,39.9,Would like an on-site assessment.
+LEAD-00753,2026-02-19 22:48,Mathilde Thomsen,mathilde.thomsen@example.dk,+45 39 58 23 21,Flooring,70000,Brønshøj,Facebook,Qualified,Anna Larsen,76000,24.9,Interested in a sustainable material option.
+LEAD-00754,2025-11-21 00:20,Ida Andersen,ida.andersen@example.dk,+45 47 78 43 80,Bathroom,71000,Vanløse,Facebook,New,,69500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00755,2026-08-20 17:01,Mathilde Nielsen,mathilde.nielsen@example.dk,+45 40 37 97 79,Kitchen,129000,Brønshøj,Website,Contacted,Sofie Holm,123500,63.6,Has inspiration photos ready.
+LEAD-00756,2026-06-12 18:51,Alma Pedersen,alma.pedersen@example.dk,+45 43 74 24 73,Full renovation,728000,Vesterbro,Google,Lost,Jonas Berg,733000,70.1,Looking for an estimate before summer.
+LEAD-00757,2025-11-02 20:35,Freja Jørgensen,freja.jørgensen@example.dk,+45 39 36 39 47,Flooring,48000,Copenhagen K,Google,Quoted,Sofie Holm,44000,28.1,Interested in a sustainable material option.
+LEAD-00758,2026-07-19 19:11,Lukas Thomsen,lukas.thomsen@example.dk,+45 24 37 49 33,Kitchen,135000,Vanløse,Facebook,New,,144500,,Looking for an estimate before summer.
+LEAD-00759,2026-01-24 19:33,Lukas Jørgensen,lukas.jørgensen at example.dk,+45 58 29 87 16,Bathroom,95000,Frederiksberg,Facebook,New,,87000,,Looking for an estimate before summer.
+LEAD-00760,2026-08-15 08:27,Mathilde Poulsen,mathilde.poulsen@example.dk,+45 25 38 68 11,Flooring,122000,Vanløse,Google,Lost,Sofie Holm,124000,15.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00761,2026-05-20 09:55,Anna Madsen,anna.madsen@example.dk,+45 57 76 60 94,Full renovation,834000,Frederiksberg,Referral,New,,918500,,Wants to compare a few layout options.
+LEAD-00762,2026-03-13 04:47,Sofie Sørensen,sofie.sørensen@example.dk,+45 20 38 39 83,Full renovation,569000,Østerbro,Website,Contacted,Mads Nielsen,536500,21.7,Would like an on-site assessment.
+LEAD-00763,2026-01-24 03:35,Oscar Thomsen,oscar.thomsen at example.dk,+45 22 93 55 63,Full renovation,280000,Hellerup,Google,Qualified,Mads Nielsen,261500,64.7,Would like an on-site assessment.
+LEAD-00764,2025-11-01 04:57,Mikkel Olsen,mikkel.olsen@example.dk,+45 52 41 57 85,Flooring,127000,Amager,Website,Qualified,Sofie Holm,127000,11.3,Interested in a sustainable material option.
+LEAD-00765,2025-10-23 08:47,Sofie Christensen,sofie.christensen@example.dk,+45 46 31 65 77,Painting,44000,Vesterbro,Referral,Won,Anna Larsen,47000,44.4,Wants to compare a few layout options.
+LEAD-00766,2026-06-14 09:20,Nikolaj Kristensen,nikolaj.kristensen@example.dk,+45 45 46 57 42,Bathroom,114000,Amager,Referral,New,,121500,,Wants to compare a few layout options.
+LEAD-00767,2026-07-26 10:39,Emma Poulsen,emma.poulsen@example.dk,+45 45 71 91 74,Painting,28000,Frederiksberg,Google,Qualified,Anna Larsen,26000,24.8,Looking for an estimate before summer.
+LEAD-00768,2026-02-16 04:32,Alma Madsen,alma.madsen@example.dk,+45 32 92 23 83,Bathroom,89000,Vesterbro,Referral,Qualified,Sofie Holm,85500,32.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00769,2026-08-07 04:36,Jonas Larsen,jonas.larsen@example.dk,+45 32 74 43 57,Painting,63000,Vesterbro,Instagram,Won,Mads Nielsen,65000,19.6,Would like an on-site assessment.
+LEAD-00770,2026-03-27 11:34,Nikolaj Christensen,nikolaj.christensen@example.dk,+45 43 29 74 46,Bathroom,53000,Hellerup,Google,Quoted,Mads Nielsen,57000,13.3,Interested in a sustainable material option.
+LEAD-00771,2026-09-17 20:59,Victor Thomsen,victor.thomsen@example.dk,+45 31 35 85 59,Painting,9999999,Copenhagen K,Partner,Unresponsive,Jonas Berg,32000,18.8,Looking for an estimate before summer.
+LEAD-00772,2026-01-10 06:06,Anders Kristensen,anders.kristensen@example.dk,+45 39 38 37 20,Full renovation,597000,Valby,Website,Won,Sofie Holm,647500,66.8,Would like an on-site assessment.
+LEAD-00773,2025-11-09 18:13,Oscar Pedersen,oscar.pedersen@example.dk,+45 52 91 58 46,Kitchen,188000,Amager,Referral,New,,211500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00774,2026-02-27 15:11,Jonas Madsen,jonas.madsen at example.dk,+45 42 75 49 15,Flooring,105000,Frederiksberg,Facebook,Won,Sofie Holm,120000,22.9,Would like an on-site assessment.
+LEAD-00775,2025-11-04 20:14,Mathilde Thomsen,mathilde.thomsen@example.dk,+45 42 15 77 90,Painting,33000,Brønshøj,Partner,Quoted,Anna Larsen,32500,43.1,Wants to compare a few layout options.
+LEAD-00776,2025-10-31 13:51,Alma Andersen,alma.andersen@example.dk,+45 47 37 76 13,Bathroom,101000,Østerbro,Facebook,Lost,Jonas Berg,111500,2.8,Has inspiration photos ready.
+LEAD-00777,2026-05-28 04:24,Oscar Kristensen,oscar.kristensen@example.dk,+45 45 47 69 47,Painting,35000,Valby,Referral,Won,Sofie Holm,37500,25.9,Has inspiration photos ready.
+LEAD-00778,2025-11-14 06:27,Lukas Madsen,lukas.madsen@example.dk,,Bathroom,128000,Hellerup,Referral,Unresponsive,Jonas Berg,142500,20.5,Would like an on-site assessment.
+LEAD-00779,2025-11-03 02:49,Jonas Andersen,jonas.andersen@example.dk,+45 53 59 83 66,Kitchen,185000,Valby,Website,New,,170500,,Would like an on-site assessment.
+LEAD-00780,2026-05-04 09:57,Anders Larsen,anders.larsen@example.dk,+45 48 57 78 57,Kitchen,289000,Nørrebro,Facebook,Won,Mads Nielsen,296500,1.9,Interested in a sustainable material option.
+LEAD-00781,2026-07-17 21:22,Freja Hansen,freja.hansen@example.dk,+45 55 45 36 64,Full renovation,494000,Vesterbro,Google,Unresponsive,Jonas Berg,456000,10.8,Wants to compare a few layout options.
+LEAD-00782,2026-07-01 11:30,Ida Poulsen,ida.poulsen@example.dk,+45 34 17 69 57,Bathroom,146000,Vesterbro,Google,Won,Jonas Berg,151000,6.0,Wants to compare a few layout options.
+LEAD-00783,2026-02-27 13:18,Jonas Poulsen,jonas.poulsen@example.dk,+45 58 34 56 48,Bathroom,175000,Frederiksberg,Website,Won,Jonas Berg,194000,37.6,Wants to compare a few layout options.
+LEAD-00784,2026-06-29 04:19,William Sørensen,william.sørensen@example.dk,+45 39 23 54 61,Full renovation,219000,Copenhagen K,Instagram,Won,Jonas Berg,202000,33.6,Would like an on-site assessment.
+LEAD-00785,2026-05-27 20:31,Freja Jørgensen,freja.jørgensen@example.dk,+45 58 16 71 21,Bathroom,130000,Hellerup,Google,Won,Mads Nielsen,133500,69.5,Wants to compare a few layout options.
+LEAD-00786,2026-09-10 04:01,  CLARA PEDERSEN  ,clara.pedersen@example.dk,+45 24 74 82 54,Painting,83000,Hellerup,Website,New,,88000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00787,2025-11-21 09:36,Jonas Madsen,jonas.madsen@example.dk,+45 48 64 29 32,Kitchen,281000,Østerbro,Google,Contacted,Mads Nielsen,303000,37.8,Wants to compare a few layout options.
+LEAD-00788,2026-09-28 10:32,Emil Jensen,emil.jensen@example.dk,,Kitchen,174000,Vesterbro,Website,Lost,Jonas Berg,182000,69.2,Has inspiration photos ready.
+LEAD-00789,2026-02-16 14:12,Freja Hansen,freja.hansen@example.dk,+45 30 76 26 45,Painting,90000,Amager,Website,Won,Anna Larsen,102500,9.7,Looking for an estimate before summer.
+LEAD-00790,2025-10-16 08:04,Victor Andersen,victor.andersen@example.dk,+45 57 81 21 81,Full renovation,462000,Amager,Partner,Won,Mads Nielsen,432500,49.1,Would like an on-site assessment.
+LEAD-00791,2026-02-19 18:51,Victor Olsen,victor.olsen@example.dk,+45 54 40 11 46,Bathroom,83000,Nørrebro,Google,Won,Mads Nielsen,95000,46.6,Has inspiration photos ready.
+LEAD-00792,2026-04-28 16:13,Mathilde Jørgensen,mathilde.jørgensen@example.dk,+45 49 97 45 43,Flooring,37000,Valby,Facebook,Contacted,Jonas Berg,36000,57.1,Wants to compare a few layout options.
+LEAD-00793,2026-05-02 10:00,Ida Poulsen,ida.poulsen@example.dk,+45 50 86 98 87,Bathroom,129000,Frederiksberg,Google,Quoted,Jonas Berg,141000,55.2,Would like an on-site assessment.
+LEAD-00794,2026-03-27 01:29,Anders Christensen,anders.christensen@example.dk,+45 40 20 33 72,Kitchen,115000,Vanløse,Google,Won,Mads Nielsen,108500,33.0,Interested in a sustainable material option.
+LEAD-00795,2026-05-09 04:56,Lukas Jørgensen,lukas.jørgensen@example.dk,+45 37 65 19 19,Bathroom,73000,Copenhagen K,Google,New,,70000,,Interested in a sustainable material option.
+LEAD-00796,2025-12-27 22:10,Mathilde Poulsen,mathilde.poulsen@example.dk,+45 42 87 46 60,Kitchen,171000,Hellerup,Facebook,New,,169500,,Would like an on-site assessment.
+LEAD-00797,2026-04-29 20:48,Anders Rasmussen,anders.rasmussen@example.dk,+45 32 42 83 86,Full renovation,706000,Valby,Google,New,,712500,,Interested in a sustainable material option.
+LEAD-00798,2026-01-16 22:13,Sara Thomsen,sara.thomsen at example.dk,+45 22 57 86 13,Painting,33000,Amager,Website,Quoted,Anna Larsen,30500,57.0,Wants to compare a few layout options.
+LEAD-00799,2026-06-15 17:52,Emil Rasmussen,emil.rasmussen@example.dk,+45 31 79 44 74,Flooring,35000,Vesterbro,Referral,Qualified,Sofie Holm,33000,7.2,Has inspiration photos ready.
+LEAD-00800,2026-09-10 18:02,Ida Nielsen,ida.nielsen@example.dk,+45 53 94 92 90,Kitchen,224000,Vanløse,Website,Unresponsive,Mads Nielsen,201500,13.6,Looking for an estimate before summer.
+LEAD-00801,2025-10-25 14:48,Sofie Christensen,sofie.christensen@example.dk,+45 56 17 19 37,Bathroom,69000,Vesterbro,Referral,Lost,Jonas Berg,73500,2.5,Interested in a sustainable material option.
+LEAD-00802,2026-06-14 23:29,Clara Thomsen,clara.thomsen@example.dk,+45 20 46 13 17,Flooring,57000,Brønshøj,Instagram,Quoted,Anna Larsen,60000,10.1,Apartment renovation; access is easiest on weekdays.
+LEAD-00803,2026-03-28 11:48,Jonas Sørensen,jonas.sørensen@example.dk,+45 55 90 52 94,Flooring,96000,Hellerup,Google,Unresponsive,Jonas Berg,100500,43.8,Would like an on-site assessment.
+LEAD-00804,2026-09-03 05:50,Alma Nielsen,alma.nielsen@example.dk,+45 23 66 88 82,Bathroom,158000,Østerbro,Website,Quoted,Sofie Holm,150500,16.6,Wants to compare a few layout options.
+LEAD-00805,2026-03-20 15:01,Alma Andersen,alma.andersen@example.dk,+45 28 48 53 91,Painting,75000,Brønshøj,Google,Contacted,Jonas Berg,82500,11.0,Wants to compare a few layout options.
+LEAD-00806,2025-10-02 20:40,Sofie Poulsen,sofie.poulsen@example.dk,+45 21 74 80 32,Full renovation,509000,Brønshøj,Facebook,Contacted,Anna Larsen,540000,58.2,Looking for an estimate before summer.
+LEAD-00807,2025-11-23 14:50,Clara Nielsen,clara.nielsen@example.dk,+45 57 87 99 31,Full renovation,650000,Frederiksberg,Google,New,,655000,,Interested in a sustainable material option.
+LEAD-00808,2026-03-17 14:01,Noah Poulsen,noah.poulsen@example.dk,+45 35 18 81 86,Flooring,71000,Copenhagen K,Google,Won,Sofie Holm,79000,15.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00809,2026-03-16 22:54,Sara Pedersen,sara.pedersen@example.dk,+45 59 60 44 55,Bathroom,136000,Copenhagen K,Google,Won,Anna Larsen,150500,10.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00810,2026-06-10 20:20,Freja Poulsen,freja.poulsen@example.dk,+45 31 62 95 36,Kitchen,260000,Østerbro,Google,Contacted,Anna Larsen,256500,51.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00811,2026-03-05 21:29,Clara Hansen,clara.hansen@example.dk,+45 27 41 62 70,Painting,57000,Brønshøj,Facebook,Lost,Mads Nielsen,58500,8.4,Interested in a sustainable material option.
+LEAD-00812,2026-03-19 09:36,Clara Thomsen,clara.thomsen@example.dk,+45 29 66 96 86,Full renovation,587000,Frederiksberg,Google,Contacted,Jonas Berg,585500,2.1,Interested in a sustainable material option.
+LEAD-00813,2026-08-12 22:42,Victor Hansen,victor.hansen@example.dk,+45 38 44 56 41,Painting,87000,Østerbro,Website,Contacted,Anna Larsen,100000,63.3,Looking for an estimate before summer.
+LEAD-00814,2026-05-09 04:38,Freja Sørensen,freja.sørensen@example.dk,+45 35 63 41 46,Kitchen,158000,Østerbro,Partner,New,,158500,,Wants to compare a few layout options.
+LEAD-00815,2026-08-26 06:45,Sofie Sørensen,sofie.sørensen@example.dk,+45 48 42 68 29,Flooring,124000,Copenhagen K,Google,Qualified,Mads Nielsen,111500,2.2,Looking for an estimate before summer.
+LEAD-00816,2026-03-18 00:38,Ida Sørensen,ida.sørensen@example.dk,+45 31 58 37 97,Flooring,59000,Vanløse,Google,Contacted,Sofie Holm,67000,55.5,Has inspiration photos ready.
+LEAD-00817,2026-06-20 05:43,Victor Thomsen,victor.thomsen@example.dk,+45 34 83 43 27,Full renovation,692000,Brønshøj,Referral,Quoted,Mads Nielsen,644500,60.3,Interested in a sustainable material option.
+LEAD-00818,2026-04-27 13:54,William Andersen,william.andersen@example.dk,+45 35 31 80 28,Flooring,65000,Hellerup,Instagram,Quoted,Anna Larsen,71000,6.6,Interested in a sustainable material option.
+LEAD-00819,2026-04-16 18:54,Anders Rasmussen,anders.rasmussen@example.dk,+45 39 20 96 86,Kitchen,240000,Nørrebro,Google,Unresponsive,Sofie Holm,269500,4.2,Wants to compare a few layout options.
+LEAD-00820,2026-06-04 11:08,William Thomsen,william.thomsen@example.dk,+45 44 86 99 93,Bathroom,106000,Nørrebro,Google,Won,Jonas Berg,117500,16.1,Interested in a sustainable material option.
+LEAD-00821,2026-06-01 08:53,William Andersen,william.andersen@example.dk,+45 53 95 54 35,Kitchen,287000,Valby,Google,Quoted,Mads Nielsen,313500,64.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00822,2025-12-08 23:35,Anders Thomsen,anders.thomsen@example.dk,+45 32 16 82 15,Flooring,79000,Nørrebro,Instagram,Qualified,Anna Larsen,81000,7.8,Interested in a sustainable material option.
+LEAD-00823,2026-09-22 20:11,Anna Olsen,anna.olsen@example.dk,+45 53 14 39 57,Full renovation,844000,Brønshøj,Facebook,Quoted,Anna Larsen,844500,53.4,Would like an on-site assessment.
+LEAD-00824,2026-02-05 11:04,Laura Pedersen,laura.pedersen@example.dk,+45 51 48 58 93,Painting,78000,Nørrebro,Website,New,,83000,,Interested in a sustainable material option.
+LEAD-00825,2026-01-07 09:28,Anders Poulsen,anders.poulsen@example.dk,+45 56 78 61 26,Painting,22000,Vesterbro,Google,New,,24500,,Interested in a sustainable material option.
+LEAD-00826,2026-07-28 20:28,Anna Olsen,anna.olsen@example.dk,+45 31 68 13 90,Kitchen,90000,Valby,Google,New,,89000,,Interested in a sustainable material option.
+LEAD-00827,2026-08-28 05:22,Freja Jørgensen,freja.jørgensen@example.dk,+45 46 94 18 82,Kitchen,106000,Hellerup,Facebook,Won,Mads Nielsen,119000,46.8,Would like an on-site assessment.
+LEAD-00828,2026-09-30 08:10,Jonas Nielsen,jonas.nielsen@example.dk,+45 31 95 95 67,Kitchen,268000,Frederiksberg,Google,Lost,Jonas Berg,286000,34.5,Interested in a sustainable material option.
+LEAD-00829,2026-05-19 09:21,Oscar Christensen,oscar.christensen@example.dk,+45 24 43 53 27,Full renovation,548000,Copenhagen K,Instagram,Won,Jonas Berg,611000,61.1,Interested in a sustainable material option.
+LEAD-00830,2026-08-05 21:42,Sara Jørgensen,sara.jørgensen@example.dk,+45 21 66 44 74,Full renovation,544000,Copenhagen K,Facebook,Quoted,Anna Larsen,520500,62.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00831,2026-01-31 06:51,Sofie Pedersen,sofie.pedersen@example.dk,+45 45 34 13 96,Full renovation,482000,Copenhagen K,Google,New,,476000,,Interested in a sustainable material option.
+LEAD-00832,2025-12-07 05:47,Freja Andersen,freja.andersen@example.dk,+45 29 65 85 74,Kitchen,289000,Copenhagen K,Facebook,Qualified,Anna Larsen,301000,67.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00833,2025-12-16 15:47,Alma Jørgensen,alma.jørgensen@example.dk,+45 50 43 96 77,Painting,32000,Amager,Instagram,New,,35000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00834,2026-09-03 11:55,Noah Nielsen,noah.nielsen@example.dk,+45 28 31 98 91,Kitchen,297000,Amager,Website,Won,Jonas Berg,336500,19.4,Has inspiration photos ready.
+LEAD-00835,2026-08-01 09:23,Jonas Madsen,jonas.madsen@example.dk,+45 41 50 31 64,Full renovation,592000,Amager,Website,Quoted,Anna Larsen,646500,66.8,Interested in a sustainable material option.
+LEAD-00836,2026-05-31 06:49,Jonas Poulsen,jonas.poulsen@example.dk,+45 36 47 28 68,Full renovation,314000,Brønshøj,Website,Contacted,Mads Nielsen,326500,37.3,Has inspiration photos ready.
+LEAD-00837,2026-01-25 03:45,Sofie Madsen,sofie.madsen@example.dk,+45 33 26 31 54,Bathroom,137000,Frederiksberg,Facebook,Qualified,Mads Nielsen,125500,11.1,Has inspiration photos ready.
+LEAD-00838,2026-01-08 23:51,Alma Rasmussen,alma.rasmussen@example.dk,+45 32 42 45 44,Painting,80000,Valby,Referral,Qualified,Anna Larsen,77500,34.1,Has inspiration photos ready.
+LEAD-00839,2026-03-11 03:51,Victor Nielsen,victor.nielsen@example.dk,+45 20 30 72 77,Full renovation,361000,Vanløse,Instagram,Won,Jonas Berg,370000,19.6,Interested in a sustainable material option.
+LEAD-00840,2026-07-08 01:16,Anna Thomsen,anna.thomsen@example.dk,+45 33 33 17 20,Full renovation,535000,Nørrebro,Referral,Quoted,Mads Nielsen,564500,30.0,Apartment renovation; access is easiest on weekdays.
+LEAD-00841,2026-03-11 21:34,Ida Thomsen,ida.thomsen@example.dk,+45 36 21 61 34,Bathroom,93000,Nørrebro,Referral,Quoted,Anna Larsen,106000,22.7,Interested in a sustainable material option.
+LEAD-00842,2026-10-01 00:05,Lukas Thomsen,lukas.thomsen@example.dk,+45 50 81 35 39,Bathroom,164000,Hellerup,Referral,Contacted,Mads Nielsen,161500,57.6,Looking for an estimate before summer.
+LEAD-00843,2025-11-07 20:38,William Sørensen,william.sørensen@example.dk,+45 29 76 33 36,Kitchen,277000,Nørrebro,Google,Contacted,Mads Nielsen,308500,53.7,Interested in a sustainable material option.
+LEAD-00844,2026-06-26 02:37,Alma Andersen,alma.andersen@example.dk,+45 58 20 22 13,Painting,81000,Valby,Instagram,Won,Jonas Berg,93000,17.2,Interested in a sustainable material option.
+LEAD-00845,2026-04-06 06:30,William Jensen,william.jensen@example.dk,+45 57 31 88 24,Flooring,111000,Copenhagen K,Google,Qualified,Mads Nielsen,103500,29.0,Wants to compare a few layout options.
+LEAD-00846,2025-12-19 17:57,Noah Thomsen,noah.thomsen@example.dk,+45 32 53 30 91,Full renovation,649000,Vesterbro,Facebook,Contacted,Sofie Holm,658000,50.9,Looking for an estimate before summer.
+LEAD-00847,2026-06-30 11:57,Oscar Jørgensen,oscar.jørgensen@example.dk,+45 34 96 53 40,Bathroom,98000,Valby,Facebook,Lost,Mads Nielsen,108000,53.4,Wants to compare a few layout options.
+LEAD-00848,2026-06-04 22:39,Clara Hansen,clara.hansen@example.dk,+45 33 80 67 67,Kitchen,141000,Copenhagen K,Referral,Unresponsive,Anna Larsen,131500,57.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00849,2026-01-20 16:02,Freja Thomsen,freja.thomsen@example.dk,+45 42 88 66 13,Kitchen,219000,Vesterbro,Facebook,Lost,Mads Nielsen,245500,16.2,Wants to compare a few layout options.
+LEAD-00850,2026-07-03 09:45,Clara Thomsen,clara.thomsen@example.dk,+45 30 57 92 17,Kitchen,122000,Brønshøj,Facebook,Unresponsive,Mads Nielsen,127500,44.9,Wants to compare a few layout options.
+LEAD-00851,2026-03-21 15:16,Emil Andersen,emil.andersen@example.dk,+45 29 29 33 19,Painting,41000,Østerbro,Google,Won,Sofie Holm,42000,27.2,Wants to compare a few layout options.
+LEAD-00852,2026-05-11 09:20,Mathilde Olsen,mathilde.olsen@example.dk,+45 30 41 38 37,Kitchen,88000,Brønshøj,Google,New,,91000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00853,2025-11-11 22:02,William Larsen,william.larsen@example.dk,+45 53 64 59 40,Painting,67000,Nørrebro,Referral,Unresponsive,Anna Larsen,72000,33.1,Would like an on-site assessment.
+LEAD-00854,2025-10-29 08:36,Sara Andersen,sara.andersen@example.dk,+45 59 39 71 89,Painting,64000,Vesterbro,Referral,Won,Anna Larsen,58500,52.9,Wants to compare a few layout options.
+LEAD-00855,2026-08-25 19:00,  IDA HANSEN  ,ida.hansen@example.dk,+45 46 19 91 52,Bathroom,99000,Nørrebro,Partner,Won,Jonas Berg,91500,12.6,Has inspiration photos ready.
+LEAD-00856,2026-06-12 03:24,Mikkel Sørensen,mikkel.sørensen@example.dk,+45 24 84 53 48,Painting,87000,Brønshøj,Instagram,Lost,Sofie Holm,91500,50.6,Interested in a sustainable material option.
+LEAD-00857,2026-03-06 20:10,Sofie Madsen,sofie.madsen@example.dk,+45 50 15 75 89,Kitchen,88000,Hellerup,Partner,Qualified,Anna Larsen,89000,11.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00858,2026-01-20 19:46,William Olsen,william.olsen@example.dk,+45 42 63 35 85,Flooring,104000,Valby,Instagram,Won,Mads Nielsen,115000,33.8,Would like an on-site assessment.
+LEAD-00859,2026-07-15 22:29,Mikkel Madsen,mikkel.madsen@example.dk,+45 46 85 74 31,Full renovation,306000,Østerbro,Facebook,New,,300000,,Has inspiration photos ready.
+LEAD-00860,2025-12-01 16:36,Emil Jensen,emil.jensen@example.dk,+45 21 27 43 79,Painting,66000,Vanløse,Google,Contacted,Anna Larsen,66500,49.5,Looking for an estimate before summer.
+LEAD-00861,2025-12-22 08:44,Laura Rasmussen,laura.rasmussen@example.dk,+45 51 43 33 97,Full renovation,682000,Frederiksberg,Facebook,Contacted,Anna Larsen,720000,30.9,Would like an on-site assessment.
+LEAD-00862,2026-06-16 20:19,Noah Jensen,noah.jensen@example.dk,+45 57 14 62 80,Full renovation,428000,Copenhagen K,Website,Unresponsive,Sofie Holm,489000,63.6,Would like an on-site assessment.
+LEAD-00863,2026-07-24 09:41,Clara Olsen,clara.olsen@example.dk,+45 56 10 18 74,Bathroom,123000,Valby,Google,Won,Anna Larsen,114000,57.5,Wants to compare a few layout options.
+LEAD-00864,2026-05-11 16:51,Noah Rasmussen,noah.rasmussen@example.dk,+45 34 24 16 39,Kitchen,245000,Copenhagen K,Referral,Qualified,Jonas Berg,247500,28.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00865,2026-02-11 02:18,Sofie Hansen,sofie.hansen@example.dk,+45 20 56 74 10,Flooring,25000,Hellerup,Instagram,Contacted,Mads Nielsen,23000,39.2,Would like an on-site assessment.
+LEAD-00866,2025-12-23 21:34,Alma Thomsen,alma.thomsen@example.dk,+45 59 84 76 84,Painting,22000,Brønshøj,Google,Lost,Anna Larsen,22000,62.8,Interested in a sustainable material option.
+LEAD-00867,2026-01-05 08:16,Sofie Madsen,sofie.madsen@example.dk,+45 26 80 11 74,Kitchen,217000,Hellerup,Google,Unresponsive,Jonas Berg,199000,55.7,Has inspiration photos ready.
+LEAD-00868,2026-05-04 10:16,Sofie Jørgensen,sofie.jørgensen@example.dk,+45 35 89 11 86,Bathroom,147000,Nørrebro,Referral,Contacted,Mads Nielsen,158500,70.6,Wants to compare a few layout options.
+LEAD-00869,2026-03-25 14:12,Mikkel Rasmussen,mikkel.rasmussen@example.dk,+45 41 71 90 15,Flooring,67000,Amager,Website,Won,Jonas Berg,70000,7.0,Looking for an estimate before summer.
+LEAD-00870,2026-04-04 17:20,Freja Larsen,freja.larsen@example.dk,+45 26 77 76 23,Kitchen,195000,Vanløse,Referral,Contacted,Anna Larsen,216000,66.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00871,2026-02-28 21:16,Lukas Madsen,lukas.madsen@example.dk,+45 46 48 78 65,Painting,50000,Amager,Website,New,,50500,,Would like an on-site assessment.
+LEAD-00872,2026-02-14 03:35,Oscar Jensen,oscar.jensen@example.dk,+45 27 28 40 81,Flooring,83000,Vanløse,Instagram,Qualified,Mads Nielsen,81000,51.1,Wants to compare a few layout options.
+LEAD-00873,2026-04-12 08:32,Victor Larsen,victor.larsen@example.dk,+45 31 46 45 38,Bathroom,115000,Østerbro,Referral,Won,Anna Larsen,127500,38.5,Would like an on-site assessment.
+LEAD-00874,2025-11-27 00:34,William Hansen,william.hansen@example.dk,+45 23 90 51 97,Bathroom,122000,Østerbro,Website,Won,Sofie Holm,116500,32.7,Would like an on-site assessment.
+LEAD-00875,2026-05-29 03:30,Lukas Thomsen,lukas.thomsen@example.dk,+45 52 23 30 62,Painting,26000,Copenhagen K,Facebook,Contacted,Jonas Berg,28500,4.4,Wants to compare a few layout options.
+LEAD-00876,2026-09-24 22:56,Noah Pedersen,noah.pedersen@example.dk,+45 55 86 48 48,Kitchen,152000,Vesterbro,Facebook,Lost,Jonas Berg,144000,60.1,Would like an on-site assessment.
+LEAD-00877,2026-01-07 17:36,Emil Christensen,emil.christensen@example.dk,+45 33 52 24 40,Flooring,97000,Hellerup,Google,Won,Jonas Berg,87500,57.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00878,2026-07-08 06:31,Alma Sørensen,alma.sørensen at example.dk,+45 39 78 37 24,Painting,87000,Østerbro,Google,New,,87000,,Looking for an estimate before summer.
+LEAD-00879,2026-02-09 07:37,Nikolaj Jørgensen,nikolaj.jørgensen@example.dk,+45 55 19 98 56,Bathroom,164000,Copenhagen K,Facebook,Won,Anna Larsen,151000,39.5,Would like an on-site assessment.
+LEAD-00880,2026-06-09 02:20,Alma Poulsen,alma.poulsen@example.dk,+45 52 34 33 90,Painting,35000,Østerbro,Instagram,Won,Jonas Berg,38000,41.3,Wants to compare a few layout options.
+LEAD-00881,2026-05-27 07:17,Oscar Hansen,oscar.hansen@example.dk,,Painting,24000,Vanløse,Website,Contacted,Sofie Holm,25000,53.8,Has inspiration photos ready.
+LEAD-00882,2026-01-31 19:26,  ALMA JØRGENSEN  ,alma.jørgensen@example.dk,+45 58 67 99 12,Full renovation,743000,Frederiksberg,Google,Quoted,Anna Larsen,822500,32.1,Looking for an estimate before summer.
+LEAD-00883,2026-01-31 09:16,Emil Pedersen,emil.pedersen@example.dk,+45 55 36 28 40,Painting,47000,Vanløse,Google,Lost,Jonas Berg,45500,52.2,Has inspiration photos ready.
+LEAD-00884,2025-11-20 12:23,William Christensen,william.christensen@example.dk,+45 30 91 54 56,Bathroom,93000,Vanløse,Website,New,,88500,,Apartment renovation; access is easiest on weekdays.
+LEAD-00885,2025-11-04 11:10,Victor Nielsen,victor.nielsen@example.dk,,Painting,64000,Vesterbro,Website,Contacted,Mads Nielsen,61500,38.7,Interested in a sustainable material option.
+LEAD-00886,2026-08-21 16:03,Laura Rasmussen,laura.rasmussen@example.dk,+45 24 25 59 94,Full renovation,556000,Copenhagen K,Google,Quoted,Mads Nielsen,634500,18.6,Has inspiration photos ready.
+LEAD-00887,2025-12-29 01:12,Laura Jørgensen,laura.jørgensen@example.dk,+45 23 35 61 92,Painting,41000,Nørrebro,Website,New,,46500,,Would like an on-site assessment.
+LEAD-00888,2025-11-10 02:15,Emil Thomsen,emil.thomsen@example.dk,+45 37 63 97 53,Bathroom,163000,Østerbro,Website,Won,Sofie Holm,176000,38.6,Wants to compare a few layout options.
+LEAD-00889,2026-02-16 05:44,Oscar Jørgensen,oscar.jørgensen@example.dk,+45 51 50 84 28,Flooring,30000,Valby,Google,Won,Jonas Berg,32000,49.1,Interested in a sustainable material option.
+LEAD-00890,2026-05-11 15:10,Alma Larsen,alma.larsen@example.dk,+45 52 56 84 57,Bathroom,54000,Vesterbro,Website,Contacted,Mads Nielsen,51500,2.9,Interested in a sustainable material option.
+LEAD-00891,2026-08-19 16:28,Lukas Madsen,lukas.madsen@example.dk,+45 44 89 62 16,Kitchen,85000,Hellerup,Website,Contacted,Jonas Berg,82500,43.0,Has inspiration photos ready.
+LEAD-00892,2026-08-13 22:16,Anna Nielsen,anna.nielsen@example.dk,+45 56 84 81 79,Kitchen,176000,Valby,Google,Won,Mads Nielsen,194000,59.2,Interested in a sustainable material option.
+LEAD-00893,2026-01-26 20:50,Nikolaj Kristensen,nikolaj.kristensen@example.dk,+45 30 41 92 10,Kitchen,287000,Vanløse,Google,Won,Sofie Holm,298500,43.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00894,2026-04-13 17:28,Clara Madsen,clara.madsen@example.dk,+45 37 72 67 12,Bathroom,103000,Vanløse,Facebook,Quoted,Mads Nielsen,94500,36.9,Has inspiration photos ready.
+LEAD-00895,2026-01-03 11:02,Sofie Pedersen,sofie.pedersen@example.dk,+45 20 49 38 84,Kitchen,96000,Nørrebro,Instagram,Contacted,Jonas Berg,109500,25.3,Would like an on-site assessment.
+LEAD-00896,2026-05-12 08:59,Clara Poulsen,clara.poulsen@example.dk,+45 27 31 21 48,Kitchen,276000,Østerbro,Website,New,,316000,,Looking for an estimate before summer.
+LEAD-00897,2026-02-13 03:26,Victor Jensen,victor.jensen@example.dk,+45 20 59 36 94,Full renovation,432000,Copenhagen K,Instagram,Won,Jonas Berg,458500,51.5,Interested in a sustainable material option.
+LEAD-00898,2026-08-24 12:40,Anders Madsen,anders.madsen@example.dk,+45 39 52 30 89,Kitchen,175000,Nørrebro,Facebook,Lost,Jonas Berg,184500,67.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00899,2026-08-16 03:06,Sara Sørensen,sara.sørensen@example.dk,+45 35 51 12 43,Bathroom,57000,Frederiksberg,Facebook,Qualified,Sofie Holm,63500,5.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00900,2026-04-26 09:08,Freja Rasmussen,freja.rasmussen@example.dk,+45 44 39 93 40,Bathroom,160000,Nørrebro,Google,New,,169000,,Interested in a sustainable material option.
+LEAD-00901,2026-05-09 11:33,Victor Pedersen,victor.pedersen@example.dk,+45 36 33 47 94,Full renovation,198000,Vesterbro,Google,New,,199500,,Has inspiration photos ready.
+LEAD-00902,2026-07-04 16:05,Laura Poulsen,laura.poulsen@example.dk,+45 22 55 65 53,Kitchen,278000,Hellerup,Partner,Lost,Jonas Berg,288500,23.7,Looking for an estimate before summer.
+LEAD-00903,2026-09-12 12:52,Noah Nielsen,noah.nielsen@example.dk,+45 39 80 77 65,Kitchen,247000,Valby,Website,Lost,Jonas Berg,265000,40.7,Interested in a sustainable material option.
+LEAD-00904,2025-11-11 04:02,Laura Pedersen,laura.pedersen@example.dk,+45 59 41 96 98,Bathroom,150000,Østerbro,Website,Qualified,Anna Larsen,147000,42.2,Interested in a sustainable material option.
+LEAD-00905,2026-07-06 09:51,  MATHILDE SØRENSEN  ,mathilde.sørensen@example.dk,+45 36 16 87 48,Kitchen,79000,Copenhagen K,Facebook,Qualified,Mads Nielsen,88000,50.2,Wants to compare a few layout options.
+LEAD-00906,2026-03-06 14:17,Jonas Kristensen,jonas.kristensen@example.dk,+45 55 16 52 30,Bathroom,146000,Østerbro,Instagram,Quoted,Sofie Holm,140500,70.6,Has inspiration photos ready.
+LEAD-00907,2025-12-21 04:00,Oscar Jensen,oscar.jensen@example.dk,+45 26 36 50 99,Flooring,120000,Vanløse,Google,Won,Mads Nielsen,130000,26.1,Would like an on-site assessment.
+LEAD-00908,2025-11-27 00:30,Oscar Jørgensen,oscar.jørgensen@example.dk,+45 57 16 29 80,Full renovation,383000,Nørrebro,Referral,Contacted,Jonas Berg,350500,18.6,Looking for an estimate before summer.
+LEAD-00909,2026-01-12 08:38,Nikolaj Olsen,nikolaj.olsen@example.dk,+45 49 56 34 62,Full renovation,419000,Nørrebro,Website,Won,Sofie Holm,433000,58.7,Looking for an estimate before summer.
+LEAD-00910,2026-01-31 06:45,William Jørgensen,william.jørgensen@example.dk,+45 34 82 23 48,Bathroom,150000,Hellerup,Website,Qualified,Sofie Holm,158000,70.2,Has inspiration photos ready.
+LEAD-00911,2026-07-04 12:09,Sara Rasmussen,sara.rasmussen@example.dk,+45 27 36 60 44,Full renovation,559000,Brønshøj,Google,Lost,Anna Larsen,560500,13.4,Apartment renovation; access is easiest on weekdays.
+LEAD-00912,2026-02-02 02:56,Anders Poulsen,anders.poulsen@example.dk,+45 39 60 11 52,Full renovation,824000,Amager,Referral,Lost,Sofie Holm,946000,14.7,Has inspiration photos ready.
+LEAD-00913,2026-02-08 18:24,Clara Jensen,clara.jensen@example.dk,+45 21 50 30 94,Bathroom,110000,Østerbro,Facebook,Quoted,Anna Larsen,116000,49.7,Wants to compare a few layout options.
+LEAD-00914,2026-02-01 09:01,Noah Jensen,noah.jensen@example.dk,+45 23 59 94 85,Kitchen,186000,Vesterbro,Referral,Contacted,Anna Larsen,172500,67.2,Would like an on-site assessment.
+LEAD-00915,2026-07-28 02:36,Emil Larsen,emil.larsen at example.dk,+45 43 99 56 22,Full renovation,222000,Hellerup,Facebook,Contacted,Mads Nielsen,220000,54.2,Looking for an estimate before summer.
+LEAD-00916,2025-10-07 23:26,Sara Jørgensen,sara.jørgensen@example.dk,+45 23 41 93 51,Flooring,24000,Vanløse,Referral,Contacted,Jonas Berg,24500,48.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00917,2026-06-11 23:04,Nikolaj Madsen,nikolaj.madsen@example.dk,+45 29 52 82 79,Bathroom,58000,Vanløse,Facebook,Quoted,Jonas Berg,66000,68.0,Would like an on-site assessment.
+LEAD-00918,2026-08-17 09:08,Mathilde Madsen,mathilde.madsen@example.dk,+45 32 16 49 87,Flooring,63000,Hellerup,Website,Qualified,Jonas Berg,58500,24.5,Interested in a sustainable material option.
+LEAD-00919,2026-02-21 12:15,Emil Jensen,emil.jensen@example.dk,+45 34 60 71 74,Kitchen,223000,Vesterbro,Google,Won,Jonas Berg,236500,46.0,Interested in a sustainable material option.
+LEAD-00920,2026-05-31 00:02,Emma Larsen,emma.larsen@example.dk,+45 22 57 22 42,Bathroom,95000,Frederiksberg,Instagram,Unresponsive,Mads Nielsen,89000,43.7,Looking for an estimate before summer.
+LEAD-00921,2026-07-18 22:55,Mathilde Hansen,mathilde.hansen@example.dk,+45 57 45 44 58,Bathroom,161000,Valby,Google,Lost,Mads Nielsen,148500,6.3,Would like an on-site assessment.
+LEAD-00922,2025-12-01 21:41,Emma Sørensen,emma.sørensen@example.dk,+45 43 99 84 85,Full renovation,791000,Amager,Instagram,Unresponsive,Mads Nielsen,815500,63.2,Interested in a sustainable material option.
+LEAD-00923,2026-03-14 16:00,Sofie Andersen,sofie.andersen@example.dk,+45 49 41 57 45,Flooring,104000,Nørrebro,Website,Quoted,Sofie Holm,102500,60.5,Has inspiration photos ready.
+LEAD-00924,2026-02-16 10:27,Emma Larsen,emma.larsen@example.dk,+45 55 69 34 97,Bathroom,171000,Vesterbro,Google,Quoted,Anna Larsen,186500,46.7,Apartment renovation; access is easiest on weekdays.
+LEAD-00925,2025-11-18 03:36,  SARA ANDERSEN  ,sara.andersen@example.dk,+45 46 84 31 25,Painting,53000,Østerbro,Referral,Qualified,Anna Larsen,49000,21.8,Has inspiration photos ready.
+LEAD-00926,2026-06-29 07:35,Emma Andersen,emma.andersen@example.dk,+45 35 90 78 72,Kitchen,274000,Amager,Instagram,Lost,Sofie Holm,285000,15.4,Looking for an estimate before summer.
+LEAD-00927,2026-03-04 15:06,Ida Olsen,ida.olsen@example.dk,+45 59 44 30 10,Bathroom,96000,Hellerup,Website,Unresponsive,Sofie Holm,89000,33.9,Looking for an estimate before summer.
+LEAD-00928,2026-09-19 19:20,Anna Andersen,anna.andersen@example.dk,+45 45 60 60 14,Full renovation,443000,Brønshøj,Website,Contacted,Jonas Berg,431000,61.4,Has inspiration photos ready.
+LEAD-00929,2026-05-07 21:09,Clara Poulsen,clara.poulsen@example.dk,+45 23 68 61 31,Kitchen,212000,Valby,Google,New,,226500,,Looking for an estimate before summer.
+LEAD-00930,2026-07-11 08:18,Mikkel Nielsen,mikkel.nielsen@example.dk,+45 50 61 51 56,Painting,67000,Østerbro,Website,Contacted,Sofie Holm,63500,6.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00931,2025-12-28 03:31,Jonas Poulsen,jonas.poulsen@example.dk,+45 41 31 27 80,Painting,17000,Brønshøj,Facebook,New,,16500,,Would like an on-site assessment.
+LEAD-00932,2026-05-04 17:34,Freja Kristensen,freja.kristensen@example.dk,+45 31 50 23 22,Bathroom,112000,Vesterbro,Referral,Unresponsive,Anna Larsen,114000,28.8,Looking for an estimate before summer.
+LEAD-00933,2026-09-17 11:48,Mikkel Jensen,mikkel.jensen@example.dk,+45 40 93 27 43,Kitchen,84000,Nørrebro,Google,New,,81000,,Looking for an estimate before summer.
+LEAD-00934,2026-04-11 06:12,Oscar Thomsen,oscar.thomsen@example.dk,+45 45 21 85 25,Flooring,114000,Nørrebro,Facebook,Won,Jonas Berg,106500,19.2,Apartment renovation; access is easiest on weekdays.
+LEAD-00935,2026-09-17 11:25,Laura Sørensen,laura.sørensen@example.dk,+45 27 74 93 47,Painting,81000,Copenhagen K,Referral,Quoted,Anna Larsen,76500,53.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00936,2026-05-05 06:04,William Poulsen,william.poulsen@example.dk,+45 25 21 88 35,Flooring,84000,Vanløse,Website,Qualified,Anna Larsen,76000,68.5,Interested in a sustainable material option.
+LEAD-00937,2025-12-08 01:38,Anders Poulsen,anders.poulsen@example.dk,+45 22 53 73 17,Kitchen,116000,Copenhagen K,Facebook,Quoted,Anna Larsen,117000,26.1,Wants to compare a few layout options.
+LEAD-00938,2026-08-05 17:38,Anna Kristensen,anna.kristensen@example.dk,+45 41 20 42 53,Full renovation,320000,Amager,Facebook,Unresponsive,Mads Nielsen,306500,50.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00939,2025-10-25 14:20,Clara Kristensen,clara.kristensen@example.dk,+45 51 84 15 74,kitchen,230000,Amager,Website,New,,253000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00940,2026-05-10 16:35,Ida Thomsen,ida.thomsen@example.dk,+45 46 40 45 34,Painting,21000,Brønshøj,Referral,New,,22000,,Looking for an estimate before summer.
+LEAD-00941,2026-05-23 07:19,Alma Pedersen,alma.pedersen@example.dk,+45 27 60 90 17,Bathroom,45000,Nørrebro,Website,Qualified,Sofie Holm,50000,70.8,Would like an on-site assessment.
+LEAD-00942,2026-04-21 14:48,Clara Larsen,clara.larsen@example.dk,+45 47 67 52 52,Bathroom,130000,Nørrebro,Google,Qualified,Jonas Berg,120000,60.6,Has inspiration photos ready.
+LEAD-00943,2026-01-13 20:00,Oscar Andersen,oscar.andersen@example.dk,+45 33 25 84 95,Full renovation,645000,Vesterbro,Website,Contacted,Sofie Holm,588500,69.1,Looking for an estimate before summer.
+LEAD-00944,2026-02-18 21:44,Anders Christensen,anders.christensen@example.dk,+45 38 62 13 30,Flooring,32000,Valby,Google,New,,32000,,Looking for an estimate before summer.
+LEAD-00945,2026-06-20 12:52,Mikkel Christensen,mikkel.christensen@example.dk,+45 31 61 89 13,Flooring,113000,Valby,Google,Quoted,Mads Nielsen,108500,33.2,Would like an on-site assessment.
+LEAD-00946,2026-04-05 02:21,Sara Andersen,sara.andersen@example.dk,+45 21 74 46 57,Bathroom,165000,Vesterbro,Facebook,Lost,Anna Larsen,160500,55.9,Looking for an estimate before summer.
+LEAD-00947,2026-04-06 00:21,Clara Kristensen,clara.kristensen@example.dk,+45 26 45 47 10,Flooring,97000,Brønshøj,Referral,New,,111500,,Interested in a sustainable material option.
+LEAD-00948,2025-10-19 18:09,Sofie Larsen,sofie.larsen@example.dk,+45 45 58 85 13,Full renovation,351000,Hellerup,Referral,Contacted,Mads Nielsen,316000,41.7,Has inspiration photos ready.
+LEAD-00949,2025-10-19 12:15,Freja Pedersen,freja.pedersen@example.dk,+45 42 60 99 54,Kitchen,276000,Østerbro,Google,Lost,Jonas Berg,261500,57.7,Would like an on-site assessment.
+LEAD-00950,2026-06-17 03:21,William Rasmussen,william.rasmussen@example.dk,+45 40 27 71 89,Full renovation,518000,Valby,Facebook,Quoted,Mads Nielsen,486500,49.6,Looking for an estimate before summer.
+LEAD-00951,2026-05-01 04:53,Mathilde Larsen,mathilde.larsen@example.dk,,Bathroom,148000,Nørrebro,Google,Unresponsive,Anna Larsen,136000,11.8,Interested in a sustainable material option.
+LEAD-00952,2025-11-05 13:41,Oscar Kristensen,oscar.kristensen@example.dk,+45 35 89 99 70,Painting,19000,Copenhagen K,Instagram,Contacted,Jonas Berg,19000,9.3,Apartment renovation; access is easiest on weekdays.
+LEAD-00953,2026-03-22 18:46,Emil Rasmussen,emil.rasmussen@example.dk,+45 52 27 56 64,Kitchen,107000,Valby,Facebook,Lost,Anna Larsen,117500,10.0,Interested in a sustainable material option.
+LEAD-00954,2026-05-12 00:07,Anna Kristensen,anna.kristensen@example.dk,+45 33 85 46 94,Bathroom,62000,Copenhagen K,Google,Contacted,Sofie Holm,61500,68.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00955,2026-06-17 11:29,Sofie Christensen,sofie.christensen@example.dk,+45 32 76 12 12,Painting,44000,Valby,Website,Qualified,Mads Nielsen,45000,31.8,Interested in a sustainable material option.
+LEAD-00956,2026-04-05 18:28,Sofie Thomsen,sofie.thomsen@example.dk,+45 58 49 34 92,Kitchen,182000,Vanløse,Referral,New,,173000,,Apartment renovation; access is easiest on weekdays.
+LEAD-00957,2026-05-14 14:28,Victor Pedersen,victor.pedersen@example.dk,+45 47 23 90 16,Kitchen,89000,Copenhagen K,Website,Won,Jonas Berg,80500,8.3,Interested in a sustainable material option.
+LEAD-00958,2026-07-31 04:58,Anders Olsen,anders.olsen@example.dk,+45 47 89 40 94,Flooring,67000,Nørrebro,Google,Quoted,Anna Larsen,62000,45.1,Would like an on-site assessment.
+LEAD-00959,2026-09-21 09:02,Anna Madsen,anna.madsen@example.dk,+45 25 56 71 77,Flooring,49000,Copenhagen K,Google,Won,Anna Larsen,52500,19.4,Interested in a sustainable material option.
+LEAD-00960,2026-04-29 19:57,Anders Christensen,anders.christensen@example.dk,+45 38 81 74 61,Full renovation,737000,Nørrebro,Website,Unresponsive,Jonas Berg,839000,15.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00961,2026-06-13 01:42,Mikkel Christensen,mikkel.christensen@example.dk,+45 38 63 75 94,Bathroom,129000,Vanløse,Partner,Lost,Mads Nielsen,130000,30.8,Has inspiration photos ready.
+LEAD-00962,2026-04-29 18:47,Anders Kristensen,anders.kristensen@example.dk,+45 25 46 94 24,Kitchen,77000,Nørrebro,Website,Lost,Sofie Holm,79000,40.1,Wants to compare a few layout options.
+LEAD-00963,2026-06-29 05:31,Jonas Poulsen,jonas.poulsen@example.dk,+45 27 81 27 16,Bathroom,73000,Frederiksberg,Google,Contacted,Sofie Holm,77000,15.3,Has inspiration photos ready.
+LEAD-00964,2026-03-17 00:57,Ida Olsen,ida.olsen@example.dk,+45 34 90 12 45,Kitchen,94000,Copenhagen K,Website,Qualified,Jonas Berg,103500,44.3,Interested in a sustainable material option.
+LEAD-00965,2026-07-30 00:11,Sara Poulsen,sara.poulsen@example.dk,+45 29 21 46 58,Flooring,105000,Vesterbro,Website,Contacted,Jonas Berg,95000,9.4,Looking for an estimate before summer.
+LEAD-00966,2025-12-19 04:40,Ida Madsen,ida.madsen@example.dk,+45 49 44 89 55,Painting,54000,Brønshøj,Referral,Contacted,Jonas Berg,50500,27.5,Has inspiration photos ready.
+LEAD-00967,2026-03-02 10:03,Mathilde Sørensen,mathilde.sørensen@example.dk,+45 56 96 45 84,Bathroom,89000,Valby,Facebook,Qualified,Mads Nielsen,82500,15.1,Has inspiration photos ready.
+LEAD-00968,2026-03-19 12:06,Nikolaj Jørgensen,nikolaj.jørgensen@example.dk,,Bathroom,148000,Hellerup,Google,Qualified,Mads Nielsen,138000,52.1,Would like an on-site assessment.
+LEAD-00969,2025-10-19 00:09,Emma Jørgensen,emma.jørgensen@example.dk,+45 44 32 92 65,Flooring,92000,Østerbro,Instagram,Quoted,Anna Larsen,105500,61.5,Would like an on-site assessment.
+LEAD-00970,2025-10-19 09:55,  JONAS ANDERSEN  ,jonas.andersen@example.dk,+45 34 41 93 80,Painting,13000,Frederiksberg,Google,Quoted,Sofie Holm,14000,51.9,Looking for an estimate before summer.
+LEAD-00971,2026-07-28 10:36,Freja Sørensen,freja.sørensen@example.dk,+45 58 57 98 61,Bathroom,167000,Valby,Referral,Lost,Mads Nielsen,150500,67.0,Looking for an estimate before summer.
+LEAD-00972,2026-06-30 03:51,Alma Poulsen,alma.poulsen@example.dk,+45 34 17 33 58,Painting,67000,Hellerup,Google,Quoted,Anna Larsen,63000,48.1,Would like an on-site assessment.
+LEAD-00973,2026-08-17 22:29,Freja Christensen,freja.christensen@example.dk,+45 41 35 78 45,Bathroom,163000,Copenhagen K,Google,Won,Jonas Berg,170000,12.8,Has inspiration photos ready.
+LEAD-00974,2026-03-28 19:23,Alma Olsen,alma.olsen@example.dk,+45 46 87 93 66,Kitchen,281000,Copenhagen K,Facebook,Quoted,Sofie Holm,280500,5.4,Would like an on-site assessment.
+LEAD-00975,2026-04-18 05:21,Victor Rasmussen,victor.rasmussen@example.dk,+45 26 18 32 34,Kitchen,209000,Vanløse,Referral,Quoted,Anna Larsen,210000,58.1,Looking for an estimate before summer.
+LEAD-00976,2025-12-05 23:02,Mikkel Sørensen,mikkel.sørensen@example.dk,+45 57 44 96 31,Bathroom,128000,Nørrebro,Website,Lost,Jonas Berg,120000,44.7,Has inspiration photos ready.
+LEAD-00977,2026-07-24 08:58,Lukas Hansen,lukas.hansen@example.dk,+45 35 78 52 26,Kitchen,264000,Vanløse,Referral,Contacted,Mads Nielsen,238000,26.3,Interested in a sustainable material option.
+LEAD-00978,2025-12-03 21:26,Noah Rasmussen,noah.rasmussen@example.dk,+45 44 59 95 19,Kitchen,195000,Amager,Referral,New,,184500,,Has inspiration photos ready.
+LEAD-00979,2026-06-18 12:01,Anders Thomsen,anders.thomsen@example.dk,,Full renovation,534000,Hellerup,Website,Won,Anna Larsen,589500,5.8,Wants to compare a few layout options.
+LEAD-00980,2026-08-11 02:47,Nikolaj Larsen,nikolaj.larsen@example.dk,+45 45 84 96 94,Bathroom,104000,Frederiksberg,Referral,Won,Jonas Berg,117000,20.8,Apartment renovation; access is easiest on weekdays.
+LEAD-00631,2026-05-29 20:29,Anna Sørensen,anna.sørensen@example.dk,+45 48 31 82 63,Kitchen,145000,Østerbro,Facebook,Qualified,Mads Nielsen,133500,31.8,Would like an on-site assessment.
+LEAD-00382,2026-05-25 23:52,Sara Christensen,sara.christensen@example.dk,+45 52 60 44 79,Flooring,66000,Valby,Instagram,Won,Sofie Holm,61500,43.5,Has inspiration photos ready.
+LEAD-00336,2026-07-21 10:28,Anders Andersen,anders.andersen@example.dk,+45 59 17 92 46,Kitchen,208000,Frederiksberg,Google,Lost,Jonas Berg,204000,14.8,Has inspiration photos ready.
+LEAD-00556,2026-07-06 03:00,Freja Poulsen,freja.poulsen@example.dk,+45 46 22 80 96,Painting,72000,Brønshøj,Website,Qualified,Jonas Berg,80000,16.0,Looking for an estimate before summer.
+LEAD-00486,2025-12-01 03:37,Emil Hansen,emil.hansen@example.dk,+45 25 97 56 54,Full renovation,644000,Copenhagen K,Referral,Won,Anna Larsen,649500,49.3,Looking for an estimate before summer.
+LEAD-00459,2026-07-30 21:13,Lukas Pedersen,lukas.pedersen@example.dk,+45 58 23 77 46,Painting,47000,Frederiksberg,Website,Lost,Sofie Holm,43000,15.2,Looking for an estimate before summer.
+LEAD-00607,2025-10-15 01:33,Clara Nielsen,clara.nielsen@example.dk,+45 38 33 20 15,Painting,48000,Nørrebro,Website,Quoted,Anna Larsen,55000,51.0,Wants to compare a few layout options.
+LEAD-00227,2025-12-12 22:43,Emma Kristensen,emma.kristensen@example.dk,+45 54 15 67 85,Bathroom,159000,Hellerup,Google,Qualified,Sofie Holm,172500,64.5,Would like an on-site assessment.
+LEAD-00192,2025-11-23 10:29,Laura Nielsen,laura.nielsen@example.dk,+45 31 42 47 41,Full renovation,669000,Amager,Facebook,New,,607500,,Wants to compare a few layout options.
+LEAD-00343,2026-06-30 06:43,Mikkel Christensen,mikkel.christensen@example.dk,+45 35 94 66 10,Bathroom,121000,Nørrebro,Partner,Lost,Anna Larsen,130000,7.5,Interested in a sustainable material option.
+LEAD-00709,2026-05-22 18:20,Noah Poulsen,noah.poulsen@example.dk,+45 39 10 84 86,Kitchen,171000,Amager,Google,Qualified,Mads Nielsen,181500,22.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00114,2025-12-05 16:05,Victor Nielsen,victor.nielsen@example.dk,+45 40 41 73 30,Kitchen,207000,Copenhagen K,Website,New,,231000,,Wants to compare a few layout options.
+LEAD-00019,2025-12-19 19:10,Anders Larsen,anders.larsen@example.dk,+45 21 15 42 15,Painting,20000,Nørrebro,Google,New,,20000,,Has inspiration photos ready.
+LEAD-00499,2025-11-02 02:30,Freja Jørgensen,freja.jørgensen@example.dk,+45 59 85 18 95,Painting,55000,Vesterbro,Instagram,Quoted,Mads Nielsen,62500,26.9,Wants to compare a few layout options.
+LEAD-00792,2026-04-28 16:13,Mathilde Jørgensen,mathilde.jørgensen@example.dk,+45 49 97 45 43,Flooring,37000,Valby,Facebook,Contacted,Jonas Berg,36000,57.1,Wants to compare a few layout options.
+LEAD-00619,2025-12-13 01:43,Jonas Sørensen,jonas.sørensen@example.dk,+45 41 27 51 75,Painting,40000,Amager,Referral,Qualified,Jonas Berg,45000,47.6,Apartment renovation; access is easiest on weekdays.
+LEAD-00667,2026-05-10 20:11,Sara Sørensen,sara.sørensen@example.dk,+45 50 62 89 46,Bathroom,164000,Østerbro,Referral,Won,Sofie Holm,185500,60.9,Interested in a sustainable material option.
+LEAD-00707,2026-05-01 15:08,Victor Hansen,victor.hansen@example.dk,+45 49 55 33 36,Flooring,83000,Vanløse,Google,Won,Anna Larsen,76000,42.5,Apartment renovation; access is easiest on weekdays.
+LEAD-00865,2026-02-11 02:18,Sofie Hansen,sofie.hansen@example.dk,+45 20 56 74 10,Flooring,25000,Hellerup,Instagram,Contacted,Mads Nielsen,23000,39.2,Would like an on-site assessment.
+LEAD-00083,2026-08-19 18:40,Ida Jensen,ida.jensen@example.dk,+45 38 66 77 36,Kitchen,224000,Østerbro,Google,Qualified,Jonas Berg,229500,47.8,Looking for an estimate before summer.

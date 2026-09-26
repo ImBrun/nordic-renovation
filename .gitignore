@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Frontend build output
+frontend/dist/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Supabase local state
+supabase/.temp/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
