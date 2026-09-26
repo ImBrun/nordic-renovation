@@ -16,6 +16,7 @@ __pycache__/
 
 # Supabase local state
 supabase/.temp/
+frontend/supabase/.temp/
 
 # OS / editor files
 .DS_Store

@@ -1,21 +1,13 @@
 import { useEffect, useState } from 'react'
 import { KpiCard } from './components/KpiCard'
 import { LeadForm } from './components/LeadForm'
+import { LeadAccordionTable } from './components/LeadAccordionTable'
+import { AllLeadsView } from './components/AllLeadsView'
 import { Login } from './components/Login'
 import { buildDashboardData, loadDashboard } from './lib/dashboard'
 import { useAuth } from './hooks/useAuth'
 import { supabase } from './lib/supabase'
-import type { DashboardData } from './types/dashboard'
-
-const dateFormatter = new Intl.DateTimeFormat('en-DK', {
-  dateStyle: 'medium',
-  timeZone: 'Europe/Copenhagen',
-})
-const currencyFormatter = new Intl.NumberFormat('da-DK', {
-  style: 'currency',
-  currency: 'DKK',
-  maximumFractionDigits: 0,
-})
+import type { DashboardData, Lead, LeadStatus } from './types/dashboard'
 
 type ViewState =
   | { status: 'loading' }
@@ -43,6 +35,8 @@ function Dashboard({ onLogout }: { onLogout: () => Promise<void> }) {
   const [viewState, setViewState] = useState<ViewState>({ status: 'loading' })
   const [filters, setFilters] = useState<Filters>({ status: '', source: '', projectType: '' })
   const [showLeadForm, setShowLeadForm] = useState(false)
+  const [expandedLeadId, setExpandedLeadId] = useState<string | null>(null)
+  const [showAllLeads, setShowAllLeads] = useState(false)
 
   const refresh = () => {
     setViewState({ status: 'loading' })
@@ -71,6 +65,10 @@ function Dashboard({ onLogout }: { onLogout: () => Promise<void> }) {
     sources: [...new Set(viewState.data.leads.map((lead) => lead.source))].sort(),
     projectTypes: [...new Set(viewState.data.leads.map((lead) => lead.project_type))].sort(),
   } : null
+
+  const updateLeadStatusInDashboard = (leadId: string, status: LeadStatus) => {
+    setViewState((current) => current.status !== 'ready' ? current : { ...current, data: { ...current.data, leads: current.data.leads.map((lead): Lead => lead.lead_id === leadId ? { ...lead, status } : lead) } })
+  }
 
   return (
     <main className="app-shell">
@@ -112,6 +110,7 @@ function Dashboard({ onLogout }: { onLogout: () => Promise<void> }) {
 
       {viewState.status === 'ready' && (
         <>
+          {showAllLeads ? <AllLeadsView onBack={() => setShowAllLeads(false)} onStatusUpdated={updateLeadStatusInDashboard} /> : <>
           {showLeadForm && <LeadForm onCreated={() => { setShowLeadForm(false); refresh() }} />}
           <section className="filters" aria-label="Filter leads">
             <span className="filter-label">Filter view</span>
@@ -129,34 +128,10 @@ function Dashboard({ onLogout }: { onLogout: () => Promise<void> }) {
             <Breakdown title="Leads by project type" items={filteredData?.breakdowns.byProjectType ?? []} />
           </section>
           <section className="empty-panel">
-            <p className="eyebrow">Latest activity</p>
-            <h2>Recent enquiries</h2>
-            {filteredData?.leads.length === 0 ? (
-              <p>No leads found in the public leads table yet.</p>
-            ) : (
-              <div className="table-wrap">
-                <table>
-                  <thead>
-                    <tr>
-                      <th>Customer</th><th>Project</th><th>Budget</th><th>Source</th><th>Status</th><th>Created</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {filteredData?.leads.slice(0, 10).map((lead) => (
-                      <tr key={lead.lead_id}>
-                        <td className="customer-cell">{lead.customer_name}</td>
-                        <td>{lead.project_type}</td>
-                        <td>{currencyFormatter.format(lead.budget_dkk)}</td>
-                        <td>{lead.source}</td>
-                        <td><span className={`status status-${lead.status.toLowerCase()}`}>{lead.status}</span></td>
-                        <td>{dateFormatter.format(new Date(lead.created_at))}</td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
-            )}
+            <div className="recent-leads-heading"><div><p className="eyebrow">Latest activity</p><h2>Recent enquiries</h2><p className="muted">Showing up to 10 most recent matching leads.</p></div><button className="secondary-button" type="button" onClick={() => setShowAllLeads(true)}>View all leads</button></div>
+            <LeadAccordionTable leads={filteredData?.leads.slice(0, 10) ?? []} expandedLeadId={expandedLeadId} onToggle={(id) => setExpandedLeadId((current) => current === id ? null : id)} onStatusUpdated={updateLeadStatusInDashboard} emptyMessage="No leads found in the public leads table yet." />
           </section>
+          </>}
         </>
       )}
     </main>
