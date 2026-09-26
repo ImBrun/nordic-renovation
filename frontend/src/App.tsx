@@ -1,7 +1,10 @@
 import { useEffect, useState } from 'react'
 import { KpiCard } from './components/KpiCard'
 import { LeadForm } from './components/LeadForm'
+import { Login } from './components/Login'
 import { buildDashboardData, loadDashboard } from './lib/dashboard'
+import { useAuth } from './hooks/useAuth'
+import { supabase } from './lib/supabase'
 import type { DashboardData } from './types/dashboard'
 
 const dateFormatter = new Intl.DateTimeFormat('en-DK', {
@@ -36,7 +39,7 @@ function Breakdown({ title, items }: { title: string; items: { label: string; co
   )
 }
 
-function App() {
+function Dashboard({ onLogout }: { onLogout: () => Promise<void> }) {
   const [viewState, setViewState] = useState<ViewState>({ status: 'loading' })
   const [filters, setFilters] = useState<Filters>({ status: '', source: '', projectType: '' })
   const [showLeadForm, setShowLeadForm] = useState(false)
@@ -89,6 +92,7 @@ function App() {
           <p className="subtitle">A clear view of incoming renovation enquiries and the potential pipeline.</p>
         </div>
         <div className="heading-actions"><button className="secondary-button" type="button" onClick={() => setShowLeadForm((visible) => !visible)}>{showLeadForm ? 'Close form' : 'New enquiry'}</button><button className="refresh-button" type="button" onClick={refresh}>Refresh data</button></div>
+        <button className="logout-button" type="button" onClick={onLogout}>Sign out</button>
       </section>
 
       {viewState.status === 'loading' && (
@@ -157,6 +161,26 @@ function App() {
       )}
     </main>
   )
+}
+
+function App() {
+  const { session, loading } = useAuth()
+
+  if (loading) {
+    return <main className="app-shell auth-shell"><div className="kpi-card skeleton auth-loading" /></main>
+  }
+
+  if (!session) {
+    return (
+      <main className="app-shell auth-shell">
+        <header className="topbar"><a className="brand" href="/" aria-label="Nordic Renovation home"><span className="brand-mark">NR</span><span><strong>Nordic Renovation</strong><small>Lead Management</small></span></a><span className="demo-badge">Demo data</span></header>
+        <Login />
+        <section className="public-form-shell"><p className="eyebrow">Public enquiry</p><h2>Request a renovation estimate</h2><p className="subtitle">Send an enquiry without signing in. The business team can review it from the dashboard.</p><LeadForm onCreated={() => undefined} /></section>
+      </main>
+    )
+  }
+
+  return <Dashboard onLogout={async () => { await supabase.auth.signOut() }} />
 }
 
 export default App
